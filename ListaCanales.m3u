@@ -1,0 +1,2144 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Brasil",AXN BR HD
+http://23.237.160.86:7283/AXN-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Tf8B5p0ydAHtmN7iKJCyb2ftCRD
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BAND NEWS HD
+http://23.237.160.86:7283/BAND-NEWS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TST1BwitM949PaNZtNsYA5uvmeo
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BAND SPORTS HD BR
+http://23.237.160.86:7283/BAND-SPORTS-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=KBxuRyHhdYmk0bHbAjpjGUIHeee
+#EXTINF:0 tvg-id="ext" group-title="Brasil",BOOMERANG BR HD
+http://23.237.160.86:7283/BOOMERANG-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=B58pBavacdeQhlJCsFMj2RrJfHK
+#EXTINF:0 tvg-id="ext" group-title="Brasil",CARTOON NETWORK BR HD
+http://23.237.160.86:7283/CARTOON-NETWORK-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5FbIJFRI26ZU0K61y9w9NyhftZQ
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Brasil",ESPN BRASIL
+http://23.237.160.86:7283/ESPN-BRASIL/index.m3u8?un=magistv2021t&tm=1620583482&sn=OMvJlWFjHhl7eel1KNe4nRIx3MS
+#EXTINF:0 tvg-id="ext" group-title="Brasil",ESPN EXTRA BRASIL HD
+http://23.237.160.86:7283/ESPN-XTRA-BRASIL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=83Gjkii5fwYNLnoKsDqBUhLhNox
+#EXTINF:0 tvg-id="Globosp.br" group-title="Brasil",Globo SP HD
+http://23.237.160.86:7283/HY-771/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZgkmeqjXHjWl5uT1vpl026AuSk7
+#EXTINF:0 tvg-id="Globosp.br" group-title="Brasil",Globo SP HD+
+http://23.237.160.86:7283/GLOBO-SP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YViadB3anq4skObIyNFGo5Y5dqu
+#EXTINF:0 tvg-id="ext" group-title="Brasil",HBO2 BR HD
+http://23.237.160.86:7283/HBO2-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WU640eRGLYaFX8utlbqun7XaZFb
+#EXTINF:0 tvg-id="ext" group-title="Brasil",MEGAPIX BR HD
+http://23.237.160.86:7283/MEGAPIX-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FreelMxkhDeBhRVrIQzZLgo6hVA
+#EXTINF:0 tvg-id="ext" group-title="Brasil",NATGEO WILD BR HD
+http://23.237.160.86:7283/NATGEO-WILD-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CmcBp7EnrDt9bPecHwAh51iXM7W
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PARAMOUNT BR HD
+http://23.237.160.86:7283/PARAMOUNT-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=D34mZiy0j0XZDRdElBW0xTfOprH
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 1 HD BR
+http://23.237.160.86:7283/PREMIERE-1-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=fhTdO2DTD1tbgyChIEfvkA4FSu
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 2 HD BR
+http://23.237.160.86:7283/PREMIERE-2-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=DV9HQ5BYjmGSCzHqQKkYS7w8xMz
+#EXTINF:0 tvg-id="ext" group-title="Brasil",PREMIERE 3 HD BR
+http://23.237.160.86:7283/PREMIERE-3-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=H0vFcTOiHurcryBuStJHR5ALYf9
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SBT HD BR
+http://23.237.160.86:7283/SBT-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=EtNF3c0SJaOgwU2YpmrylztnEBO
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 1 HD BR
+http://23.237.160.86:7283/SPORTV-1-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=A6VepMsfYVJM9K9giCCAS9VGpqP
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 2 HD BR
+http://23.237.160.86:7283/SPORTV-2-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=1y0Hx2HfJjJICwn4hCfytIB0863
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SPORTV 3 HD BR
+http://23.237.160.86:7283/SPORTV-3-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=OPoRgQvt4LzTr9JZ4Ia6llt9h76
+#EXTINF:0 tvg-id="ext" group-title="Brasil",SYFY BR HD
+http://23.237.160.86:7283/SYFY-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KcZ4L5YNgXCqx6j7BqG2WrE3x1P
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE ACTION BR HD
+http://23.237.160.86:7283/TELECINE-ACTION-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YvTypdf7sT67EoMbtTvpaKt0XK8
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE CULT BR HD
+http://23.237.160.86:7283/TELECINE-CULT-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JIrFSVywxCVZ8bKLZfAqsWXvpY1
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE FUN BR HD
+http://23.237.160.86:7283/TELECINE-FUN-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LR6OMmjiAXeLGLvbMTGvSvLucZx
+#EXTINF:0 tvg-id="ext" group-title="Brasil",TELECINE PIPOCA BR HD
+http://23.237.160.86:7283/TELECINE-PIPOCA-BR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SGRdyQe7d0TBhFIYYUkEMV3goLg
+
+#EXTINF:0 tvg-id="ext" group-title="España",#VAMOS HD
+http://23.237.160.86:7283/VAMOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6KYu74LAo0J3yc36jsjSkzqzTpO
+#EXTINF:0 tvg-id="24HorasHD.cl" group-title="España",24 HORAS HD
+http://23.237.160.86:7283/24-HORAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Hmra752Kzeiy92NCee8cGbSDSG3
+#EXTINF:0 tvg-id="ext" group-title="España",A3S Series HD
+http://23.237.160.86:7283/HY-643/index.m3u8?un=magistv2021t&tm=1620583482&sn=AYuRHZ4lvJr18eSF1Yv0NIcFbG3
+#EXTINF:0 tvg-id="Antena3.es" group-title="España",ANTENA 3 HD
+http://23.237.160.86:7283/ANTENA-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EQOqTUDQst2ZrxrvZ6z0yZIrLfh
+#EXTINF:0 tvg-id="ext" group-title="España",ANTENA 3 INTERNACIONAL HD
+http://23.237.160.86:7283/ANTENA-3-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IkUPytWyD1m1nKiisL9MSwxFghd
+#EXTINF:0 tvg-id="ext" group-title="España",AXN ESPAÑA HD
+http://23.237.160.86:7283/AXN-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=60xDDq0DAoQGS7xraWKsy590zBX
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="España",AXN WHITE HD
+http://23.237.160.86:7283/AXN-WHITE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LPqOFKYrDQqXtG7ICX5oV9UZS2C
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="España",BEIN SPORT LA LIGA FHD
+http://23.237.160.86:7283/BEIN-SPORT-LALIGA-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YU2iRs7sSTjEnxOKk7jtH7U9gGp
+#EXTINF:0 tvg-id="ext" group-title="España",BeMad HD
+http://23.237.160.86:7283/BeMad-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ARtDGCSk7Yyz2zs9zubExNK4SnL
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="España",BLAZE HD
+http://23.237.160.86:7283/BLAZE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LAeBsdBOD8GZ5m759lvsVSknA5S
+#EXTINF:0 tvg-id="ext" group-title="España",BOING TV HD
+http://23.237.160.86:7283/BOING-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QlKVf2jg4FYfVpqmGjK8J1o0jTR
+#EXTINF:0 tvg-id="Calle13.es" group-title="España",CALLE 13 HD
+http://23.237.160.86:7283/CALLE-13-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=97WuQmww4kBXF2uyESd1DQ3lhtx
+#EXTINF:0 tvg-id="ext" group-title="España",Canal Caza & Pezca HD
+http://23.237.160.86:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5i0hx4qvE3xAtkRJpuxEmC2cNJy
+#EXTINF:0 tvg-id="ext" group-title="España",CANAL GOL HD
+http://23.237.160.86:7283/CANAL-GOL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KrN5Hs5wb9HevIAzS8TEzhEjD0P
+#EXTINF:0 tvg-id="ext" group-title="España",CLAN TVE HD
+http://23.237.160.86:7283/CLAN-TVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Vvwf5Jt4iEvhm06SPSrhLeTIiK4
+#EXTINF:0 tvg-id="ext" group-title="España",CRIMEN INVESTIGACION HD
+http://23.237.160.86:7283/CRIMEN-INVESTIGACION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RSE8MTzuvciPCrrtiZtOEDJ31WH
+#EXTINF:0 tvg-id="Cuatro.es" group-title="España",Cuatro HD
+http://23.237.160.86:7283/Cuatro-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OB2TsztMJB1kaeFzmFjDoYOcg6w
+#EXTINF:0 tvg-id="ext" group-title="España",DISCOVERY CHANNEL ESPAÑA HD
+http://23.237.160.86:7283/DISCOVERY-CHANNEL-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=K6znrFAKrvU9m6G0IcUqwZ51Vf3
+#EXTINF:0 tvg-id="ext" group-title="España",Discovery Max HD
+http://23.237.160.86:7283/Discovery-Max-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3HRG1oNUGhl0oSbvLjiH8nBJMUq
+#EXTINF:0 tvg-id="ext" group-title="España",Divinity HD
+http://23.237.160.86:7283/Divinity-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CDuA5YEqdLuKhnFrUgkqehJcQae
+#EXTINF:0 tvg-id="ext" group-title="España",Energy HD
+http://23.237.160.86:7283/Energy-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3IlLenPjJH44vBbWsEkzAzhU13i
+#EXTINF:0 tvg-id="esp-hd" group-title="España",Eurosport 1 HD
+http://23.237.160.86:7283/Eurosport-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RW6KQzcw9afeY0wenbQXCnACHBj
+#EXTINF:0 tvg-id="esp2-hd" group-title="España",Eurosport 2 HD
+http://23.237.160.86:7283/Eurosport-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RTp7vFhVmub6W5h54VnoOn9t8Mu
+#EXTINF:0 tvg-id="ext" group-title="España",FDF ESPAÑA HD
+http://23.237.160.86:7283/FDF-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BSR6KRnl2Rpf259YfC5tZaWKRPl
+#EXTINF:0 tvg-id="ext" group-title="España",FOX ESP HD
+http://23.237.160.86:7283/FOX-ESP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4D7O1D9cZ6iyvcMeWQ2x6ADJjsk
+#EXTINF:0 tvg-id="hollywood-hd" group-title="España",HOLLYWOOD HD
+http://23.237.160.86:7283/HOLLYWOOD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L4OFyiBvwBRMCAU2QLWoznW2HLD
+#EXTINF:0 tvg-id="LA1.es" group-title="España",LA 1 HD
+http://23.237.160.86:7283/LA1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XbpoJMw6lmNmRFcXVwVRyRgGRcR
+#EXTINF:0 tvg-id="ext" group-title="España",LA 2 HD
+http://23.237.160.86:7283/LA2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GIn7PngEn1kyIIlhWffHp2Wqjij
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="España",LA SEXTA HD
+http://23.237.160.86:7283/LA-SEXTA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KN65Q2L4BhTIsjnqhgsJKYnsD3j
+#EXTINF:0 tvg-id="ext" group-title="España",Mega ESP HD
+http://23.237.160.86:7283/MEGA-ESP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1YDyLDXg7jW3NaBbvfcS9Rcjewc
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="España",MOVISTAR ACCION HD
+http://23.237.160.86:7283/MOVISTAR-ACCION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JglVogcSJ4LC9wB5KnbNE63d4OQ
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="España",MOVISTAR COMEDIA HD
+http://23.237.160.86:7283/MOVISTAR-COMEDIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Z4CYwKQfj6BE36f5PkXOJIetORQ
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR DEPORTES SPAIN HD
+http://23.237.160.86:7283/MOVISTAR-DEPORTES-SPAIN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HAofIKAruKTGoRNHFtowI8TzoH9
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR DRAMA HD
+http://23.237.160.86:7283/MOVISTAR-DRAMA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OVVAODz0FVHxxOOqBLZiWavN5Lo
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="España",MOVISTAR ESTRENOS HD
+http://23.237.160.86:7283/MOVISTAR-ESTRENOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=U2s9jl94TqNY5MGzp1rGDEmVV6D
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="España",MOVISTAR F1 HD
+http://23.237.160.86:7283/MOVISTAR-FORMULA-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CKXiFDcM1SvydTnZ8iDuFGQycEF
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="España",MOVISTAR SERIES HD
+http://23.237.160.86:7283/MOVISTAR-SERIES-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6HthffX7hYCjTWRFH0AGUymTQJb
+#EXTINF:0 tvg-id="ext" group-title="España",MOVISTAR SERIESMANIA HD
+http://23.237.160.86:7283/MOVISTAR-SERIESMANIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=N0CSu22rBRqDNA92OqDFyULj0mX
+#EXTINF:0 tvg-id="ext" group-title="España",NAT GEO ESPAÑA HD
+http://23.237.160.86:7283/NAT-GEO-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WkjeZDcmFdrI156Erl9xgXbk2fb
+#EXTINF:0 tvg-id="ext" group-title="España",NAT GEO WILD ESPAÑA HD
+http://23.237.160.86:7283/NAT-GEO-WILD-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YR3G6Oai3D1NixPm2pr67Gj13gn
+#EXTINF:0 tvg-id="Neox.es" group-title="España",NEOX HD
+http://23.237.160.86:7283/NEOX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=P2uJtbMZF8tqFouGrlxO2GVB7tO
+#EXTINF:0 tvg-id="NovaTV.cz" group-title="España",NOVA HD
+http://23.237.160.86:7283/NOVA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MfGcpjgA90hlJIX5KRb7mnErlHw
+#EXTINF:0 tvg-id="Odisea.es" group-title="España",ODISEA HD
+http://23.237.160.86:7283/DARK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=X8sCD1adHdrjJDtCFVeQHGFlu48
+#EXTINF:0 tvg-id="Telecinco.es" group-title="España",TELECINCO HD
+http://23.237.160.86:7283/TELECINCO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4f2VkfwSyZBbKuAa9XMwKP1NJ35
+#EXTINF:0 tvg-id="ext" group-title="España",TELEMADRID HD
+http://23.237.160.86:7283/TELEMADRID-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6SfNPUyfpm5Rq5kC5b0VXS7DFfb
+#EXTINF:0 tvg-id="ext" group-title="España",TVE INTERNACIONAL HD
+http://23.237.160.86:7283/TVE-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OnfkhEKfk0ATfHACKYNTAPMi9Pe
+#EXTINF:0 tvg-id="Viajar.sp" group-title="España",Viajar HD
+http://23.237.160.86:7283/VIAJAR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TZdUfMKjYMS58AT9wx2qeN0ir30
+#EXTINF:0 tvg-id="ext" group-title="España",XTRM ESPAÑA HD
+http://23.237.160.86:7283/XTRM-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YpoALRMaNRgbTXIeIVA9Qn9iVfg
+
+#EXTINF:0 tvg-id="Mega.cl" group-title="Puerto Rico",MEGA TV HD
+http://23.237.160.86:7283/MEGA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Dtv0hdEcJakqxuLYP2etAK8F5g3
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",PUNTO 2 PR HD
+http://23.237.160.86:7283/PUNTO-2-PR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UohH9wO1FCNuP88hvZajg7OuHVa
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",TELEMUNDO PR HD
+http://23.237.160.86:7283/TELEMUNDO-PR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=38GD0drp6o9cCOquE6Tdc0f22nA
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",UNIVISION PR HD
+http://23.237.160.86:7283/UNIVISION-PR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EJMZaVxs1EdUkXd9tfdVJXan1JB
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",WAPA 2 PR HD
+http://23.237.160.86:7283/WAPA-2-PR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZHH8vliwFH7nnqieCLRsxlLSxJL
+#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",WAPA PR HD
+http://23.237.160.86:7283/WAPA-PR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2CxMcNh0mGz4zZ6KOKtnDfrBOM1
+
+#EXTINF:0 tvg-id="AMC.uk" group-title="Full HD",AMC FHD
+http://23.237.160.86:7283/AMC-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZFPCbLRRyvFAu24wmGu1sPEbXyi
+#EXTINF:0 tvg-id="animal-hd" group-title="Full HD",ANIMAL PLANET FHD
+http://23.237.160.86:7283/ANIMAL-PLANET-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ihs4qR07UeO1uj4jrFA7Bbnwidr
+#EXTINF:0 tvg-id="AzClicHD.cl" group-title="Full HD",AZ CINEMA FHD
+http://23.237.160.86:7283/AZ-CINEMA-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5MJFBx2kHA7C55DirdKo3v25HmW
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Full HD",CARACOL FHD
+http://23.237.160.86:7283/CARACOL-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1Hrp51lZiwI6kXnEAGEShdxnPcL
+#EXTINF:0 tvg-id="ext" group-title="Full HD",CARACOL INTERNACIONAL FHD
+http://23.237.160.86:7283/CARACOL-INTERNACIONAL-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ufg2sEuiAJbePipc9kxN57h3pyn
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Full HD",CINEMAX FHD
+http://23.237.160.86:7283/CINEMAX-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EKEmClL1Yd89jtBIagY1w2Ai8At
+#EXTINF:0 tvg-id="ext" group-title="Full HD",COMBATE BR 4K
+http://23.237.160.86:7283/COMBATE-BR-4K/index.m3u8?un=magistv2021t&tm=1620583482&sn=UPcDZv49KDRIBGPmIpNMA36p5SF
+#EXTINF:0 tvg-id="ext" group-title="Full HD",DE PELICULA PLUS FHD
+http://23.237.160.86:7283/DE-PELICULA-PLUS-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GuLfyzzkFiDsGOp5lANPrTaHRRR
+#EXTINF:0 tvg-id="ext" group-title="Full HD",DHE FHD
+http://23.237.160.86:7283/DHE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=30XPul4Ytuo3g0AHHN001sqUMi6
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Directv Sports 2 FHD
+http://23.237.160.86:7283/HY-704/index.m3u8?un=magistv2021t&tm=1620583482&sn=4fxbBuqylkvQRcba3d8bRrqUY12
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Directv Sports FHD
+http://23.237.160.86:7283/HY-706/index.m3u8?un=magistv2021t&tm=1620583482&sn=8hqezZoIUuu6wH5gqfucY84BQqG
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Discovery H&H Central FHD
+http://23.237.160.86:7283/DISCOVERY-H-H-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=F4Eo6sRCxQIhDTZ27WZMv0TerAS
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Full HD",DISCOVERY THEATER FHD
+http://23.237.160.86:7283/DISCOVERY-THEATER-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NfI38OFh4qW14NfbJQ8qTRnhzr
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Full HD",DISCOVERY TURBO FHD
+http://23.237.160.86:7283/DISCOVERY-TURBO-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T5HiAeg4rybakNVM9aCA2xRLRiH
+#EXTINF:0 tvg-id="ext" group-title="Full HD",FXM FHD
+http://23.237.160.86:7283/FXM-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T5u5Lrz69v75fBGycRWITQAMS4H
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOLDEN PLUS MX FHD
+http://23.237.160.86:7283/GOLDEN-PLUS-MX-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Arlz1qnwVxPIUGlVd0A2jug1FEs
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOLDEN PREMIER FHD
+http://23.237.160.86:7283/GOLDEN-PREMIER-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=C6qJxvtFtbIWKLaH2Z9cgj2Ih54
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GOURMET FHD
+http://23.237.160.86:7283/GOURMET-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=zSowyrroaUYMd47eDMVUiby8xg
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Full HD",HBO FAMILY FHD
+http://23.237.160.86:7283/HBO-FAMILY-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OBBX9qY1RL5wZUGvBUxOsBbzxhz
+#EXTINF:0 tvg-id="ext" group-title="Full HD",MOVISTAR LA LIGA FHD
+http://23.237.160.86:7283/MOVISTAR-LA-LIGA-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OK2IsoZr0xKBHxMePXYr9zF2ckk
+#EXTINF:0 tvg-id="ext" group-title="Full HD",STAR HITS HD+
+http://23.237.160.86:7283/FOX-MOVIES-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SZ1zwxKuT5gbFsjV5VnAjYk7QW0
+#EXTINF:0 tvg-id="ext" group-title="Full HD",STAR SERIES FHD
+http://23.237.160.86:7283/FOX-SERIES-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UXZCKVaQbq1aJSQVaNCg96CfWem
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Full HD",Starz East FHD
+http://23.237.160.86:7283/Starz-East-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Dsvj70eyzm5OIlikcCtWgybBcwB
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Full HD",Starz EDGE FHD
+http://23.237.160.86:7283/Starz-EDGE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KEDhhmBgkg6XNmo6KUFcqeu8INn
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Black FHD
+http://23.237.160.86:7283/STARZ-ENCORE-BLACK-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=64LtTX2p4HgYq6ApZwCDlpmOeUa
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Comedy FHD
+http://23.237.160.86:7283/STARZ-ENCORE-COMEDY-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VjAIUDfFbeKKzTdse1NNk0fz0na
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Family FHD
+http://23.237.160.86:7283/Starz-Encore-Family-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FWkLORFpAVHrOvHB3a6Mzjdv7cA
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="Full HD",Starz Encore FHD
+http://23.237.160.86:7283/Starz-Encore-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XEMnS2merAPqAOzxXIplP0diJGG
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore Kids&Family FHD
+http://23.237.160.86:7283/Starz-Encore-Kids-Family-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HyV6I9lGFFC5RmJlRJgXxFQgiRd
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Encore SUSPENSE FHD
+http://23.237.160.86:7283/Starz-Encore-SUSPENSE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZW8O7ZdzFso6K8uIB5ufvXCUdii
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Full HD",Starz FHD
+http://23.237.160.86:7283/Starz-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WOHjvUeNMTWIm6JmNpF47Npeep2
+#EXTINF:0 tvg-id="ext" group-title="Full HD",Starz Western FHD
+http://23.237.160.86:7283/Starz-Western-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WvGJhrK0bN5mnwktSSlfZPZFYp3
+#EXTINF:0 tvg-id="ext" group-title="Full HD",TNT USA 2 FHD
+http://23.237.160.86:7283/TNT-USA-2-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8vn5OEjfN4TJ38y0ViHGD3VE8xs
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Full HD",TOROS TV FHD
+http://23.237.160.86:7283/TOROS-TV-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1X7jvPGIj3YLEq8g3GnYvsM1KQy
+
+#EXTINF:0 tvg-id="A24.ar" group-title="Argentina",a24
+http://23.237.160.86:7283/HY-642/index.m3u8?un=magistv2021t&tm=1620583482&sn=GJ2Qd0diWYPvmfTCkzsgh6J4QPU
+#EXTINF:0 tvg-id="ext" group-title="Argentina",América TV HD Arg
+http://23.237.160.86:7283/HY-648/index.m3u8?un=magistv2021t&tm=1620583482&sn=Rkjn78aJIeIQ8ddNh74ZIOItJW5
+#EXTINF:0 tvg-id="C5N.ar" group-title="Argentina",C5N HD
+http://23.237.160.86:7283/C5N-HD-AR/index.m3u8?un=magistv2021t&tm=1620583482&sn=3vhoNFtAsUPisxyMOVaklvNvwyA
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Canal 13 Argentina HD
+http://23.237.160.86:7283/HY-667/index.m3u8?un=magistv2021t&tm=1620583482&sn=OhPCMs0jXKtv56kYzTnRWO68hP
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Canal 13 Argentina HD+
+http://23.237.160.86:7283/CANAL-13-ARGENTINA-HD2/index.m3u8?un=magistv2021t&tm=1620583482&sn=8xtaOba5dXKJziH4uJkNylgieUm
+#EXTINF:0 tvg-id="ext" group-title="Argentina",CANAL 26 NOTICIAS HD
+http://23.237.160.86:7283/CANAL-26-NOTICIAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MUBfSCGHUjk7oKCcysvGbVkaFL
+#EXTINF:0 tvg-id="ext" group-title="Argentina",CINE AR HD
+http://23.237.160.86:7283/CINE-AR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Jf1stDIcXbLdZGMKzIfhoFvFbSA
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Crónica HD
+http://23.237.160.86:7283/CRONICA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JSCNDoEyMGVVznxsmLDWDusHuQN
+#EXTINF:0 tvg-id="ext" group-title="Argentina",DEPORTV HD
+http://23.237.160.86:7283/DEPORTV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q19eObJ2A6Oq7kH6zNrcWky7fth
+#EXTINF:0 tvg-id="Canal9.ar" group-title="Argentina",El Nueve
+http://23.237.160.86:7283/HY-723/index.m3u8?un=magistv2021t&tm=1620583482&sn=7Um6SGVuN8vEPB8M3hG6ZTootJk
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ESPN 1 Arg HD
+http://23.237.160.86:7283/ESPN1-arg-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SJgNuojkNz6cMc1GqczEPc1NGj9
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ESPN 1 Sur HD
+http://23.237.160.86:7283/ESPN1-Sur-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TDasbjUWq0nCkMBNaj9TYEf5LED
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ESPN LIVE
+http://23.237.160.86:7283/espn-arg/index.m3u8?un=magistv2021t&tm=1620583482&sn=9uKXjQrnQCKuuG6LIdf3XaNV3d
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Fox Sports Premium Arg HD
+http://23.237.160.86:7283/HY-25351/index.m3u8?un=magistv2021t&tm=1620583482&sn=Top3I9qaD8QTJ5FTniSjRssS0f
+#EXTINF:0 tvg-id="ext" group-title="Argentina",Fox Sports Premium Arg HD+
+http://23.237.160.86:7283/HY-765/index.m3u8?un=magistv2021t&tm=1620583482&sn=HrGZWolxVFOdN1tWYxit7mBUIl
+#EXTINF:0 tvg-id="ext" group-title="Argentina",GARAGE TV HD
+http://23.237.160.86:7283/GARAGE-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CSE1PSlXwGxiJYhJneQWexgnrtD
+#EXTINF:0 tvg-id="TelefeHD.ar" group-title="Argentina",Telefe HD
+http://23.237.160.86:7283/HY-848/index.m3u8?un=magistv2021t&tm=1620583482&sn=W03KxcGOWe38RlX2Z6lgZnM02on
+#EXTINF:0 tvg-id="ext" group-title="Argentina",telefe santa fe
+http://23.237.160.86:7283/telefe-santa-fe/index.m3u8?un=magistv2021t&tm=1620583482&sn=UZ4RN7pIyXgEAno5hZzZy3IW19W
+#EXTINF:0 tvg-id="TNHD.ar" group-title="Argentina",TN HD
+http://23.237.160.86:7283/HY-1330/index.m3u8?un=magistv2021t&tm=1620583482&sn=SdA3kdzWRtPLsNSdrjrC8HcsdCc
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TNT Sports Arg HD
+http://23.237.160.86:7283/HY-1333/index.m3u8?un=magistv2021t&tm=1620583482&sn=KU46I8BKOJ1w27FiwTaPPFOibmZ
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TNT Sports Arg HD+
+http://23.237.160.86:7283/HY-1334/index.m3u8?un=magistv2021t&tm=1620583482&sn=NVhXGy6L8aCL3V9zGXIao58T1uM
+#EXTINF:0 tvg-id="TVPublicaHD.ar" group-title="Argentina",TV PÚBLICA HD
+http://23.237.160.86:7283/TV-PUBLICA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XJyYQiQ0iTMLftGqmLLcrWMoNHL
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Argentina",TyC Sports HD
+http://23.237.160.86:7283/HY-1343/index.m3u8?un=magistv2021t&tm=1620583482&sn=Kr6l0AIGvsyUzBgkxsml8YsKW1p
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TYC SPORTS INT. 2 HD
+http://23.237.160.86:7283/TYC-SPORTS-INT-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=50WtwyHDneuvFC00GsidYnLp66j
+#EXTINF:0 tvg-id="ext" group-title="Argentina",TYC SPORTS INTERNACIONAL HD
+http://23.237.160.86:7283/TYC-SPORTS-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NAgOTftMVBzHf91RrVLyT8WiQ8w
+
+#EXTINF:0 tvg-id="ext" group-title="Perú",America TV HD Peru
+http://23.237.160.86:7283/HY-649/index.m3u8?un=magistv2021t&tm=1620583482&sn=RytJeTPwZp4t6ai69FxYQilup0r
+#EXTINF:0 tvg-id="ATV.am" group-title="Perú",ATV
+http://23.237.160.86:7283/HY-653/index.m3u8?un=magistv2021t&tm=1620583482&sn=NIbB6rL1SEDZ1G2Q41GRPx8gZzc
+#EXTINF:0 tvg-id="ext" group-title="Perú",CANAL N HD
+http://23.237.160.86:7283/CANAL-N-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GAtx9a6J8nxlJB69zdyZpBrpKZE
+#EXTINF:0 tvg-id="ext" group-title="Perú",CAPITAL FHD
+http://23.237.160.86:7283/CAPITAL-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MBRRreGUZ4v3ZDZJqceu4xIKRaB
+#EXTINF:0 tvg-id="ext" group-title="Perú",DIRECTV PERU HD
+http://23.237.160.86:7283/DIRECTV-PERU-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TXZpy9dkKFaNtEXaDdf3HlOdyK2
+#EXTINF:0 tvg-id="ext" group-title="Perú",Gol Peru 2 HD
+http://23.237.160.86:7283/GOL-PERU-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=V8nj1KKUxy93tElczJO7R8clXFF
+#EXTINF:0 tvg-id="ext" group-title="Perú",Gol Peru HD
+http://23.237.160.86:7283/HY-777/index.m3u8?un=magistv2021t&tm=1620583482&sn=YZEv9XHqPKbH3IIEYhrFh1xrZEM
+#EXTINF:0 tvg-id="ext" group-title="Perú",IPE HD
+http://23.237.160.86:7283/IPE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DodMudjRKw1CwXJO0rSiD1PZn3N
+#EXTINF:0 tvg-id="Latina.pe" group-title="Perú",Latina HD
+http://23.237.160.86:7283/HY-794/index.m3u8?un=magistv2021t&tm=1620583482&sn=IqMy1c7erp9c2u4ee5sN7RLnX5S
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Perú",Movistar Deportes HD
+http://23.237.160.86:7283/HY-801/index.m3u8?un=magistv2021t&tm=1620583482&sn=1OrWew67Vh4uBbkhY6Fv2bgq9C6
+#EXTINF:0 tvg-id="ext" group-title="Perú",MOVISTAR PLUS
+http://23.237.160.86:7283/MOVISTAR-PLUS/index.m3u8?un=magistv2021t&tm=1620583482&sn=HDwk2OHgHo2KlvEzSQD9AtxOcse
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Perú",PANAMERICANA HD
+http://23.237.160.86:7283/PANAMERICANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=AlCjRqJFxfANfnRo8CkEaIJ6Gyy
+#EXTINF:0 tvg-id="PeruMagico.us" group-title="Perú",PERU MAGICO
+http://23.237.160.86:7283/PERU-MAGICO/index.m3u8?un=magistv2021t&tm=1620583482&sn=YHUTL8OSvR1myq6bkmABFHISFQz
+#EXTINF:0 tvg-id="ext" group-title="Perú",RPP NOTICIAS TV HD
+http://23.237.160.86:7283/RPP-NOTICIAS-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q6G3ucNvHdLMvGLKNtygjJ4tdOw
+#EXTINF:0 tvg-id="ext" group-title="Perú",TV PERU HD
+http://23.237.160.86:7283/TV-PERU/index.m3u8?un=magistv2021t&tm=1620583482&sn=TPMNZNEpsnSM4BanzoogJGAfUPA
+#EXTINF:0 tvg-id="ext" group-title="Perú",WILLAX HD
+http://23.237.160.86:7283/WILLAX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6nNu715W4rqNXexD9p7WbzoSZ1G
+
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",Canal 10 UY HD
+http://23.237.160.86:7283/Canal-10-UY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PtnGoHRBQF67JbSOzOnIQmNkgYc
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",CANAL 4 UY HD
+http://23.237.160.86:7283/CANAL-4-HD-UY/index.m3u8?un=magistv2021t&tm=1620583482&sn=4t1wMiQrDCL7hTUubGuqZlEIJA4
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",LATINA TV PAYSANDU HD
+http://23.237.160.86:7283/LATINA-TV-PAYSANDU-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7L049MV5uHn4b9iAJR8Ij3PHJwI
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",Teledoce HD
+http://23.237.160.86:7283/TELEDOCE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Pc6mq5cfG7RMDOJhmXio9S0CsJ5
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",TELEVISION NACIONAL HD
+http://23.237.160.86:7283/TELEVISION-NACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=P4qHcvI3rGUf7CT2aS0bXe7eTBX
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",URUGUAY NATURAL HD
+http://23.237.160.86:7283/URUGUAY-NATURAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4mJvzjlWOrNmuAnu0KoLnLb7zGc
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV PLUS 2 HD
+http://23.237.160.86:7283/VTV-PLUS-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OIn1dWXD9LW31cdEpfMrt1PAnFE
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV PLUS HD
+http://23.237.160.86:7283/VTV-PLUS/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ow0EyEyVP88JiYLA82Dfd6cm4UF
+#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV Uruguay HD
+http://23.237.160.86:7283/HY-1353/index.m3u8?un=magistv2021t&tm=1620583482&sn=5jP3uKmKJHgC9DAVoDujfNpkiD9
+
+#EXTINF:0 tvg-id="ext" group-title="Religioso",3ABN LATINO HD
+http://23.237.160.86:7283/3ABN-LATINO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6stDf3NufyWZE5xf2qQoUwNrvWm
+#EXTINF:0 tvg-id="ext" group-title="Religioso",ALIENTO VISION HD
+http://23.237.160.86:7283/ALIENTO-VISION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7mottk4Ot0wIxTXUCcdWzfL0nNC
+#EXTINF:0 tvg-id="ext" group-title="Religioso",ENLACE HD
+http://23.237.160.86:7283/ENLACE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NWVNtSHEQ8E1eP9VlX5KyR8f1PQ
+#EXTINF:0 tvg-id="ext" group-title="Religioso",EWTN HD
+http://23.237.160.86:7283/EWTN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NO7OWAscTUOwL0SBHHwHS3WGdMg
+#EXTINF:0 tvg-id="ext" group-title="Religioso",JRES TV HD
+http://23.237.160.86:7283/JRES-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6uLC0zgLMavfYFrClOAZAxI4z4I
+#EXTINF:0 tvg-id="ext" group-title="Religioso",LA VOZ DE MARIA HD
+http://23.237.160.86:7283/LA-VOZ-DE-MARIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=D3Q94Fcb0DKc6FiXaEQD3bbhUxB
+#EXTINF:0 tvg-id="ext" group-title="Religioso",MISION VIDA TV HD
+http://23.237.160.86:7283/MISION-VIDA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TAWfzweFfPzbreRBG4ECZBf5g0y
+#EXTINF:0 tvg-id="ext" group-title="Religioso",MOVIES  CRISTIANAS HD
+http://23.237.160.86:7283/MOVIES-CRISTIANAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8iIdhJ6ysM3ar97t3n0otA3GBHr
+#EXTINF:0 tvg-id="ext" group-title="Religioso",TELEBENDICION HD
+http://23.237.160.86:7283/TELEBENDICION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RJMck693Gtm0g2gh5mA7azYE7Yr
+
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 13 Cable HD
+http://23.237.160.86:7283/Canal-13-Cable-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=aGU9jJDdhn0vXazr28oACn7yViH
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 13 Chile HD
+http://23.237.160.86:7283/HY-668/index.m3u8?un=magistv2021t&tm=1620583482&sn=WCj99ylev1O3sRtYW8bTu8ri1ik
+#EXTINF:0 tvg-id="ext" group-title="Chile",Canal 24 Horas HD
+http://23.237.160.86:7283/HY-670/index.m3u8?un=magistv2021t&tm=1620583482&sn=eNWxp0XDTHLureUrRBVUY6abOv
+#EXTINF:0 tvg-id="ext" group-title="Chile",CDO BASICO HD
+http://23.237.160.86:7283/CDO-BASICO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=I6ak7WzBeRy0Li4DZZiQ69bhD1d
+#EXTINF:0 tvg-id="ext" group-title="Chile",CDO PREMIUM HD
+http://23.237.160.86:7283/CDO-PREMIUM-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QUOqC5JUxuwgQOHtDAuDCWloWtu
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Chile",ChileVision HD
+http://23.237.160.86:7283/HY-694/index.m3u8?un=magistv2021t&tm=1620583482&sn=XXh9It1fOJmdxHOrEPfWXuQ4Azf
+#EXTINF:0 tvg-id="ext" group-title="Chile",CNN Chile HD
+http://23.237.160.86:7283/HY-698/index.m3u8?un=magistv2021t&tm=1620583482&sn=CUVSwunxo4zi8mYrE7q1zmPWkph
+#EXTINF:0 tvg-id="ext" group-title="Chile",ESPN 2 CHILE HD
+http://23.237.160.86:7283/ESPN2-CHILE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PYpZVF13wj1rBzgJB3Z8M4Y0tFI
+#EXTINF:0 tvg-id="ext" group-title="Chile",Fox Sports 1 Chile HD
+http://23.237.160.86:7283/HY-754/index.m3u8?un=magistv2021t&tm=1620583482&sn=TxH806zvVhRYgraSP9kFQZcmIqw
+#EXTINF:0 tvg-id="ext" group-title="Chile",Fox sports premium ch HD
+http://23.237.160.86:7283/Foxsport-premium-ch-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Sx18dT7XSoITNaJ4M43k6Q2BG38
+#EXTINF:0 tvg-id="Lared.cl" group-title="Chile",La Red HD
+http://23.237.160.86:7283/HY-792/index.m3u8?un=magistv2021t&tm=1620583482&sn=3a9mDzrjsKptmlESi1ipmxP3nRT
+#EXTINF:0 tvg-id="stb" group-title="Chile",Mega HD
+http://23.237.160.86:7283/MEGA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TuzXMRdGPFU2pSJCX8b2xykIwap
+#EXTINF:0 tvg-id="ext" group-title="Chile",REC TV 13 HD
+http://23.237.160.86:7283/REC-TV-13-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7ZM6cKXH09mHbxcJTkQVXlR78Ai
+#EXTINF:0 tvg-id="TeletrakHD.cl" group-title="Chile",TELETRAK HD
+http://23.237.160.86:7283/TELETRAK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=A7wRv15EDpXIM8XCTSU7gT3fwXX
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE 2 HD
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4zJ4GuK0klO4IEk5r7P5d5un1IL
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE 2 HD+
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-2-HD-opc/index.m3u8?un=magistv2021t&tm=1620583482&sn=VxbkirLprX11QlYTRdRR3w5vr6I
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE 3 HD
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PcrPbi05Mfw5IleYXU7iUEbyhHD
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE 3 HD+
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-3-HD-opc/index.m3u8?un=magistv2021t&tm=1620583482&sn=KTW9is6S4wDqtqWghBHxl4w2voy
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE HD
+http://23.237.160.86:7283/HY-692/index.m3u8?un=magistv2021t&tm=1620583482&sn=5nt15LxRkKmMF4DJ9ExhD5tSozz
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS CHILE HD+
+http://23.237.160.86:7283/HY-693/index.m3u8?un=magistv2021t&tm=1620583482&sn=7JuR8uUUBjk8Ugt0h6JvkZgqSDO
+#EXTINF:0 tvg-id="ext" group-title="Chile",TNT SPORTS ESTADIO HD
+http://23.237.160.86:7283/TNT-SPORTS-ESTADIO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JafOagXRyQx8rw7DSvE6Icodhfa
+#EXTINF:0 tvg-id="TVChile.ar" group-title="Chile",Tv chile hd
+http://23.237.160.86:7283/Tv-chile-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=IEGqKeJrlLwBM1ovAT6MHRGGOxM
+#EXTINF:0 tvg-id="ext" group-title="Chile",TV+  HD
+http://23.237.160.86:7283/TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ToRzYvS4sRw37L6utw1UmbB8lab
+#EXTINF:0 tvg-id="TVN.pl" group-title="Chile",TVN HD
+http://23.237.160.86:7283/HY-1339/index.m3u8?un=magistv2021t&tm=1620583482&sn=Xup4AtYyUp6Iaab2euXcb3cTuSf
+
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET 360 CA HD
+http://23.237.160.86:7283/SPORTSNET-360-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EU5S7jDh05Wm83OXJhOG9E30fKA
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET EAST CA HD
+http://23.237.160.86:7283/SPORTSNET-EAST-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HyRhlHfelVVMzO3jGBS06kBVfZM
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET ONE CA HD
+http://23.237.160.86:7283/SPORTSNET-ONE-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RfkeqJj5ZVTQo05grDJVGjaO0qk
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET ONTARIO CA HD
+http://23.237.160.86:7283/SPORTSNET-ONTARIO-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6QWvGKA8AOq8SAItc4YLQeiWWYh
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET PACIFIC CA HD
+http://23.237.160.86:7283/SPORTSNET-PACIFIC-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L7kVfMxDhccz9IjRd6uO0LSatVl
+#EXTINF:0 tvg-id="ext" group-title="Canadá",SPORTSNET WORLD CA HD
+http://23.237.160.86:7283/SPORTSNET-WORLD-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FvdVDKYTcLcWFdf8EzRJVsqZPrh
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 1 CA HD
+http://23.237.160.86:7283/TSN-1-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UFpZonJTFPTgHRtN9FYC8vgp16T
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 2 CA HD
+http://23.237.160.86:7283/TSN-2-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DYNJq910mRq23XfAmc4Svbk7pSo
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 3 CA HD
+http://23.237.160.86:7283/TSN-3-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=90KH69TGKB4Vu7nxPYn8FY6vl4x
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 4 CA HD
+http://23.237.160.86:7283/TSN-4-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=E3BEbqcJgyj4hs5jifHc9HCFQCz
+#EXTINF:0 tvg-id="ext" group-title="Canadá",TSN 5 CA HD
+http://23.237.160.86:7283/TSN-5-CA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1JgZSYU290tO0eSdRljFFfYU0wC
+
+#EXTINF:0 tvg-id="ext" group-title="Panamá",CABLE ONDA SPORTS FC PAN HD
+http://23.237.160.86:7283/CABLE-ONDA-SPORTS-FC-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=a3PzxmVh2Tu7AsOHEnnNZr1dGDT
+#EXTINF:0 tvg-id="ext" group-title="Panamá",CABLE ONDA SPORTS PAN HD
+http://23.237.160.86:7283/CABLE-ONDA-SPORTS-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3T0vs1h7WfDvTqBSRDLOupVTxOu
+#EXTINF:0 tvg-id="ext" group-title="Panamá",ECO TV HD
+http://23.237.160.86:7283/ECO-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JFIAuWF0ET9CGW1uX5wGIPlLRhh
+#EXTINF:0 tvg-id="ext" group-title="Panamá",HOSSANA VISION HD
+http://23.237.160.86:7283/HOSSANA-VISION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KRkKZWQJ1LdwaPd6JPQ0HCPIPOT
+#EXTINF:0 tvg-id="ext" group-title="Panamá",Nex TV HD
+http://23.237.160.86:7283/Nex-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1gq0WOiNscoNgBeuXMvAiC7pLCN
+#EXTINF:0 tvg-id="ext" group-title="Panamá",RPC 4 PAN HD
+http://23.237.160.86:7283/RPC-4-PAN-SD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ywr48fuidedZTM9X4twbMwnAYj1
+#EXTINF:0 tvg-id="ext" group-title="Panamá",SERTV PAN HD
+http://23.237.160.86:7283/SERTV-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MwKy8v4kipGR1nGbLo06PqPLCjH
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TELEMETRO PAN HD
+http://23.237.160.86:7283/TELEMETRO-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Bq63ecXsEGR7ABsbX3uVKDbJxr2
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TV MAX PAN FHD
+http://23.237.160.86:7283/TVMAX-PAN-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RnJT4R6arpzpBdUb4UGefCjTL4O
+#EXTINF:0 tvg-id="ext" group-title="Panamá",TVN 2 PAN 2 HD
+http://23.237.160.86:7283/TVN-2-PAN-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BrLLZCps31W9OZc50kWYoqWi62f
+
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",Meridiano TV HD
+http://23.237.160.86:7283/Meridiano-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Koy86BlxF0dx6KYvcslKP24SrRo
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",Telesur HD
+http://23.237.160.86:7283/Telesur-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=K4nEAtdcGCRkMam9jCP6M1pZCsm
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",TELEVEN
+http://23.237.160.86:7283/TELEVEN/index.m3u8?un=magistv2021t&tm=1620583482&sn=W9jUBx31kFn5iX1uz6mRDYB2r17
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VALE TV HD
+http://23.237.160.86:7283/VALE-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BvQ9sBv5JE1O3s3rXeWcIagsCaY
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VENEVISION HD
+http://23.237.160.86:7283/VENEVISION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Pqsb0splrEVKFWh5KfPRQO9gF4n
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VENEVISION PLUS HD
+http://23.237.160.86:7283/VENEVISION-PLUS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Uo0xCKwFxiVtVcqpRqOmhcmNPGx
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VIVE HD
+http://23.237.160.86:7283/VIVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RU6v8Fc1cYL4PC3upnH2BUoyWsa
+#EXTINF:0 tvg-id="ext" group-title="Venezuela",VTV HD
+http://23.237.160.86:7283/vtv-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=2zV1jplujYYpDJLZKzVOCf3WFCr
+
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS 01
+http://23.237.160.86:7283/NBA-PASS-01/index.m3u8?un=magistv2021t&tm=1620583482&sn=BzTYRIIHAijXv2KtBkAmgBmF5uP
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS 02
+http://23.237.160.86:7283/NBA-PASS-02/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZcLOmB05FfVgl9EbHiOKP4IqBJ5
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS 03
+http://23.237.160.86:7283/NBA-PASS-03/index.m3u8?un=magistv2021t&tm=1620583482&sn=GiWd2d2HzmI0xcJ505a4ZYzaJm5
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS MD
+http://23.237.160.86:7283/NBA-PASS-MD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IM89kwrXGPoC0EeC5uD6iQWCmuT
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: BROOKLIN NETS HD
+http://23.237.160.86:7283/NBA-PASS-BROOKLIN-NETS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KCUjOuf9kncO0c5r9LCAFMlSeBr
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: CHICAGO BULLS HD
+http://23.237.160.86:7283/NBA-PASS-CHICAGO-BULLS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ICsXHfVEwlZKMFkH59xSARDZIcE
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: CLEVELAND CAVALIERS HD
+http://23.237.160.86:7283/NBA-PASS-CLEVELAND-CAVALIERS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=zjEbqBI1SnlmkyLl12eKdZ7MJZ
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: DALLAS MAVERICK HD
+http://23.237.160.86:7283/NBA-PASS-DALLAS-MAVERICK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5BL7vZIcYldADViuXcJwLoL3d1N
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: GOLDEN STATE HD
+http://23.237.160.86:7283/NBA-PASS-GOLDEN-STATE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MyUOC3YBu2IhRCYxNQ1rGHJEVrG
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: LOS ANGELES CLIPPERS HD
+http://23.237.160.86:7283/NBA-PASS-LOS-ANGELES-CLIPPERS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6da1TWhOPy3FBtrSx4kiYy4It3v
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: LOS ANGELES LAKERS HD
+http://23.237.160.86:7283/NBA-PASS-LOS-ANGELES-LAKERS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XSX45gCwEhdo6R0TA2QtPXiFBHi
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: MILWAUKEE BUCKS HD
+http://23.237.160.86:7283/NBA-PASS-MILWAUKEE-BUCKS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=93YN585zaPovHwu8rPAA7CAwgGs
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: ORLANDO MAGIC HD
+http://23.237.160.86:7283/NBA-PASS-ORLANDO-MAGIC-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6a9wYMHwDBZGp6SzPcZ8iyR7QZh
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: PHOENIX SUNS HD
+http://23.237.160.86:7283/NBA-PASS-PHOENIX-SUNS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Vu6iT3LcAOXHANMMxsNJEgKUPpp
+#EXTINF:0 tvg-id="ext" group-title="NBA PASS",NBA PASS: SAN ANTONIO SPURTS HD
+http://23.237.160.86:7283/NBA-PASS-SAN-ANTONIO-SPURTS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3XlB3t802NeEvgE6kXpf8gqPSgE
+#EXTINF:0 tvg-id="NBA.blt" group-title="NBA PASS",NBA TV
+http://23.237.160.86:7283/NBA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QKE6cpQPAzsTFcKWrRFLljyTs2W
+
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINECANAL CENTRAL HD
+http://23.237.160.86:7283/CINECANAL-CENTRAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KLc3Rlhqc3A9ZrJBEsoELWCyZo0
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA ACCION CLASSICS HD
+http://23.237.160.86:7283/CINEMA-ACCION-CLASSICS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3w2vwTQOgt5Bc8j67olL5iZNdxm
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA CIENCIA FICCION HD
+http://23.237.160.86:7283/CINEMA-CIENCIA-FICCION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y3mQ4EvwbPGFyI9IRL9hAkmAVBq
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA DC UNIVERSE HD
+http://23.237.160.86:7283/CINEMA-DISNEY-LIVE-ACTION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TTiGk1Y3BdpUHm2HGw2hI2ZzT9h
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA DREAMWORKS HD
+http://23.237.160.86:7283/CINEMA-DREAMWORKS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EGBkqpdLvOtYKXK6UpE5CDv9Haq
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA FAMILIA HD
+http://23.237.160.86:7283/CINEMA-FAMILIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YVq5PbS6Fb33vLMaGoI9oCrlRjJ
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA HAPPY MADISSON HD
+http://23.237.160.86:7283/CINEMA-HAPPY-MADISSON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3oTjzTpQYYx96LnZsGD8mIUfPjJ
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA HORROR HD
+http://23.237.160.86:7283/CINEMA-HORROR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2h47gjHYUuD3v1eTdNT9k0IpHv3
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",CINEMA NAVIDAD HD
+http://23.237.160.86:7283/CINEMA-NAVIDAD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4hKPIoaZDtbbTxDKqrLiiXrSqGA
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER ESTRENOS HD
+http://23.237.160.86:7283/MOVIE-CENTER-ESTRENOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SJsMAsXzc095l7ung3IxUv7V28u
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER FAMILIAR HD
+http://23.237.160.86:7283/MOVIE-CENTER-FAMILIAR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=M8ETLvPOoyioYlyOvHCsMyY6WeD
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER HORROR HD
+http://23.237.160.86:7283/MOVIE-CENTER-HORROR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y5i4XHxvj8WxqcYieSafgsAf9J0
+#EXTINF:0 tvg-id="ext" group-title="CINEMA CHANNEL 24/7",MOVIE CENTER KIDS HD
+http://23.237.160.86:7283/MOVIE-CENTER-KIDS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QU7kdpRwAbz8zrk2NSVITB0BkuO
+
+#EXTINF:0 tvg-id="ext" group-title="Infantil",BABY FIRTS HD
+http://23.237.160.86:7283/BABY-FIRTS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GCq65eiLPnYdTbhuHyr2NNZiHac
+#EXTINF:0 tvg-id="baby-tv" group-title="Infantil",Baby TV
+http://23.237.160.86:7283/HY-657/index.m3u8?un=magistv2021t&tm=1620583482&sn=YBm555iq6bIVq0nwb67GQzkFzdq
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Bitme
+http://23.237.160.86:7283/Bitme/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ct3L2cclgVunYxHt6cJ3yN50XcT
+#EXTINF:0 tvg-id="boomerang" group-title="Infantil",Boomerang
+http://23.237.160.86:7283/HY-664/index.m3u8?un=magistv2021t&tm=1620583482&sn=RVGynMjyB5inUFbo2pVcG4AhTDp
+#EXTINF:0 tvg-id="cartoon" group-title="Infantil",Cartoon Network HD
+http://23.237.160.86:7283/CARTOON-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KScwWFxKoAYx8wQ3evjsoLTepwk
+#EXTINF:0 tvg-id="ext" group-title="Infantil",CLAN TVE HD
+http://23.237.160.86:7283/CLAN-TVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Vvwf5Jt4iEvhm06SPSrhLeTIiK4
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Infantil",Discovery Kids HD
+http://23.237.160.86:7283/HY-713/index.m3u8?un=magistv2021t&tm=1620583482&sn=MIhCOeaqFPNMI2bW40JoYpClVlj
+#EXTINF:0 tvg-id="Disney.uk" group-title="Infantil",Disney Channel HD
+http://23.237.160.86:7283/HY-821/index.m3u8?un=magistv2021t&tm=1620583482&sn=KX6bOti915ShH6KBRobRLS9PDRa
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantil",Disney Junior
+http://23.237.160.86:7283/HY-718/index.m3u8?un=magistv2021t&tm=1620583482&sn=IgZuX46RvemEyzMldfimwKZ8gGj
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Infantil",Disney XD
+http://23.237.160.86:7283/HY-719/index.m3u8?un=magistv2021t&tm=1620583482&sn=WhjtyF8KCwpwePKuc4CLWuls7te
+#EXTINF:0 tvg-id="ETCTV.cl" group-title="Infantil",ETC TV
+http://23.237.160.86:7283/HY-736/index.m3u8?un=magistv2021t&tm=1620583482&sn=7UumLGiQO4xa8B7Px90KXwFKXNm
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nat Geo Kids HD
+http://23.237.160.86:7283/HY-814/index.m3u8?un=magistv2021t&tm=1620583482&sn=2KmAvvnttO6PgQz75ZYq4MBjvx0
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Nick 2 Central HD
+http://23.237.160.86:7283/HY-817/index.m3u8?un=magistv2021t&tm=1620583482&sn=XWBrhsm9rizxiWAqqC2VTsmJUQN
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Infantil",Nick HD
+http://23.237.160.86:7283/HY-819/index.m3u8?un=magistv2021t&tm=1620583482&sn=863jUT1WKptRWpPOza9yY4bIthm
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="Infantil",Nick JR HD
+http://23.237.160.86:7283/HY-820/index.m3u8?un=magistv2021t&tm=1620583482&sn=QhGrWMkLLREcTiZ2yDWYQ4Owe0V
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Infantil",Nickelodeon
+http://23.237.160.86:7283/HY-818/index.m3u8?un=magistv2021t&tm=1620583482&sn=6gZIZur1sPRBZAQoZF7wfAJPp2t
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
+http://23.237.160.86:7283/HY-1369/index.m3u8?un=magistv2021t&tm=1620583482&sn=CAGD96qwSB0kLOk4s8fZMGSlJGS
+#EXTINF:0 tvg-id="ext" group-title="Infantil",ZOOMOO HD
+http://23.237.160.86:7283/ZOOMOO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VxINWXnLjdWwBvGtZ0egSfboWCi
+
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ALF 24/7 HD
+http://23.237.160.86:7283/ALF-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DV6UcWcGRAR8dB7PXdeYaqMGQON
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ALIENIGENAS ANCESTRALES 24/7
+http://23.237.160.86:7283/ALIENIGENAS-ANCESTRALES-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=X1tnSxDiE21bygBmKKPsn1MMVKP
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",AMERICAN CRIME STORY 24/7 HD
+http://23.237.160.86:7283/AMERICAN-CRIME-STORY-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OCHisL24OSMAsxo7Q7G6EBPPkIV
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ANATOMIA DE GREY 24/7 HD
+http://23.237.160.86:7283/ANATOMIA-DE-GREY-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4B012x1QchmmXRu4mFyE9mkYjqS
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ARROW FLECHA VERDE 24/7 HD
+http://23.237.160.86:7283/ARROW-FLECHA-VERDE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7B4xuMIWmpmGOFXR2LAcOl4yRAv
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BAYWATCH 24/7 HD
+http://23.237.160.86:7283/BAYWATCH-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QowyNegqdGyVdM4f8ge0ER2PBPA
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BOB ESPONJA 24/7 HD
+http://23.237.160.86:7283/BOB-ESPONJA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FTiRGubFxvsa8jXvZ4A0mph5gIb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BONANZA 24/7 HD
+http://23.237.160.86:7283/BONANZA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ALmKDRFbdCdO0BmtdWrHUcCDjsx
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",BRUCE LEE PELICULAS 24/7 HD
+http://23.237.160.86:7283/BRUCE-LEE-PELICULAS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4grIT9xndimUemEEpLypVXBxNs1
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CANTINFLAS 24/7 HD
+http://23.237.160.86:7283/CANTINFLAS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=E2FmDuk98tx7zPJGOXtZdQxXyzw
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CASO CERRADO INMIGRACION HD 24/7
+http://23.237.160.86:7283/CASO-CERRADO-INMIGRACION-HD-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=5IgbDkKmbGzcS1vOjI7Z2XVmkTc
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CASTLE 24/7 HD
+http://23.237.160.86:7283/CASTLE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2wGFw6rv4IDvWL46VNjMzz36CWH
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CHICAGO P.D. 24/7 HD
+http://23.237.160.86:7283/CHICAGO-P-D-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y0lVHkCm5VzKkVbRqxqxgd9NyoZ
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CHIP N DALE 24/7 HD
+http://23.237.160.86:7283/CHIP-N-DALE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UoumiYD6Xl3OFCOvKCVSip2asin
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",COBRA KAI 24/7 (4K)
+http://23.237.160.86:7283/COBRA-KAI-24-7-4K/index.m3u8?un=magistv2021t&tm=1620583482&sn=ETIdHLRu5x262oW2FIWNoTcb3DM
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",CSI MIAMI 24/7 HD
+http://23.237.160.86:7283/CSI-MIAMI-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5tzrfKMsoRXnXe97YxSS5gHYxmG
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DC ANIMACION 24/7 HD
+http://23.237.160.86:7283/JUSTIGUE-LEAGUE-UNLIMITED-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GJou3U27IWWNFhqZxCGxE97tZRH
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DC Leyendas Del Mañana 24/7 HD
+http://23.237.160.86:7283/DC-Leyendas-Del-Manana-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ab9TbYQz2YntVoMRNajtofaoJ90
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",Death Note 24/7 HD
+http://23.237.160.86:7283/Death-Note-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MCDI3bbDcPITmpaoWlEs3R9JAlZ
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DEXTER SERIES 24/7 HD
+http://23.237.160.86:7283/DEXTER-SERIES-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=M1Yz34NkPDrVfnatonj8lUO4cWG
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DR. HOUSE 24/7 HD
+http://23.237.160.86:7283/DR-HOUSE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZATWxnUQSCDafbdIVzpJOx5daWb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DRAGON BALL GT 24/7 HD
+http://23.237.160.86:7283/DRAGON-BALL-GT-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=19MlkeJzUPkt8DZ5NvkpAsckA34
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",DRAGON BALL:EXTENDIDA 24/7 HD
+http://23.237.160.86:7283/DRAGONBALL-BATALLA-EXTENDIDA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DQUaTNyvHaxbTjroZEtRX7XkG8N
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",El auto fantastico 1-4
+http://23.237.160.86:7283/EL-AUTO-FANTASTICO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SZnY7qsfr4ee9qjzkl2xdHz5DH8
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL AVISPON VERDE 24/7 HD
+http://23.237.160.86:7283/RETRO-NAVIDAD-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=S98Qa8XsxQrxWxfWrfkU1OsKDDk
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAPULIN COLORADO 24/7
+http://23.237.160.86:7283/EL-CHAPULIN-COLORADO-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=KanKDhWbgTrwTg6kHCJ0mGj72vo
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAVO DEL 8  ANIMADA 24/7 HD
+http://23.237.160.86:7283/EL-CHAVO-DEL-8-ANIMADA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Z6RvekE0dskU42f738fZ639mIuw
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL CHAVO DEL 8 HD 24/7
+http://23.237.160.86:7283/EL-CHAVO-DEL-8-HD-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=1ShiaYs18EWosTH6m9V2Str4KHl
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",EL PAJARO LOCO 24/7 HD
+http://23.237.160.86:7283/EL-PAJARO-LOCO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Bgyb7Jf944lc7svNFy2DBitWA1w
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ESTRENOS 2019 HD 24/7
+http://23.237.160.86:7283/ESTRENOS-2019-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3XCR99jgZEFLzdzqLOq06J0IbCb
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",ESTRENOS 4K 24/7
+http://23.237.160.86:7283/LOS-DUKE-DE-HAZZARD-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HnqQSTouBVgk2rwIs2GsmAQJXhy
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",FBI 24/7 HD
+http://23.237.160.86:7283/FBI-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7ArWpuAQFTsJGCiPyI9ty8uka5a
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",FLASH 24/7 HD
+http://23.237.160.86:7283/FLASH-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HJHHhe35fv8l0MtXyhmnmn3WN3F
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",FRIENDS 24/7 HD
+http://23.237.160.86:7283/FRIENDS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YZ6gvSn0RmZvbJSfXNKMFogyRgx
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",GOTHAM 24/7 HD
+http://23.237.160.86:7283/GOTHAM-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GRqnSuDJ4Y233t4yHiXBHm9sD6n
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",GRAVITY FALLS 24/7 HD
+http://23.237.160.86:7283/GRAVITY-FALLS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5z1oj7mfz1j7NHtonwlFWECZEfU
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HAWAII 5-0 HD 24/7
+http://23.237.160.86:7283/HAWAII-5-0-HD-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=2uv8QMzyiB2Nsi78BCpJGvuDs42
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HE-MAN & MASTER DEL UNIVERSO HD 24/7
+http://23.237.160.86:7283/HE-MAN-MASTER-DEL-UNIVERSO-HD-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=TtaL3nTXAOty2xnLFplhHoKWn8k
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HEARTLAND 24/7 HD
+http://23.237.160.86:7283/THUNDERCATS-NEW-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=1dGfJUCxLqydqUUJmIKunQXARgg
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",HERCULES LOS VIAJES LEGENDARIOS 24/7 HD
+http://23.237.160.86:7283/HERCULES-LOS-VIAJES-LEGENDARIOS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q3bcibKAi14Qn9NUNsgJt6VP670
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",JACKIE CHAN 24/7 HD
+http://23.237.160.86:7283/JACKIE-CHAN-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SUPgnFY0DAdsD6pdE58x6ozJngc
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA INGALLS 24/7 HD
+http://23.237.160.86:7283/LA-FAMILIA-INGALLS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7TeijhlDEGZwcYghVkausxGYAa1
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA MONSTERS 24/7
+http://23.237.160.86:7283/LA-FAMILIA-MONSTERS-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ei0McObCS0FM6MwducJL3tYT04P
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LA FAMILIA PELUCHE 24/7 HD
+http://23.237.160.86:7283/LA-FAMILIA-PELUCHE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9CBpEfjIOx4acRVg1xAIqKwgsAA
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS 100 SERIES 24/7 HD
+http://23.237.160.86:7283/THE-MANDOLARIAN-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=UdVjboV9V8Za6w0yfa8dOm4c0M5
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS CABALLEROS DEL ZODIACO 24/7 HD
+http://23.237.160.86:7283/LOS-CABALLEROS-DEL-ZODIACO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GmByyx78Cw4WUZgRsD8q7w4dY5c
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS LOCOS ADDAMS 24/7 HD
+http://23.237.160.86:7283/LOS-LOCOS-ADDAMS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GydcOrqtv0ItjRJwOvzqLIYpe0Y
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS MAGNIFICOS HD 24/7
+http://23.237.160.86:7283/LOS-MAGNIFICOS-HD-24-7/index.m3u8?un=magistv2021t&tm=1620583482&sn=VcKBdhAXYXHaIWPMk42jAIdPBoM
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS PICAPIEDRAS 24/7 HD
+http://23.237.160.86:7283/LOS-PICAPIEDRAS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XHaBhR6kT2BLtYFTXKk45yXDYBs
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS PITUFOS HD
+http://23.237.160.86:7283/LOS-PITUFOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FedwxIEhyYqa8o72nsKndh1vcM3
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS SIMPSON 24/7 HD
+http://23.237.160.86:7283/LOS-SIMPSON-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ThM1APVVL3JKZxKKuQurwQD8yko
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LOS TRES CHIFLADOS 24/7 HD
+http://23.237.160.86:7283/LOS-TRES-CHIFLADOS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IvZZjbWsRY24HU3b9ZjEa7FJXiZ
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",LUCIFER 24/7 HD
+http://23.237.160.86:7283/LUCIFER-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YHtN7srHFmBh2YVjFjDjPutASFp
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MACGYVER 24/7 HD
+http://23.237.160.86:7283/MACGYVER-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=03oJ8mpOEmWANt3JgdmhkiR0FlI
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MAZINGER Z 24/7 HD
+http://23.237.160.86:7283/MAZINGER-Z-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PBM36pFFW7Rjb8zzJFezSiyNXgD
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MENTES CRIMINALES 24/7 HD
+http://23.237.160.86:7283/MENTES-CRIMINALES-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BySn1LJskb8UnJ4XadMldLlvE1A
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MI BELLA GENIO 24/7 HD
+http://23.237.160.86:7283/MI-BELLA-GENIO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MRfNErTgSzWKf1Qsz9zf8Y0odxl
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",MR BEAN 24/7 HD
+http://23.237.160.86:7283/MR-BEAN-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1dEUnOKU6sLErNuZv148iY4HXTn
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",NCIS Los Angeles 24/7 HD
+http://23.237.160.86:7283/NCIS-Los-Angeles-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QtLZrEI3KGI76dunswvWbNQ2wyf
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",PELICULAS 4K 24/7
+http://23.237.160.86:7283/LOBO-DEL-AIRE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PuHSISH114ul1isFhtyQx8WRnS2
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",PELICULAS DE ACCION 24/7
+http://23.237.160.86:7283/PELICULAS-TERROR-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GWlFRLZbx5bMcWeoEOhIuyyjMku
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",Pokemon 24/7 HD
+http://23.237.160.86:7283/Pokemon-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Sr8a6F0qgKOpPspATzrWZSdgjI
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",PRISON BREAK 24/7 HD
+http://23.237.160.86:7283/PRISON-BREAK-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3YJ4lHFn3KOiMFQoXHLe10d3MhB
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SCOOBY DOO HD 24/7
+http://23.237.160.86:7283/SCOOBY-DOO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IdoeVKVgK6gPLEMvDQCyN6XX13p
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SEX AND CITY 24/7 HD
+http://23.237.160.86:7283/SEX-AND-CITY-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QVt1B6HKqhgu33gi0AxRgNDYew0
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SILVERHAWKS 24/7 HD
+http://23.237.160.86:7283/SILVERHAWKS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IxyFCp5wBvTKpEyA4BKPIqpHq3n
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SMALLVILLE 24/7 HD
+http://23.237.160.86:7283/SMALLVILLE-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RQdMZTNtIuYOd4FDFCapghCU5Dd
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",STAR WARS 24/7 HD
+http://23.237.160.86:7283/STAR-WARS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7zH1l8EPxWplKHq8aJ5cyTDFJam
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SUPERNATURAL 24/7 HD
+http://23.237.160.86:7283/SUPERNATURAL-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=71ECDr04LjAOvQcfumeu0HrVTDI
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",SUPERSONICOS HD
+http://23.237.160.86:7283/SUPERSONICOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8p68PI3EFfTUB2E7dq79AtBsayf
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TARZAN ANIMADO 24/7 HD
+http://23.237.160.86:7283/TARZAN-ANIMADO-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9st6B6pIvIy92YtvPp6KZsGSqNy
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE GOOD DOCTOR 24/7 HD
+http://23.237.160.86:7283/THE-GOOD-DOCTOR-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TMkqWHQq8jZmotuw3RcUhCxNnt3
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE X-FILES 24/7 HD
+http://23.237.160.86:7283/THE-X-FILES-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=13FZ1X5YSr6ZueFCuLw6gorRv6n
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THE-LOST-24-7-HD
+http://23.237.160.86:7283/THE-LOST-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8zvOkNUpiVYu3ETURSwn4xpRcGd
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",THUNDERCATS 24/7 HD
+http://23.237.160.86:7283/THUNDERCATS-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VnAjLpkgosVGFs5q6fcFLAOOdlI
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TOM & JERRY 24/7 HD
+http://23.237.160.86:7283/TOM-JERRY-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JMmPeY2qVsi3upMSqcFeep6rX4l
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TRES PATINES 24/7 HD
+http://23.237.160.86:7283/TRES-PATINES-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2smQfc31wqD63wtyNCAsPxk143z
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",TWO AND HALF MEN 24/7 HD
+http://23.237.160.86:7283/TWO-AND-HALF-MEN-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3Lzbr8gVRQ5Yn9KKQu17gZDmIui
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",UNA FAMILIA DE DIEZ 24/7 HD
+http://23.237.160.86:7283/UNA-FAMILIA-DE-DIEZ-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TwF51lkSJBkzzteSoZNMpRMRHk1
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",WALKING DEAD 24/7 HD
+http://23.237.160.86:7283/WALKING-DEAD-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MJRyNQQF9GmRoV6FMBnKk90LQGS
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Canales 24/7",Warner Channel HD
+http://23.237.160.86:7283/Warner-Channel-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XUQwV0cQfVeF95wtPfC9XWliawB
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",XENA LA PRINCESA GUERRERA 24/7 HD
+http://23.237.160.86:7283/XENA-LA-PRINCESA-GUERRERA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EVZ6HeXILyNp1PLNefX04cIbti4
+#EXTINF:0 tvg-id="ext" group-title="Canales 24/7",YO SOY BETTY LA FEA 24/7 HD
+http://23.237.160.86:7283/YO-SOY-BETTY-LA-FEA-24-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5Zl2C7EBgIoqf2VSgeShEhFry5u
+
+#EXTINF:0 tvg-id="ext" group-title="Colombia",Canal 1 HD Colombia
+http://23.237.160.86:7283/HY-669/index.m3u8?un=magistv2021t&tm=1620583482&sn=Qu0qdr2rUSZU7eoZiCNz4WEmwfa
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Colombia",CARACOL FHD
+http://23.237.160.86:7283/CARACOL-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1Hrp51lZiwI6kXnEAGEShdxnPcL
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Colombia",Caracol HD
+http://23.237.160.86:7283/HY-688/index.m3u8?un=magistv2021t&tm=1620583482&sn=DZgsx8n3mhxv7uB0KbVyfzBk5yh
+#EXTINF:0 tvg-id="ext" group-title="Colombia",CARACOL INTERNACIONAL FHD
+http://23.237.160.86:7283/CARACOL-INTERNACIONAL-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ufg2sEuiAJbePipc9kxN57h3pyn
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Colombia",City TV
+http://23.237.160.86:7283/HY-697/index.m3u8?un=magistv2021t&tm=1620583482&sn=OWMWhN5ThOOUXwNDgw4uS0iIyxB
+#EXTINF:0 tvg-id="ext" group-title="Colombia",NTN24 HD
+http://23.237.160.86:7283/NTN24-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GpNaGtu8NTcbo5Yj97qPY2WE8O7
+#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN HD
+http://23.237.160.86:7283/HY-825/index.m3u8?un=magistv2021t&tm=1620583482&sn=5A0NjXn4Kk2uNcK2507wadCTNxE
+#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN NOVELAS HD
+http://23.237.160.86:7283/RCN-NOVELAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KUBP0mj3AqmnD8EIFuMlkiEKoDX
+#EXTINF:0 tvg-id="ext" group-title="Colombia",SEÑAL COLOMBIA HD
+http://23.237.160.86:7283/SENAL-COLOMBIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WXqeBVKCgc9GAkEUEZ2to7Vk9ps
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELEANTIOQUIA HD
+http://23.237.160.86:7283/TELEANTIOQUIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=R450UNhRjbguv78IDJwQ0g1jIe0
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELECAFÉ HD
+http://23.237.160.86:7283/TELECAFE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XGdsvOYPlAGEE5SET6Iornm3Ris
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELECARIBE HD
+http://23.237.160.86:7283/TELECARIBE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6SrCh3o409lfWXLhueWOEIfoiwE
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TELEMEDELLIN HD
+http://23.237.160.86:7283/TELEMEDELLIN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4WXXowvLSOGXc62vuEUw5orLKsb
+#EXTINF:0 tvg-id="ext" group-title="Colombia",Telepacifico
+http://23.237.160.86:7283/HY-1328/index.m3u8?un=magistv2021t&tm=1620583482&sn=3ybPzwJAe3YIDjfoVJbgXhLDVX8
+#EXTINF:0 tvg-id="ext" group-title="Colombia",TV Agro HD
+http://23.237.160.86:7283/TV-AGRO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q42PO8JiCy5O6D2v0QqqsdWtLQr
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN Sports HD
+http://23.237.160.86:7283/HY-1356/index.m3u8?un=magistv2021t&tm=1620583482&sn=1TaoKEDpE1NFqg9mFi0ySFgiOsA
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN SPORTS PLUS+ 2 HD
+http://23.237.160.86:7283/WIN-SPORTS-PLUS-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5dEcxuQ7t8vkiTi6g1n56un3ZdE
+#EXTINF:0 tvg-id="ext" group-title="Colombia",WIN SPORTS PLUS+ HD
+http://23.237.160.86:7283/WIN-SPORTS-PLUS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GhyjPWfTa9phT9cyWPSes2XT3U7
+
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",AMERICA TEVE HD
+http://23.237.160.86:7283/AMERICA-TEVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KOCh7kcdQnLBqkWIlnob3UUmLHW
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 10 NI HD
+http://23.237.160.86:7283/CANAL-10-NI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HQEVMHGOMdEezZCzs2b5fkKyhgr
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal 10 SV
+http://23.237.160.86:7283/Canal-10-SV/index.m3u8?un=magistv2021t&tm=1620583482&sn=T7KxcbOTIRbczB87l5A6vWEYCL8
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 12 SV HD
+http://23.237.160.86:7283/CANAL-12-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DKeHOiyaNe27g8UDprKiXe3uv3a
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 13 NI HD
+http://23.237.160.86:7283/CANAL-13-NI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LWqZre1QT4M1zCS41EyVgMfU4Q8
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 14 NI HD
+http://23.237.160.86:7283/CANAL-14-NI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GpdDY8cxLcPVkSwsNQSCbSgzBdW
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 2 SV HD
+http://23.237.160.86:7283/CANAL-2-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2EndPnPQSNhyNbOqZUJYmcbHAkr
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",canal 21 Sv
+http://23.237.160.86:7283/Canal-TRV-SV/index.m3u8?un=magistv2021t&tm=1620583482&sn=GSs7Fb2XeU4WBNcWfVfPB7hJiTY
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 3 GUA HD
+http://23.237.160.86:7283/CANAL-3-GUA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=fdzTft8xLkzrbg5ff6OaoCAffr
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 33 SV
+http://23.237.160.86:7283/canal-33-SV/index.m3u8?un=magistv2021t&tm=1620583482&sn=9N04soGoqOi9j11MmtncpoMDJ5o
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 4 SV HD
+http://23.237.160.86:7283/CANAL-4-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WcSGznQS7yHemv1GMftcHGDWlWG
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 6 NI HD
+http://23.237.160.86:7283/CANAL-6-NI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3sRjEm1VDWG6pBNU6gc5MBWSBI5
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL 6 SV HD
+http://23.237.160.86:7283/CANAL-6-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PLUkTRxNUxBki7xEcnU3kpseb5V
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",CANAL ANTIGUA HD
+http://23.237.160.86:7283/CANAL-ANTIGUA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2S0Eo3Gl4KKNMoT4aHCGYU8e7Ap
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal CUBA VISION
+http://23.237.160.86:7283/Canal-CUBA-VISION/index.m3u8?un=magistv2021t&tm=1620583482&sn=CQZVQSNAvhie06XAn1QBurDjViL
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal ORBITA TV SV
+http://23.237.160.86:7283/Canal-ORBITA-TV-SV/index.m3u8?un=magistv2021t&tm=1620583482&sn=6faiz2mGn000GkgyV4I2fHmHoss
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",Canal WOW SV
+http://23.237.160.86:7283/Canal-WOW-SV/index.m3u8?un=magistv2021t&tm=1620583482&sn=Kiy3ZwnK9Zv9AtDRNngnRLZFzT8
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",GUATEVISION HD
+http://23.237.160.86:7283/GUATEVISION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=P683jrOo1lpHGIiMUdVLvNAK7G2
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TELE REBELDE HD
+http://23.237.160.86:7283/TELE-REBELDE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Af5MMcGKemC3O5oFeHdmWMir8Gr
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TELEVISIETE GUA HD
+http://23.237.160.86:7283/TELEVISIETE-GUA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ipnxkhJr3o7Xm2UR9v2vga4t6j
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TIGO SPORTS GT HD
+http://23.237.160.86:7283/TIGO-SPORTS-GT-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TIwH7CL7zr02vnf3Q8PFSCIhY0v
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TIGO SPORTS SV HD
+http://23.237.160.86:7283/TIGO-SPORTS-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PjCOWXpdIvhL48Q9RwsuN9nsyzA
+#EXTINF:0 tvg-id="ext" group-title="Centroamérica",TN 23 GUA HD
+http://23.237.160.86:7283/TN-23-GUA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8sFRxrnkKyPY0XemuqwboPfNixN
+#EXTINF:0 tvg-id="TVO.ch" group-title="Centroamérica",TVO
+http://23.237.160.86:7283/TVO/index.m3u8?un=magistv2021t&tm=1620583482&sn=TGuzDEafRiGY7gznS7apmpAx04Y
+
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 1 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-01/index.m3u8?un=magistv2021t&tm=1620583482&sn=1MosWVkTkNvz6NRx7XCdPggpvxa
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 10 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-10/index.m3u8?un=magistv2021t&tm=1620583482&sn=Yv6kbVujAB4ZzwOxpOoZ0EnnqHL
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 11 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-11/index.m3u8?un=magistv2021t&tm=1620583482&sn=QX9quhyf8GlsfzBrjsVR44tcze
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 12 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-12/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y2NmLnQwtquaVHzMYhbJj8IQNXB
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 13 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-13/index.m3u8?un=magistv2021t&tm=1620583482&sn=2JQSKtkCHqNbPLyUDCGqyZSwgWB
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 14 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-14/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q7pLV5kqXWx3Vg97B0wmWaNB0Js
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 15 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-15/index.m3u8?un=magistv2021t&tm=1620583482&sn=Kjnv83NiyuIH17ZjFVyznnSIKnG
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 2 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-02/index.m3u8?un=magistv2021t&tm=1620583482&sn=IiRF6GDiewubZBGaGUSS0eDZ2mk
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 3 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-03/index.m3u8?un=magistv2021t&tm=1620583482&sn=CnsjPBzQxTzzMwbCP5dw35vgzFl
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 4 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-04/index.m3u8?un=magistv2021t&tm=1620583482&sn=TNqqotQC0u1WJ0WYE55AsWeQWX0
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 5 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-05/index.m3u8?un=magistv2021t&tm=1620583482&sn=5vdgZjl2Dgzp0qsjrQZEcfi6kKb
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 6 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-06/index.m3u8?un=magistv2021t&tm=1620583482&sn=MeJVXdyFQRWkN6fb2JL9g2HQezc
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 7 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-07/index.m3u8?un=magistv2021t&tm=1620583482&sn=2uAnMVOVycF3fvCaU4TUnJF2Xyu
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 8 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-08/index.m3u8?un=magistv2021t&tm=1620583482&sn=6CgrydoYSqULZoZJ1IF9FGSHobH
+#EXTINF:0 tvg-id="ext" group-title="MLB PASS",MLB PASS 9 (ONLY EVENTS)
+http://23.237.160.86:7283/mlb-09/index.m3u8?un=magistv2021t&tm=1620583482&sn=5Bn9Tq8u0ooi7ivs4F6F3073EfF
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",#VAMOS HD
+http://23.237.160.86:7283/VAMOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6KYu74LAo0J3yc36jsjSkzqzTpO
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AFFIZIONADO HD
+http://23.237.160.86:7283/AFFIZIONADO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VztGWtHEFhbHdge6okqNZ2z52E5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Altitude Sports 1 HD
+http://23.237.160.86:7283/HY-647/index.m3u8?un=magistv2021t&tm=1620583482&sn=8p0ih6y9RNCVlj300CLPI4UIDA9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sport HD
+http://23.237.160.86:7283/AT-T-Sport-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GrZu0fjaVOOWK27uxCQUYVXqjhD
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 1 HD
+http://23.237.160.86:7283/HY-646/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y8J3QE6o6hEHJYoPIE78ujW5jZO
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 2 HD
+http://23.237.160.86:7283/HY-837/index.m3u8?un=magistv2021t&tm=1620583482&sn=SbJTUnPR8cx1d2A1zhXIdaN45dg
+#EXTINF:0 tvg-id="ext" group-title="Deportes",AT&T Sportsnet 3 HD
+http://23.237.160.86:7283/HY-810/index.m3u8?un=magistv2021t&tm=1620583482&sn=Bt5NJLhJqmaTYHpW4cOIOtQiIah
+#EXTINF:0 tvg-id="ext" group-title="Deportes",BARCA TV HD
+http://23.237.160.86:7283/barca-tv-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=864pjjniJtgEzaP3yvimWhfgRPW
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="Deportes",bein sport 13 hd
+http://23.237.160.86:7283/HY-659/index.m3u8?un=magistv2021t&tm=1620583482&sn=ObOy5AtjFcdpEtdLs0IWGsko7v6
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Deportes",BEIN SPORT LA LIGA HD
+http://23.237.160.86:7283/BEIN-SPORT-LA-LIGA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=G7VKoyOPRofVKDHNgLXsWW4sMyf
+#EXTINF:0 tvg-id="ext" group-title="Deportes",BEIN SPORT USA HD
+http://23.237.160.86:7283/BEIN-SPORT-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CZnOXTJ6KKNNtBvubYUQ34k3dcU
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports ñ FHD
+http://23.237.160.86:7283/BEIN-SPORT-N-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BC6DIdvA8NVzgQWFZyM7KpyK43s
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports ñ HD
+http://23.237.160.86:7283/BEIN-SPORT-N-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5vz1mwpoOSzPCWxau7fERiulVGc
+#EXTINF:0 tvg-id="BoxNationHD.uk" group-title="Deportes",BOX NATION HD
+http://23.237.160.86:7283/BOX-NATION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L0DnzLqcgoKPPCYXz3OFClcDUb9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS FC PAN HD
+http://23.237.160.86:7283/CABLE-ONDA-SPORTS-FC-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=a3PzxmVh2Tu7AsOHEnnNZr1dGDT
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CABLE ONDA SPORTS PAN HD
+http://23.237.160.86:7283/CABLE-ONDA-SPORTS-PAN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3T0vs1h7WfDvTqBSRDLOupVTxOu
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Canal Caza & Pezca HD
+http://23.237.160.86:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5i0hx4qvE3xAtkRJpuxEmC2cNJy
+#EXTINF:0 tvg-id="SportsNetHD.ca" group-title="Deportes",CBS SPORTS NETWORK HD
+http://23.237.160.86:7283/CBS-SPORTS-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=K4HqvokapZGkiyQsLS6xiRQL1Lh
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Claro Sports HD
+http://23.237.160.86:7283/HY-745/index.m3u8?un=magistv2021t&tm=1620583482&sn=9XgGOs72f6xoVKUZVQEzhWlHD3a
+#EXTINF:0 tvg-id="Combate.br" group-title="Deportes",Combate HD
+http://23.237.160.86:7283/COMBATE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3hSVFMOlEz1JcyhAwHWTs3pene8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DAZN  1 HD (Eventos)
+http://23.237.160.86:7283/DAZN1/index.m3u8?un=magistv2021t&tm=1620583482&sn=87wfl6TvtR3GRFsR4Bg7zAKVQiC
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DAZN  2 HD (Eventos)
+http://23.237.160.86:7283/DAZN2/index.m3u8?un=magistv2021t&tm=1620583482&sn=8RHxrmBZlY6gajWZMpMoAxF1WuC
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DAZN  3 HD (Eventos)
+http://23.237.160.86:7283/DAZN3/index.m3u8?un=magistv2021t&tm=1620583482&sn=AkCxghKyV6FwQhuzi9iKLloNPse
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DAZN  4 HD (Eventos)
+http://23.237.160.86:7283/DAZN4/index.m3u8?un=magistv2021t&tm=1620583482&sn=NliU2LByLXOL4dKqDYTtwNCDIPA
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DEPORTV HD
+http://23.237.160.86:7283/DEPORTV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q19eObJ2A6Oq7kH6zNrcWky7fth
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DIRECTV ECUADOR HD
+http://23.237.160.86:7283/DIRECTV-ECUADOR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Rkot02IZ6W1NiLTQ6C9eg5iZ9Od
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DIRECTV PERU HD
+http://23.237.160.86:7283/DIRECTV-PERU-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TXZpy9dkKFaNtEXaDdf3HlOdyK2
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports 2 FHD
+http://23.237.160.86:7283/HY-704/index.m3u8?un=magistv2021t&tm=1620583482&sn=4fxbBuqylkvQRcba3d8bRrqUY12
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports 2 HD
+http://23.237.160.86:7283/HY-705/index.m3u8?un=magistv2021t&tm=1620583482&sn=7oZZ5jgE0qeTP09cdryEgtFLuNO
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports FHD
+http://23.237.160.86:7283/HY-706/index.m3u8?un=magistv2021t&tm=1620583482&sn=8hqezZoIUuu6wH5gqfucY84BQqG
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports HD
+http://23.237.160.86:7283/HY-707/index.m3u8?un=magistv2021t&tm=1620583482&sn=8xaDs2Fq7KJtNYH08rUcTv68JWR
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports plus
+http://23.237.160.86:7283/Direct-tv-Sports-plus/index.m3u8?un=magistv2021t&tm=1620583482&sn=E0HMUYgLrpBYkTgs29evJIBefU9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv Sports+ HD
+http://23.237.160.86:7283/HY-708/index.m3u8?un=magistv2021t&tm=1620583482&sn=7DjRhyLbYQSlQKxY7r2f23ndTdV
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 1 Arg HD
+http://23.237.160.86:7283/ESPN1-arg-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SJgNuojkNz6cMc1GqczEPc1NGj9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 1 Sur HD
+http://23.237.160.86:7283/ESPN1-Sur-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TDasbjUWq0nCkMBNaj9TYEf5LED
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 Central HD
+http://23.237.160.86:7283/HY-724/index.m3u8?un=magistv2021t&tm=1620583482&sn=L8YNBdJOmSZBHxT6zli9EdKQjVL
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 CHILE HD
+http://23.237.160.86:7283/ESPN2-CHILE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PYpZVF13wj1rBzgJB3Z8M4Y0tFI
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Deportes",ESPN 2 HD
+http://23.237.160.86:7283/HY-725/index.m3u8?un=magistv2021t&tm=1620583482&sn=RgMIlrbZTRrEabSz7s7YF48yYyq
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",ESPN 2 HD+
+http://23.237.160.86:7283/HY-726/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZwPe5HE6MsKVlHj9HjOwvvu52oo
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Central HD
+http://23.237.160.86:7283/HY-729/index.m3u8?un=magistv2021t&tm=1620583482&sn=LWAMz3jdPjIrN6BNljS6MXlWTtu
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Central HD+
+http://23.237.160.86:7283/HY-729B/index.m3u8?un=magistv2021t&tm=1620583482&sn=AHIFBrBVReqepen2GVgPqVE6b1D
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Deportes",ESPN 3 HD
+http://23.237.160.86:7283/HY-727/index.m3u8?un=magistv2021t&tm=1620583482&sn=V49oCu91NFZCBG9PSnqnjC7mzWo
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",ESPN 3 HD+
+http://23.237.160.86:7283/HY-728/index.m3u8?un=magistv2021t&tm=1620583482&sn=WFuUAsVoHX0TnrTvVaQbe4ygaJ9
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Deportes",ESPN BRASIL
+http://23.237.160.86:7283/ESPN-BRASIL/index.m3u8?un=magistv2021t&tm=1620583482&sn=OMvJlWFjHhl7eel1KNe4nRIx3MS
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Central HD
+http://23.237.160.86:7283/HY-734/index.m3u8?un=magistv2021t&tm=1620583482&sn=Pe8Blw63SRanLZvLFkrzMKxt5da
+#EXTINF:0 tvg-id="ESPNDeportesHD.us" group-title="Deportes",ESPN DEPORTES HD
+http://23.237.160.86:7283/ESPN-DEPORTES-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1OCWKCB29TTRUwAWbQk7BPdGoEI
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN EXTRA BRASIL HD
+http://23.237.160.86:7283/ESPN-XTRA-BRASIL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=83Gjkii5fwYNLnoKsDqBUhLhNox
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN HD
+http://23.237.160.86:7283/HY-731/index.m3u8?un=magistv2021t&tm=1620583482&sn=OJTsmiYQkTPviJl8pHqUe5zWuLj
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN HD+
+http://23.237.160.86:7283/HY-733/index.m3u8?un=magistv2021t&tm=1620583482&sn=IyxomSbVsPzvRrUSGxTYst6Kzz0
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN LIVE
+http://23.237.160.86:7283/espn-arg/index.m3u8?un=magistv2021t&tm=1620583482&sn=9uKXjQrnQCKuuG6LIdf3XaNV3d
+#EXTINF:0 tvg-id="ESPNU.us" group-title="Deportes",ESPN U HD
+http://23.237.160.86:7283/ESPN-U-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3jvratOaGyUsAsj7mt9qesAnvo5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN+ Central HD
+http://23.237.160.86:7283/HY-735/index.m3u8?un=magistv2021t&tm=1620583482&sn=FCUDNl2mbxtkzQsTulmywjHmVPy
+#EXTINF:0 tvg-id="ESPNHD.mx" group-title="Deportes",ESPN+ HD
+http://23.237.160.86:7283/HY-732/index.m3u8?un=magistv2021t&tm=1620583482&sn=B8TCkYDa8qhpfm8vKtFH8bFf3fg
+#EXTINF:0 tvg-id="esp-hd" group-title="Deportes",Eurosport 1 HD
+http://23.237.160.86:7283/Eurosport-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RW6KQzcw9afeY0wenbQXCnACHBj
+#EXTINF:0 tvg-id="esp2-hd" group-title="Deportes",Eurosport 2 HD
+http://23.237.160.86:7283/Eurosport-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RTp7vFhVmub6W5h54VnoOn9t8Mu
+#EXTINF:0 tvg-id="ext" group-title="Deportes",EVENTOS PY1
+http://23.237.160.86:7283/TIGO-SPORT-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JZ6sgjMcorOTZepbaLVK7gQ7EZm
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="Deportes",Fight network HD
+http://23.237.160.86:7283/Fight-network-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YjjUteGkmaCpaKZp47e9imnJlK6
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX DEPORTES US HD
+http://23.237.160.86:7283/fox-deportes-us-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=QbLD6qoaBju30rGv5AGQ2TeKA1b
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS1 HD
+http://23.237.160.86:7283/FOX-FS1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=E2FCR61YBt5fUkXFaaM4EYWnvnM
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FOX FS2 HD
+http://23.237.160.86:7283/FOX-FS2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4KNbbAxJVJmPpVcheGsLahMZOYm
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 1 Chile HD
+http://23.237.160.86:7283/HY-754/index.m3u8?un=magistv2021t&tm=1620583482&sn=TxH806zvVhRYgraSP9kFQZcmIqw
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Central HD
+http://23.237.160.86:7283/HY-757/index.m3u8?un=magistv2021t&tm=1620583482&sn=MAanGL8x5oPEDrt3UliirXkTZbs
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Deportes",Fox Sports 2 HD
+http://23.237.160.86:7283/HY-755/index.m3u8?un=magistv2021t&tm=1620583482&sn=79DbHdKETQ36JJPVh3VuYHOIoM2
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 HD+
+http://23.237.160.86:7283/HY-756/index.m3u8?un=magistv2021t&tm=1620583482&sn=V6ndFCyAFq2MeAJuA3Y4iEkFi3r
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Deportes",Fox Sports 3 HD
+http://23.237.160.86:7283/FOX-SPORTS-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=AaJ2YmBx90LH0tgidHUAD92MoXM
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 HD Central
+http://23.237.160.86:7283/FOX-SPORTS-3-CENTRAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=541dc2FUST8qyWl3UdqSCeE0UqZ
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Central HD
+http://23.237.160.86:7283/HY-763/index.m3u8?un=magistv2021t&tm=1620583482&sn=PHHoatFDLQG8PJDTRquKfySuX1g
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports HD
+http://23.237.160.86:7283/HY-761/index.m3u8?un=magistv2021t&tm=1620583482&sn=4KzVj7Twp5o3Mlr53jeAeVv8yV7
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports HD+
+http://23.237.160.86:7283/HY-762/index.m3u8?un=magistv2021t&tm=1620583482&sn=DR6f8GcquxlV52wx4hd888EITRC
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD
+http://23.237.160.86:7283/HY-25351/index.m3u8?un=magistv2021t&tm=1620583482&sn=Top3I9qaD8QTJ5FTniSjRssS0f
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Premium Arg HD+
+http://23.237.160.86:7283/HY-765/index.m3u8?un=magistv2021t&tm=1620583482&sn=HrGZWolxVFOdN1tWYxit7mBUIl
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox sports premium ch HD
+http://23.237.160.86:7283/Foxsport-premium-ch-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Sx18dT7XSoITNaJ4M43k6Q2BG38
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR HD
+http://23.237.160.86:7283/FUTV-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GL8p74Vx5oISEmoJHVBSljgX41c
+#EXTINF:0 tvg-id="ext" group-title="Deportes",FUTV CR OPC 2 HD
+http://23.237.160.86:7283/FUTV-CR-2-HD-opc2/index.m3u8?un=magistv2021t&tm=1620583482&sn=R185212B9wkLU34JVo45CgiSTpa
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru HD
+http://23.237.160.86:7283/HY-777/index.m3u8?un=magistv2021t&tm=1620583482&sn=YZEv9XHqPKbH3IIEYhrFh1xrZEM
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Deportes",GOL TV HD
+http://23.237.160.86:7283/tJJjtxVtEMsOtPXF/index.m3u8?un=magistv2021t&tm=1620583482&sn=PgxR82BGARFfLg7aRwT9weVaqDZ
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Golf Latin America HD
+http://23.237.160.86:7283/GOLF-LATIN-AMERICA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5wZIAfkWEqJdRytZ3lvGP1i5wYm
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="Deportes",Movistar Deportes HD
+http://23.237.160.86:7283/HY-801/index.m3u8?un=magistv2021t&tm=1620583482&sn=1OrWew67Vh4uBbkhY6Fv2bgq9C6
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="Deportes",MOVISTAR F1 HD
+http://23.237.160.86:7283/MOVISTAR-FORMULA-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CKXiFDcM1SvydTnZ8iDuFGQycEF
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Movistar Liga De Campeones HD
+http://23.237.160.86:7283/MOVISTAR-LIGA-DE-CAMPEONES-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L44IBMd54PMKYcKaidRcuLwZaby
+#EXTINF:0 tvg-id="ext" group-title="Deportes",MOVISTAR LA LIGA FHD
+http://23.237.160.86:7283/MOVISTAR-LA-LIGA-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OK2IsoZr0xKBHxMePXYr9zF2ckk
+#EXTINF:0 tvg-id="NBA.blt" group-title="Deportes",NBA TV
+http://23.237.160.86:7283/NBA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QKE6cpQPAzsTFcKWrRFLljyTs2W
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NBC Chicago Sports 2 HD
+http://23.237.160.86:7283/HY-834/index.m3u8?un=magistv2021t&tm=1620583482&sn=UO3w5MaQ7B77xRLoxhIxnZrs1nE
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NESN Boston
+http://23.237.160.86:7283/HY-833/index.m3u8?un=magistv2021t&tm=1620583482&sn=3aPLLSK0ssk1nQHAC4R0wMxFD1H
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NESN Plus
+http://23.237.160.86:7283/HY-836/index.m3u8?un=magistv2021t&tm=1620583482&sn=BDfO6QmMAPwnqp2EA2Njfg2oj1A
+#EXTINF:0 tvg-id="NFLNetworkHD.mx" group-title="Deportes",NFL NETWORK HD
+http://23.237.160.86:7283/NFL-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CqGsh6hKpNtnZPaQAij7HnqVNkE
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 01 HD
+http://23.237.160.86:7283/NFL-PASS-01/index.m3u8?un=magistv2021t&tm=1620583482&sn=M9KAIEqqHJh42IynVql2I9yuOEp
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 02 HD
+http://23.237.160.86:7283/NFL-PASS-02/index.m3u8?un=magistv2021t&tm=1620583482&sn=R17qSZRb08kul7h9KHOtcWtIJUn
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 03 HD
+http://23.237.160.86:7283/NFL-PASS-03/index.m3u8?un=magistv2021t&tm=1620583482&sn=NPJnllNG73UAJntGiXiCWh8KHiu
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 04 HD
+http://23.237.160.86:7283/NFL-PASS-04/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZvZ3P0gYPUgoOYsDBLhzVbJPxZh
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 05 HD
+http://23.237.160.86:7283/NFL-PASS-05/index.m3u8?un=magistv2021t&tm=1620583482&sn=XXmwcgmd2uCIZLBnbwuhV1jmLA9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 06 HD
+http://23.237.160.86:7283/NFL-PASS-06/index.m3u8?un=magistv2021t&tm=1620583482&sn=QguMW336brugWjel5X3z68iVBQ4
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 08 HD
+http://23.237.160.86:7283/NFL-PASS-08/index.m3u8?un=magistv2021t&tm=1620583482&sn=PrhilV2GZTnNzMVS66CMGZtEsgx
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 09 HD
+http://23.237.160.86:7283/NFL-PASS-09/index.m3u8?un=magistv2021t&tm=1620583482&sn=UsyM0BaLwbzUfwiWE6W33p2MAhV
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 10 HD
+http://23.237.160.86:7283/NFL-PASS-10/index.m3u8?un=magistv2021t&tm=1620583482&sn=T2itRbTHAUpEXGzZ4HVGF6Zt7qs
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 11 HD
+http://23.237.160.86:7283/NFL-PASS-11/index.m3u8?un=magistv2021t&tm=1620583482&sn=HWGVHOsr10WoQpWUBfeQ1jHuJNv
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 12 HD
+http://23.237.160.86:7283/NFL-PASS-12/index.m3u8?un=magistv2021t&tm=1620583482&sn=S1jEruzoaMyDtSmMI685WW5HheW
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL PASS 13 HD
+http://23.237.160.86:7283/NFL-PASS-13/index.m3u8?un=magistv2021t&tm=1620583482&sn=GmlI7jRg9Euaknm7WPsT8lixnTm
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NHL HD
+http://23.237.160.86:7283/HY-1342/index.m3u8?un=magistv2021t&tm=1620583482&sn=1GwG7UfzFNuTO3zaQgj03D0FcYQ
+#EXTINF:0 tvg-id="ext" group-title="Deportes",OLYMPIC CHANNELS HD
+http://23.237.160.86:7283/OLYMPIC-CHANNELS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FbY4ZF6kJiU864RLJVaVIQ58ugb
+#EXTINF:0 tvg-id="outdoor-hd" group-title="Deportes",Outdoor HD
+http://23.237.160.86:7283/HY-826/index.m3u8?un=magistv2021t&tm=1620583482&sn=C5vAg00oo6Le990U5LquGxWoMGP
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Deportes",REAL MADRID TV HD
+http://23.237.160.86:7283/REAL-MADRID-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8Iam2WaQ91EuQN35KhSWRk3BQfK
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Root Sports HD
+http://23.237.160.86:7283/HY-652/index.m3u8?un=magistv2021t&tm=1620583482&sn=2qBEgoZ7VUu5hDO1p6Sy78v5ZSe
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 16 MX HD
+http://23.237.160.86:7283/SKY-SPORTS-16-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Iyy1Xmw3XeqtN43uqRkYSQz5Ka8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",SKY SPORTS 24 MX HD
+http://23.237.160.86:7283/SKY-SPORTS-24-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YXktQEtbAmeMx98WS9uTQ7U2EUi
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Sports Chicago
+http://23.237.160.86:7283/Sports-Chicago/index.m3u8?un=magistv2021t&tm=1620583482&sn=IecQfgzMDACSuP6SLEsmPdsBpCE
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="Deportes",Sportsman HD
+http://23.237.160.86:7283/HY-822/index.m3u8?un=magistv2021t&tm=1620583482&sn=LVLctWZM7LyjxSuYNvWRKeGtNRG
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TD+ CR HD
+http://23.237.160.86:7283/TD-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MRHnBIEFHglnKDSmbOh36bIlCKs
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TELE REBELDE HD
+http://23.237.160.86:7283/TELE-REBELDE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Af5MMcGKemC3O5oFeHdmWMir8Gr
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="Deportes",TENNIS CHANNEL HD
+http://23.237.160.86:7283/TENNIS-CHANNEL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2Auu17ZJlHg7ciK8wk1EdGxd56x
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT CR HD
+http://23.237.160.86:7283/TIGO-SPORT-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YYZwKhiXbPk4xzptGWgxGxKs5aI
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS 1 BO HD
+http://23.237.160.86:7283/TIGO-SPORTS-1-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MueYHM6Et3zCyMQfgnwym1MopIr
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS 2 HD
+http://23.237.160.86:7283/TIGO-SPORTS-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T3N2y8bK6pRA9zLGCK3CmzMUIAU
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS GT HD
+http://23.237.160.86:7283/TIGO-SPORTS-GT-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TIwH7CL7zr02vnf3Q8PFSCIhY0v
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS HON HD
+http://23.237.160.86:7283/TIGO-SPORTS-HON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1by2mdtyUgYBEp0a4FLSQksYdXG
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORTS SV HD
+http://23.237.160.86:7283/TIGO-SPORTS-SV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PjCOWXpdIvhL48Q9RwsuN9nsyzA
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TIGO SPORT 3 HD
+http://23.237.160.86:7283/TIGO-SPORT-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DGbB4Y0QnuHbAzEGGDnPQLNBSXV
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD
+http://23.237.160.86:7283/HY-1333/index.m3u8?un=magistv2021t&tm=1620583482&sn=KU46I8BKOJ1w27FiwTaPPFOibmZ
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports Arg HD+
+http://23.237.160.86:7283/HY-1334/index.m3u8?un=magistv2021t&tm=1620583482&sn=NVhXGy6L8aCL3V9zGXIao58T1uM
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT SPORTS CHILE 2 HD
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4zJ4GuK0klO4IEk5r7P5d5un1IL
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT SPORTS CHILE 3 HD
+http://23.237.160.86:7283/TNT-SPORTS-CHILE-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PcrPbi05Mfw5IleYXU7iUEbyhHD
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT SPORTS CHILE HD
+http://23.237.160.86:7283/HY-692/index.m3u8?un=magistv2021t&tm=1620583482&sn=5nt15LxRkKmMF4DJ9ExhD5tSozz
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT SPORTS CHILE HD+
+http://23.237.160.86:7283/HY-693/index.m3u8?un=magistv2021t&tm=1620583482&sn=7JuR8uUUBjk8Ugt0h6JvkZgqSDO
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Deportes",TOROS TV FHD
+http://23.237.160.86:7283/TOROS-TV-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1X7jvPGIj3YLEq8g3GnYvsM1KQy
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN MX HD
+http://23.237.160.86:7283/TUDN-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1Jd7XKYI38mOhWug0JZECO8KbE3
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN USA HD
+http://23.237.160.86:7283/TUDN-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VELtrQnINku478MVmtAdAqmGjVV
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports HD
+http://23.237.160.86:7283/HY-1343/index.m3u8?un=magistv2021t&tm=1620583482&sn=Kr6l0AIGvsyUzBgkxsml8YsKW1p
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TYC SPORTS INT. 2 HD
+http://23.237.160.86:7283/TYC-SPORTS-INT-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=50WtwyHDneuvFC00GsidYnLp66j
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TYC SPORTS INTERNACIONAL HD
+http://23.237.160.86:7283/TYC-SPORTS-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NAgOTftMVBzHf91RrVLyT8WiQ8w
+#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC FIGHT PASS HD
+http://23.237.160.86:7283/UFC-FIGHT-PASS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=37ZSBhHgyZLWxeCc61EEDZFdu0z
+#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC LATINO HD
+http://23.237.160.86:7283/UFC-LATINO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5gU6ZebFZH1gXcDAt2Yh34yDLK5
+#EXTINF:0 tvg-id="ext" group-title="Deportes",VTV Uruguay HD
+http://23.237.160.86:7283/HY-1353/index.m3u8?un=magistv2021t&tm=1620583482&sn=5jP3uKmKJHgC9DAVoDujfNpkiD9
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN Sports HD
+http://23.237.160.86:7283/HY-1356/index.m3u8?un=magistv2021t&tm=1620583482&sn=1TaoKEDpE1NFqg9mFi0ySFgiOsA
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WIN SPORTS PLUS+ HD
+http://23.237.160.86:7283/WIN-SPORTS-PLUS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GhyjPWfTa9phT9cyWPSes2XT3U7
+#EXTINF:0 tvg-id="WWEHD.ca" group-title="Deportes",WWE HD
+http://23.237.160.86:7283/WWE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Z4rH9HyxnYlruCe2O8zeNcZRU3D
+#EXTINF:0 tvg-id="ext" group-title="Deportes",WWE PLUS HD
+http://23.237.160.86:7283/WWE-PLUS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FRfZQ6ppiPGq27ra7zun8EZ4Rxi
+
+#EXTINF:0 tvg-id="animal-hd" group-title="Cultura",ANIMAL PLANET FHD
+http://23.237.160.86:7283/ANIMAL-PLANET-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ihs4qR07UeO1uj4jrFA7Bbnwidr
+#EXTINF:0 tvg-id="animal-hd" group-title="Cultura",ANIMAL PLANET HD
+http://23.237.160.86:7283/HY-650/index.m3u8?un=magistv2021t&tm=1620583482&sn=PiyhvYfeNqy6ejrCb5JkZJA3VEl
+#EXTINF:0 tvg-id="ext" group-title="Cultura",ANTENA 3 INTERNACIONAL HD
+http://23.237.160.86:7283/ANTENA-3-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IkUPytWyD1m1nKiisL9MSwxFghd
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Cultura",BLAZE HD
+http://23.237.160.86:7283/BLAZE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LAeBsdBOD8GZ5m759lvsVSknA5S
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Canal Caza & Pezca HD
+http://23.237.160.86:7283/CANAL-CAZA-PEZCA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5i0hx4qvE3xAtkRJpuxEmC2cNJy
+#EXTINF:0 tvg-id="ext" group-title="Cultura",CRIMEN INVESTIGACION HD
+http://23.237.160.86:7283/CRIMEN-INVESTIGACION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RSE8MTzuvciPCrrtiZtOEDJ31WH
+#EXTINF:0 tvg-id="ext" group-title="Cultura",DISCOVERY CHANNEL ESPAÑA HD
+http://23.237.160.86:7283/DISCOVERY-CHANNEL-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=K6znrFAKrvU9m6G0IcUqwZ51Vf3
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Cultura",DISCOVERY FAMILY
+http://23.237.160.86:7283/DISCOVERY-FAMILY/index.m3u8?un=magistv2021t&tm=1620583482&sn=8V8aMcdwMUNWJYUIghAys6GPtXV
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Cultura",Discovery H&H
+http://23.237.160.86:7283/DISCOVERY-HH/index.m3u8?un=magistv2021t&tm=1620583482&sn=NVu9daE3a8aUo6qKlYkYIwn83Fw
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery H&H Central FHD
+http://23.237.160.86:7283/DISCOVERY-H-H-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=F4Eo6sRCxQIhDTZ27WZMv0TerAS
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Cultura",Discovery HD
+http://23.237.160.86:7283/HY-709/index.m3u8?un=magistv2021t&tm=1620583482&sn=OQHXeNeM9qHQ7aygWsHpHlz9eSy
+#EXTINF:0 tvg-id="discov_rus" group-title="Cultura",Discovery HD+
+http://23.237.160.86:7283/HY-710/index.m3u8?un=magistv2021t&tm=1620583482&sn=GC1kT5cf4Z0FflemXX29KGTOCSC
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Home Health HD
+http://23.237.160.86:7283/Discovery-Home-Health-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9DCMJH0D6tVF6LMzcE3Nfv84r8e
+#EXTINF:0 tvg-id="id-extra" group-title="Cultura",Discovery ID HD
+http://23.237.160.86:7283/HY-712/index.m3u8?un=magistv2021t&tm=1620583482&sn=X7qBjlh2i1nBvvrSQW1HMZeQKa7
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Max HD
+http://23.237.160.86:7283/Discovery-Max-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3HRG1oNUGhl0oSbvLjiH8nBJMUq
+#EXTINF:0 tvg-id="discov_sci" group-title="Cultura",DISCOVERY SCIENSE
+http://23.237.160.86:7283/DISCOVERY-SCIENSE/index.m3u8?un=magistv2021t&tm=1620583482&sn=GROlE0jzqZtvZGcDaMdMcAErapE
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",DISCOVERY THEATER FHD
+http://23.237.160.86:7283/DISCOVERY-THEATER-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NfI38OFh4qW14NfbJQ8qTRnhzr
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",Discovery Theater HD
+http://23.237.160.86:7283/HY-714/index.m3u8?un=magistv2021t&tm=1620583482&sn=FcfcBZ8AyWa2vYIylSxjNVIAPIh
+#EXTINF:0 tvg-id="tlc-russia" group-title="Cultura",Discovery TLC HD
+http://23.237.160.86:7283/Discovery-TLC-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VIbGFsKNeztvvFRMWoJPOp6qc7E
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Cultura",DISCOVERY TURBO FHD
+http://23.237.160.86:7283/DISCOVERY-TURBO-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T5HiAeg4rybakNVM9aCA2xRLRiH
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Cultura",Discovery Turbo HD
+http://23.237.160.86:7283/HY-715/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ab91292kV9nJj0Zll7inxnMJxE3
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Cultura",Discovery World HD
+http://23.237.160.86:7283/HY-716/index.m3u8?un=magistv2021t&tm=1620583482&sn=87BRBN6Ie7JXr8oY2AO1S3k1Aem
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Cultura",Discovery World HD+
+http://23.237.160.86:7283/HY-717/index.m3u8?un=magistv2021t&tm=1620583482&sn=KGq2tkboY25WdMpxKLTV8FSg29H
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Cultura",DISCOVERY CIVILIZATION
+http://23.237.160.86:7283/DISCOVERY-CIVILIZATION/index.m3u8?un=magistv2021t&tm=1620583482&sn=PRj16pZZQhFA8T1AeRWbdfdKhB9
+#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="Cultura",El Gourmet HD
+http://23.237.160.86:7283/HY-722/index.m3u8?un=magistv2021t&tm=1620583482&sn=OAE0UEwqov1XA5S5KcZCxDyZwoB
+#EXTINF:0 tvg-id="food-network-rus" group-title="Cultura",FOOD NETWORK
+http://23.237.160.86:7283/FOOD-NETWORK/index.m3u8?un=magistv2021t&tm=1620583482&sn=R4uGHDIntEjwoPt3PpOVYWliTUi
+#EXTINF:0 tvg-id="ext" group-title="Cultura",GLITZ HD
+http://23.237.160.86:7283/GLITZ-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PKVFTo4OD846Gcki6ow6wZLB6gd
+#EXTINF:0 tvg-id="Globosp.br" group-title="Cultura",Globo SP HD
+http://23.237.160.86:7283/HY-771/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZgkmeqjXHjWl5uT1vpl026AuSk7
+#EXTINF:0 tvg-id="ext" group-title="Cultura",GOURMET FHD
+http://23.237.160.86:7283/GOURMET-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=zSowyrroaUYMd47eDMVUiby8xg
+#EXTINF:0 tvg-id="ext" group-title="Cultura",HGTV ESPAÑOL HD
+http://23.237.160.86:7283/HGTV-ESPANOL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UIqSMs5ArlA2ftNEN2MfBdmdXRb
+#EXTINF:0 tvg-id="H2.uk" group-title="Cultura",History 2 HD
+http://23.237.160.86:7283/HY-780/index.m3u8?un=magistv2021t&tm=1620583482&sn=YRPajgIgYuXBYLOD9QRHwIf06xI
+#EXTINF:0 tvg-id="ext" group-title="Cultura",History Central HD
+http://23.237.160.86:7283/HY-789/index.m3u8?un=magistv2021t&tm=1620583482&sn=LcwSAbQdpGHdlgeTuSKbGN49nWu
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Cultura",History HD
+http://23.237.160.86:7283/HY-787/index.m3u8?un=magistv2021t&tm=1620583482&sn=T95Z5vvocuSf0fj2i4zMFfm10ro
+#EXTINF:0 tvg-id="history-rus" group-title="Cultura",History HD+
+http://23.237.160.86:7283/HY-788/index.m3u8?un=magistv2021t&tm=1620583482&sn=7f3LG4mgsS01ojbOtX8EY24bklG
+#EXTINF:0 tvg-id="ext" group-title="Cultura",HISTORY USA ESP HD
+http://23.237.160.86:7283/HISTORY-USA-ESP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FT7izxzo12cDqa22gcJGNxieWhk
+#EXTINF:0 tvg-id="ext" group-title="Cultura",LA 2 HD
+http://23.237.160.86:7283/LA2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GIn7PngEn1kyIIlhWffHp2Wqjij
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Cultura",LIFE TIME
+http://23.237.160.86:7283/LIFE-TIME/index.m3u8?un=magistv2021t&tm=1620583482&sn=CHbFAjuWNFw1KfJtQQYhoIY6iNW
+#EXTINF:0 tvg-id="ext" group-title="Cultura",MAS CHIC HD
+http://23.237.160.86:7283/MAS-CHIC-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LTf0R35BLzdhvgrqEvyCfz68X4u
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO ESPAÑA HD
+http://23.237.160.86:7283/NAT-GEO-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WkjeZDcmFdrI156Erl9xgXbk2fb
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Cultura",Nat Geo HD
+http://23.237.160.86:7283/HY-804/index.m3u8?un=magistv2021t&tm=1620583482&sn=EZjRgHpnnBQ304rzKD7ddYD1iPb
+#EXTINF:0 tvg-id="natgeo" group-title="Cultura",Nat Geo HD+
+http://23.237.160.86:7283/HY-805/index.m3u8?un=magistv2021t&tm=1620583482&sn=6Pus6qeQ3W0XbTO87ohe6KfP7Oy
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO MUNDO HD
+http://23.237.160.86:7283/NATGEO-MUNDO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7FLLQ4MchV1EGVF6IiexvelyAmf
+#EXTINF:0 tvg-id="ext" group-title="Cultura",NAT GEO WILD ESPAÑA HD
+http://23.237.160.86:7283/NAT-GEO-WILD-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YR3G6Oai3D1NixPm2pr67Gj13gn
+#EXTINF:0 tvg-id="wild-hd" group-title="Cultura",Nat Geo Wild HD
+http://23.237.160.86:7283/HY-806/index.m3u8?un=magistv2021t&tm=1620583482&sn=8JTd5CPNnbsz1xrItvMyebepMMs
+#EXTINF:0 tvg-id="natgeowild" group-title="Cultura",Nat Geo Wild HD+
+http://23.237.160.86:7283/HY-807/index.m3u8?un=magistv2021t&tm=1620583482&sn=2sjA67Txm5ssSii1WFPR9tKk4cx
+#EXTINF:0 tvg-id="Odisea.es" group-title="Cultura",ODISEA HD
+http://23.237.160.86:7283/DARK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=X8sCD1adHdrjJDtCFVeQHGFlu48
+#EXTINF:0 tvg-id="ext" group-title="Cultura",TLC Discovery HD
+http://23.237.160.86:7283/HY-1329/index.m3u8?un=magistv2021t&tm=1620583482&sn=RxuRZG7raqs7wfvQ2HoQj0U91Zl
+#EXTINF:0 tvg-id="Viajar.sp" group-title="Cultura",Viajar HD
+http://23.237.160.86:7283/VIAJAR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TZdUfMKjYMS58AT9wx2qeN0ir30
+#EXTINF:0 tvg-id="ext" group-title="Cultura",World Fishing HD
+http://23.237.160.86:7283/HY-1340/index.m3u8?un=magistv2021t&tm=1620583482&sn=PV0dhIGRqyxb3IK4yvpeatTNjte
+
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",ATB
+http://23.237.160.86:7283/HY-1359/index.m3u8?un=magistv2021t&tm=1620583482&sn=BkwQQvOwyYf8YnrBEJozRv9gaPZ
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivia TV 7.2 HD
+http://23.237.160.86:7283/HY-1361/index.m3u8?un=magistv2021t&tm=1620583482&sn=H8lRJe9LzDynqgRjusHIcv1oofB
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivision HD
+http://23.237.160.86:7283/HY-1362/index.m3u8?un=magistv2021t&tm=1620583482&sn=5yBOHBY74oMjVaGVmxnFIKmqZL6
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Cadena A BO HD
+http://23.237.160.86:7283/Cadena-A-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HuwLbIc5tUXUZxLchzTDdUzjHdb
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",GIGAVISION
+http://23.237.160.86:7283/GIGAVISION/index.m3u8?un=magistv2021t&tm=1620583482&sn=ErsxHjs2Qrk3wTl7BYBDQ3PGYp0
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",PAT BO HD
+http://23.237.160.86:7283/PAT-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=974tByMTeeipawPJbawouJiyEsX
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",RTP BO HD
+http://23.237.160.86:7283/RTP-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4DgbWNkrpl6KZnzdUneW4KuEUl8
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORTS 1 BO HD
+http://23.237.160.86:7283/TIGO-SPORTS-1-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MueYHM6Et3zCyMQfgnwym1MopIr
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORTS 2 HD
+http://23.237.160.86:7283/TIGO-SPORTS-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T3N2y8bK6pRA9zLGCK3CmzMUIAU
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TIGO SPORT 3 HD
+http://23.237.160.86:7283/TIGO-SPORT-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DGbB4Y0QnuHbAzEGGDnPQLNBSXV
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",TV Universitaria BO HD
+http://23.237.160.86:7283/TV-Universitaria-BO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ChyCSjvShtKdUiqm7pcu7cLFty8
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",Unitel HD
+http://23.237.160.86:7283/HY-1370/index.m3u8?un=magistv2021t&tm=1620583482&sn=VDACvTP4nZ1hrmT4iV99ipmf11U
+#EXTINF:0 tvg-id="ext" group-title="Bolivia",UNO
+http://23.237.160.86:7283/HY-1371/index.m3u8?un=magistv2021t&tm=1620583482&sn=CiSXFETikTNSaaD8tmUVGhT7HAC
+
+#EXTINF:0 tvg-id="ext" group-title="Honduras",CANAL 11 HN HD
+http://23.237.160.86:7283/CANAL-11-GUA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YAdysaskmu75hNTD7Vt17BpCok2
+#EXTINF:0 tvg-id="ext" group-title="Honduras",CANAL 5 HN HD
+http://23.237.160.86:7283/CANAL-5-HN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Dz0StlJUOcqE3uMItsrtKwLgqxS
+#EXTINF:0 tvg-id="ext" group-title="Honduras",CANAL TEN 10 HD
+http://23.237.160.86:7283/CANAL-TEN-10-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3k3bbSedsWJGr31XvyQXLdMTHJR
+#EXTINF:0 tvg-id="ext" group-title="Honduras",HCH HN HD
+http://23.237.160.86:7283/HCH-HN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=I1xZoDwbbQVFz0461LVLObMJDTJ
+#EXTINF:0 tvg-id="ext" group-title="Honduras",TELECADENA 7/4 HN HD
+http://23.237.160.86:7283/TELECADENA-7-4-HN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FXKY4yB5FAoSCUfkcFJiWrI59xG
+#EXTINF:0 tvg-id="ext" group-title="Honduras",TIGO SPORTS HON HD
+http://23.237.160.86:7283/TIGO-SPORTS-HON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1by2mdtyUgYBEp0a4FLSQksYdXG
+#EXTINF:0 tvg-id="ext" group-title="Honduras",TSI HN HD
+http://23.237.160.86:7283/TSI-HN-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ObFk72dzu2psgjH6WM7eIyJDQ98
+
+#EXTINF:0 tvg-id="Rai1.it" group-title="Italia",RAI 1 HD
+http://23.237.160.86:7283/RAI-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MtIrItgLYIslb70lOpV9VhUflny
+#EXTINF:0 tvg-id="Rai2.it" group-title="Italia",RAI 2 HD
+http://23.237.160.86:7283/RAI-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Utxcc8fXs692EgQK6UlEeiYlWjV
+#EXTINF:0 tvg-id="Rai3.it" group-title="Italia",RAI 3 HD
+http://23.237.160.86:7283/RAI-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OPfZW4gGgQTFSQyKAQYGi5ZM4Zc
+#EXTINF:0 tvg-id="Rai4.it" group-title="Italia",RAI 4 HD
+http://23.237.160.86:7283/RAI-4-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=W0qcBKPM1WrGt6pwtZg0nGMPeCc
+#EXTINF:0 tvg-id="Rai5.it" group-title="Italia",RAI 5 HD
+http://23.237.160.86:7283/RAI-5-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Dde1z4bhbNngeNJtqZt3u1y9v0O
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Italia",RAI GULP HD
+http://23.237.160.86:7283/RAI-GULP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LriqFIQrBe1HT47OseAd07dGkWZ
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Italia",RAI MOVIE HD
+http://23.237.160.86:7283/RAI-MOVIE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EjkLajdjGUrxSlLfUSkxORbOZHw
+#EXTINF:0 tvg-id="RaiStoria.it" group-title="Italia",RAI STORIA HD
+http://23.237.160.86:7283/RAI-STORIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CCx06OKUIA4RDm7wE6RgVBBVyPR
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Italia",RAI YOYO HD
+http://23.237.160.86:7283/RAI-YOYO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=APpKINYvyilDdHBIDKUtSbXs9fY
+#EXTINF:0 tvg-id="TopCrime.it" group-title="Italia",TOP CRIME HD
+http://23.237.160.86:7283/TOP-CRIME-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SZzXXjg7y3Tpvn6NunvwXPVC9oN
+
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",BARCA TV HD
+http://23.237.160.86:7283/barca-tv-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=864pjjniJtgEzaP3yvimWhfgRPW
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  1 HD (Eventos)
+http://23.237.160.86:7283/DAZN1/index.m3u8?un=magistv2021t&tm=1620583482&sn=87wfl6TvtR3GRFsR4Bg7zAKVQiC
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  2 HD (Eventos)
+http://23.237.160.86:7283/DAZN2/index.m3u8?un=magistv2021t&tm=1620583482&sn=8RHxrmBZlY6gajWZMpMoAxF1WuC
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  3 HD (Eventos)
+http://23.237.160.86:7283/DAZN3/index.m3u8?un=magistv2021t&tm=1620583482&sn=AkCxghKyV6FwQhuzi9iKLloNPse
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",DAZN  4 HD (Eventos)
+http://23.237.160.86:7283/DAZN4/index.m3u8?un=magistv2021t&tm=1620583482&sn=NliU2LByLXOL4dKqDYTtwNCDIPA
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",EVENTO BUNDESLIGA
+http://23.237.160.86:7283/EVENTO-BUNDESLIGA/index.m3u8?un=magistv2021t&tm=1620583482&sn=XAdiwHhu2sEXiy05v227RcpOCB4
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #01
+http://23.237.160.86:7283/Evento-Deportivo1/index.m3u8?un=magistv2021t&tm=1620583482&sn=3qmEcZ0c9Upg5iT5yO5NU7BL1RL
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #02
+http://23.237.160.86:7283/Evento-Deportivo2/index.m3u8?un=magistv2021t&tm=1620583482&sn=KOWQ4FKG3nTq7vguCsGy5jVk8AP
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #03
+http://23.237.160.86:7283/Evento-Deportivo3/index.m3u8?un=magistv2021t&tm=1620583482&sn=X2OwfxeTULCPlNeNx09El8TehCU
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #04
+http://23.237.160.86:7283/Evento-Deportivo4/index.m3u8?un=magistv2021t&tm=1620583482&sn=IgrqTvKzDievI43akVjtDpXVwUO
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #05
+http://23.237.160.86:7283/Evento-Deportivo5/index.m3u8?un=magistv2021t&tm=1620583482&sn=GKp1re4rZogKHAyOXYriPWMvgpn
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #06
+http://23.237.160.86:7283/Evento-Deportivo6/index.m3u8?un=magistv2021t&tm=1620583482&sn=KOXmnvMwyJMlbZ0TjWtM4nNJy2A
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #07
+http://23.237.160.86:7283/Evento-Deportivo7/index.m3u8?un=magistv2021t&tm=1620583482&sn=XnXhuU61ka1EileDdxQNdzqCKwj
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #08
+http://23.237.160.86:7283/Evento-Deportivo8/index.m3u8?un=magistv2021t&tm=1620583482&sn=H1vHYWGi1EFlm9puMfzhrbAsXRI
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #09
+http://23.237.160.86:7283/EL-CANAL-DEL-FUTBOL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=014awpOt7Mbg8zjzMpMiJtQyGVS
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",Evento Deportivo #10
+http://23.237.160.86:7283/EL-CANAL-DEL-FUTBOL-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5n3WpS3b4T96MwmEecloJ78GUrX
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",EVENTO DEPORTIVO ESPAÑA
+http://23.237.160.86:7283/Evento-PPV-1-Liga-Espanola-Futbol/index.m3u8?un=magistv2021t&tm=1620583482&sn=X8nvSiYvLW6aCaxRQUHjYg3FKqa
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",FOX DEPORTES US HD
+http://23.237.160.86:7283/fox-deportes-us-hd/index.m3u8?un=magistv2021t&tm=1620583482&sn=QbLD6qoaBju30rGv5AGQ2TeKA1b
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 1 HD BR
+http://23.237.160.86:7283/PREMIERE-1-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=fhTdO2DTD1tbgyChIEfvkA4FSu
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 2 HD BR
+http://23.237.160.86:7283/PREMIERE-2-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=DV9HQ5BYjmGSCzHqQKkYS7w8xMz
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",PREMIERE 3 HD BR
+http://23.237.160.86:7283/PREMIERE-3-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=H0vFcTOiHurcryBuStJHR5ALYf9
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 1 HD BR
+http://23.237.160.86:7283/SPORTV-1-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=A6VepMsfYVJM9K9giCCAS9VGpqP
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 2 HD BR
+http://23.237.160.86:7283/SPORTV-2-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=1y0Hx2HfJjJICwn4hCfytIB0863
+#EXTINF:0 tvg-id="ext" group-title="Eventos PPV",SPORTV 3 HD BR
+http://23.237.160.86:7283/SPORTV-3-HD-BR/index.m3u8?un=magistv2021t&tm=1620583482&sn=OPoRgQvt4LzTr9JZ4Ia6llt9h76
+
+#EXTINF:0 tvg-id="discov_rus" group-title="HD+(265)",Discovery HD+
+http://23.237.160.86:7283/HY-710/index.m3u8?un=magistv2021t&tm=1620583482&sn=GC1kT5cf4Z0FflemXX29KGTOCSC
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="HD+(265)",ESPN 2 HD+
+http://23.237.160.86:7283/HY-726/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZwPe5HE6MsKVlHj9HjOwvvu52oo
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",ESPN 3 Central HD+
+http://23.237.160.86:7283/HY-729B/index.m3u8?un=magistv2021t&tm=1620583482&sn=AHIFBrBVReqepen2GVgPqVE6b1D
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="HD+(265)",ESPN 3 HD+
+http://23.237.160.86:7283/HY-728/index.m3u8?un=magistv2021t&tm=1620583482&sn=WFuUAsVoHX0TnrTvVaQbe4ygaJ9
+#EXTINF:0 tvg-id="ESPN.uk" group-title="HD+(265)",ESPN HD+
+http://23.237.160.86:7283/HY-733/index.m3u8?un=magistv2021t&tm=1620583482&sn=IyxomSbVsPzvRrUSGxTYst6Kzz0
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="HD+(265)",Fox Sports 2 HD+
+http://23.237.160.86:7283/HY-756/index.m3u8?un=magistv2021t&tm=1620583482&sn=V6ndFCyAFq2MeAJuA3Y4iEkFi3r
+#EXTINF:0 tvg-id="FoxSports.it" group-title="HD+(265)",Fox Sports HD+
+http://23.237.160.86:7283/HY-762/index.m3u8?un=magistv2021t&tm=1620583482&sn=DR6f8GcquxlV52wx4hd888EITRC
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",Fox Sports Premium Arg HD+
+http://23.237.160.86:7283/HY-765/index.m3u8?un=magistv2021t&tm=1620583482&sn=HrGZWolxVFOdN1tWYxit7mBUIl
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="HD+(265)",HBO HD+
+http://23.237.160.86:7283/HY-784/index.m3u8?un=magistv2021t&tm=1620583482&sn=L1QYVlGLikhtqhKY4PutdBna1uI
+#EXTINF:0 tvg-id="history-rus" group-title="HD+(265)",History HD+
+http://23.237.160.86:7283/HY-788/index.m3u8?un=magistv2021t&tm=1620583482&sn=7f3LG4mgsS01ojbOtX8EY24bklG
+#EXTINF:0 tvg-id="natgeo" group-title="HD+(265)",Nat Geo HD+
+http://23.237.160.86:7283/HY-805/index.m3u8?un=magistv2021t&tm=1620583482&sn=6Pus6qeQ3W0XbTO87ohe6KfP7Oy
+#EXTINF:0 tvg-id="natgeowild" group-title="HD+(265)",Nat Geo Wild HD+
+http://23.237.160.86:7283/HY-807/index.m3u8?un=magistv2021t&tm=1620583482&sn=2sjA67Txm5ssSii1WFPR9tKk4cx
+#EXTINF:0 tvg-id="otr" group-title="HD+(265)",STAR CHANNEL HD+
+http://23.237.160.86:7283/HY-740/index.m3u8?un=magistv2021t&tm=1620583482&sn=Zwrsh45zzpH4OVZifaoncKEWCsP
+#EXTINF:0 tvg-id="StarOne.uk" group-title="HD+(265)",STAR LIFE HD+
+http://23.237.160.86:7283/HY-743/index.m3u8?un=magistv2021t&tm=1620583482&sn=Wtovoc63aYvLyEi154g2ElmO9ny
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",TNT Sports Arg HD+
+http://23.237.160.86:7283/HY-1334/index.m3u8?un=magistv2021t&tm=1620583482&sn=NVhXGy6L8aCL3V9zGXIao58T1uM
+#EXTINF:0 tvg-id="ext" group-title="HD+(265)",TNT SPORTS CHILE HD+
+http://23.237.160.86:7283/HY-693/index.m3u8?un=magistv2021t&tm=1620583482&sn=7JuR8uUUBjk8Ugt0h6JvkZgqSDO
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="HD+(265)",Warner HD+
+http://23.237.160.86:7283/HY-1354/index.m3u8?un=magistv2021t&tm=1620583482&sn=EW6qnTv8YF2K3AtbMB4VD70UiIu
+
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",ABC TV PY HD
+http://23.237.160.86:7283/ABC-TV-PY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DkyGzaDvtwaPOPnCjSX0yLZiFgi
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",C9N HD PY
+http://23.237.160.86:7283/C9N-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=UgbneehKAJuFb97HPFlTB0htwsi
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",EVENTOS PY1
+http://23.237.160.86:7283/TIGO-SPORT-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JZ6sgjMcorOTZepbaLVK7gQ7EZm
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",EVENTOS PY2
+http://23.237.160.86:7283/TIGO-SPORT-PLUS-PY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YnWhq5QPHOzCgmaCrvsIg5ZSoAV
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",Farra Play
+http://23.237.160.86:7283/Farra-Play/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZKOd27im4c1muxIJ3DCT4wDEXJE
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",GEN TV HD PY
+http://23.237.160.86:7283/GEN-TV-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=7HSf9UoTqZLQ8qFFra28eFROHbP
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",LA TELE HD PY
+http://23.237.160.86:7283/LA-TELE-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=47a6wDl3h1WDOpDXuRVsxJkCwLM
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",NOTICIAS PARAGUAY
+http://23.237.160.86:7283/NOTICIAS-PARAGUAY/index.m3u8?un=magistv2021t&tm=1620583482&sn=NpNn6KIR5MhV8arSJtLYcjSViTS
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",PARAGUAY TV HD PY
+http://23.237.160.86:7283/PARAGUAY-TV-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=Kag5mEkkk3zXwwiOcUf8w74FR4I
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",PARAVISION PY
+http://23.237.160.86:7283/PARAVISION-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=QDBE9M4a6I1oOMlOO66yVVD2q7x
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",RCC CHAQUEÑA PY
+http://23.237.160.86:7283/RCC-CHAQUENA-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=W0ZUT279t5NcGdh3oYnHR4CrWpb
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",SNT HD PY
+http://23.237.160.86:7283/SNT-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=FzyOXdHr06fek7jsbIXuMYYb8Js
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",SUR TV PY
+http://23.237.160.86:7283/SUR-TV-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=14LJrfuzmfHcR19ctWtjZSGSbZE
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",TELEFUTURO HD PY
+http://23.237.160.86:7283/TELEFUTURO-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=PvcQRrMztzdMcOPOW6Ndrp9hhdx
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",TRECE PY
+http://23.237.160.86:7283/RPC-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=DcQG0CFBN0wMvx3xrmiy4e2VstD
+#EXTINF:0 tvg-id="ext" group-title="Paraguay",UNICANAL HD PY
+http://23.237.160.86:7283/UNICANAL-HD-PY/index.m3u8?un=magistv2021t&tm=1620583482&sn=FsceLedRUKHfXG5lA4kAPrqZ2rI
+
+#EXTINF:0 tvg-id="24HorasHD.cl" group-title="Noticias",24 HORAS HD
+http://23.237.160.86:7283/24-HORAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Hmra752Kzeiy92NCee8cGbSDSG3
+#EXTINF:0 tvg-id="A24.ar" group-title="Noticias",a24
+http://23.237.160.86:7283/HY-642/index.m3u8?un=magistv2021t&tm=1620583482&sn=GJ2Qd0diWYPvmfTCkzsgh6J4QPU
+#EXTINF:0 tvg-id="ext" group-title="Noticias",AMERICA TEVE HD
+http://23.237.160.86:7283/AMERICA-TEVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KOCh7kcdQnLBqkWIlnob3UUmLHW
+#EXTINF:0 tvg-id="ext" group-title="Noticias",ATB
+http://23.237.160.86:7283/HY-1359/index.m3u8?un=magistv2021t&tm=1620583482&sn=BkwQQvOwyYf8YnrBEJozRv9gaPZ
+#EXTINF:0 tvg-id="ext" group-title="Noticias",Canal 24 Horas HD
+http://23.237.160.86:7283/HY-670/index.m3u8?un=magistv2021t&tm=1620583482&sn=eNWxp0XDTHLureUrRBVUY6abOv
+#EXTINF:0 tvg-id="ext" group-title="Noticias",China CGTN ESPAÑOL
+http://23.237.160.86:7283/CHINA-CGTN-ESPANOL/index.m3u8?un=magistv2021t&tm=1620583482&sn=RmNuayDRlviosg6D0SF2K6HpYYs
+#EXTINF:0 tvg-id="ext" group-title="Noticias",CNN Chile HD
+http://23.237.160.86:7283/HY-698/index.m3u8?un=magistv2021t&tm=1620583482&sn=CUVSwunxo4zi8mYrE7q1zmPWkph
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Noticias",CNN Español
+http://23.237.160.86:7283/HY-699/index.m3u8?un=magistv2021t&tm=1620583482&sn=Vz7a1wDDxAir1cQWZRgrE0vigYM
+#EXTINF:0 tvg-id="ext" group-title="Noticias",CORONAVIRUS TV
+http://23.237.160.86:7283/PPV-CORONAVIRUS-PANDEMIC-TV/index.m3u8?un=magistv2021t&tm=1620583482&sn=R2I7arPFaOJRb3p5131Kouofhdv
+#EXTINF:0 tvg-id="ext" group-title="Noticias",DW EN ESPAÑOL HD
+http://23.237.160.86:7283/DW-EN-ESPANOL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=W5TmteAeWnIasLWR1DQV3Swg2Er
+#EXTINF:0 tvg-id="FOXNewsChannelHD.us" group-title="Noticias",FOX NEWS US HD
+http://23.237.160.86:7283/FOX-NEWS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OnqE5RLRyJWC2m5ola1h24JPL9b
+#EXTINF:0 tvg-id="ext" group-title="Noticias",FRANCE 24 HD EN ESPAÑOL
+http://23.237.160.86:7283/FRANCE-24-HD-EN-ESPANOL/index.m3u8?un=magistv2021t&tm=1620583482&sn=9VWPNQwxz6kvish4Uk1U95tf0wS
+#EXTINF:0 tvg-id="ext" group-title="Noticias",HISPAN TV HD
+http://23.237.160.86:7283/HISPAN-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VTjIG0prRVt1g5kEQK2HJNUP8m2
+#EXTINF:0 tvg-id="ext" group-title="Noticias",NTN24 HD
+http://23.237.160.86:7283/NTN24-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GpNaGtu8NTcbo5Yj97qPY2WE8O7
+#EXTINF:0 tvg-id="ext" group-title="Noticias",Rai International HD
+http://23.237.160.86:7283/HY-824/index.m3u8?un=magistv2021t&tm=1620583482&sn=3facCpztSONo3Ah7bQlaBhoVNhV
+#EXTINF:0 tvg-id="ext" group-title="Noticias",RT NOTICIAS HD
+http://23.237.160.86:7283/RT-NOTICIAS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OnFhJAIHizHyPWITkT6NCyV4Nfn
+#EXTINF:0 tvg-id="ext" group-title="Noticias",TVE INTERNACIONAL HD
+http://23.237.160.86:7283/TVE-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OnfkhEKfk0ATfHACKYNTAPMi9Pe
+
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",CANAL UNO FHD
+http://23.237.160.86:7283/CanalUno/index.m3u8?un=magistv2021t&tm=1620583482&sn=CejwqlQpQAN5uzFqKmqYUqJgq7M
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Canal Uno OPC 2 FHD
+http://23.237.160.86:7283/CANAL-UNO-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=W4BlKnWC4NcFyLRCk0nw7HX4TYW
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Canela TV
+http://23.237.160.86:7283/Canela-tv/index.m3u8?un=magistv2021t&tm=1620583482&sn=F0OGvYIHn4XQ2PWEE86TuP9brih
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",DIRECTV ECUADOR HD
+http://23.237.160.86:7283/DIRECTV-ECUADOR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Rkot02IZ6W1NiLTQ6C9eg5iZ9Od
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUADOR TV HD
+http://23.237.160.86:7283/ECUADOR-TV/index.m3u8?un=magistv2021t&tm=1620583482&sn=4Zv4dQK6o4FFE74wfZ1R8lg32Ls
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUAVISA COSTA HD
+http://23.237.160.86:7283/Ecuavisa/index.m3u8?un=magistv2021t&tm=1620583482&sn=aIItYCFNZocJLaxRXRM9gZfhOFj
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",ECUAVISA SIERRA HD
+http://23.237.160.86:7283/ECUAVISA-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=YGYBSyBvfFL2VjvnSWlouJ6rY38
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",El canal del fútbol
+http://23.237.160.86:7283/ec_futbol/index.m3u8?un=magistv2021t&tm=1620583482&sn=CiMhOcPlANie8IGOMbpc94OkvzF
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GAMAVISION OPC 2 HD
+http://23.237.160.86:7283/GAMAVISION-TV-HD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=IdRdO0v64WoXb1VAEjAyQkloOmK
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GAMAVISION TV FHD
+http://23.237.160.86:7283/gamavision/index.m3u8?un=magistv2021t&tm=1620583482&sn=DJsHTxLveOMXLVhLt6jlbqzcmTK
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",GOL TV 2 FHD
+http://23.237.160.86:7283/mqeIfsFwCKBvzDkQ/index.m3u8?un=magistv2021t&tm=1620583482&sn=1XZNahwa748hMIJEoLP1wQUMCCk
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Ecuador",GOL TV FHD
+http://23.237.160.86:7283/lWiYJjTxHDEJBbAw/index.m3u8?un=magistv2021t&tm=1620583482&sn=AUS8biDPVPnZKhB0FLga9qTQ6FN
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Ecuador",GOL TV HD
+http://23.237.160.86:7283/tJJjtxVtEMsOtPXF/index.m3u8?un=magistv2021t&tm=1620583482&sn=PgxR82BGARFfLg7aRwT9weVaqDZ
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",MAX TV Online
+http://23.237.160.86:7283/Max_tv/index.m3u8?un=magistv2021t&tm=1620583482&sn=URREJ2wPEQqyHuYrf3t6MKqk06E
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",OROMAR FHD
+http://23.237.160.86:7283/oromar/index.m3u8?un=magistv2021t&tm=1620583482&sn=V37ApXU04anwf3YischSoSwWo5L
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",OROMAR TV OPC 2 FHD
+http://23.237.160.86:7283/OROMAR-TV-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=KL927dZz15qD53satHgSlJVohKI
+#EXTINF:0 tvg-id="RTSHD.rs" group-title="Ecuador",RTS FHD
+http://23.237.160.86:7283/RTS/index.m3u8?un=magistv2021t&tm=1620583482&sn=AJS5kC6aPx1Kn6BrbwXKdtmza7L
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",RTS OPC 2 FHD
+http://23.237.160.86:7283/RTS-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=Zt7KTF5y3Oyr3Bz22lzPULjFPBI
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",RTU
+http://23.237.160.86:7283/rtu/index.m3u8?un=magistv2021t&tm=1620583482&sn=3J9jGFfqOtlt1qaueTIzQvvRITi
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TC TELEVISION FHD
+http://23.237.160.86:7283/tcelevision/index.m3u8?un=magistv2021t&tm=1620583482&sn=8rRhjam5nlWa1LSuDzqZUj4ohFu
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TC TELEVISION OPC 2 FHD
+http://23.237.160.86:7283/TC-TELEVISION-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=GpWcm06Zf0eNWaDtil47J8ymfQ8
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Teleamazonas HD
+http://23.237.160.86:7283/Teleamazonas/index.m3u8?un=magistv2021t&tm=1620583482&sn=Mytliosz1Jnve1cvUhFha0JzlSV
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TELEAMAZONAS SIERRA HD
+http://23.237.160.86:7283/TELEAMAZONAS-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=7d9OUsUIBpvAjAP6EIGhSIopJsj
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",Televicentro FHD
+http://23.237.160.86:7283/televicentro/index.m3u8?un=magistv2021t&tm=1620583482&sn=Z2cauIEwF1QsMP9SNpZqoDOixgo
+#EXTINF:0 tvg-id="ext" group-title="Ecuador",TELEVICENTRO OPC 2 FHD
+http://23.237.160.86:7283/TELEVICENTRO-FHD-OPC2/index.m3u8?un=magistv2021t&tm=1620583482&sn=A7Ai03107poYkTQ2DzPmsxTSRQO
+
+#EXTINF:0 tvg-id="NFLNetworkHD.mx" group-title="NFL PASS",NFL NETWORK HD
+http://23.237.160.86:7283/NFL-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CqGsh6hKpNtnZPaQAij7HnqVNkE
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 01 HD
+http://23.237.160.86:7283/NFL-PASS-01/index.m3u8?un=magistv2021t&tm=1620583482&sn=M9KAIEqqHJh42IynVql2I9yuOEp
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 02 HD
+http://23.237.160.86:7283/NFL-PASS-02/index.m3u8?un=magistv2021t&tm=1620583482&sn=R17qSZRb08kul7h9KHOtcWtIJUn
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 03 HD
+http://23.237.160.86:7283/NFL-PASS-03/index.m3u8?un=magistv2021t&tm=1620583482&sn=NPJnllNG73UAJntGiXiCWh8KHiu
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 04 HD
+http://23.237.160.86:7283/NFL-PASS-04/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZvZ3P0gYPUgoOYsDBLhzVbJPxZh
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 05 HD
+http://23.237.160.86:7283/NFL-PASS-05/index.m3u8?un=magistv2021t&tm=1620583482&sn=XXmwcgmd2uCIZLBnbwuhV1jmLA9
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 06 HD
+http://23.237.160.86:7283/NFL-PASS-06/index.m3u8?un=magistv2021t&tm=1620583482&sn=QguMW336brugWjel5X3z68iVBQ4
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 07 HD
+http://23.237.160.86:7283/NFL-PASS-07/index.m3u8?un=magistv2021t&tm=1620583482&sn=NesS2P1jkzz9yavwwHdphgF8pSP
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 08 HD
+http://23.237.160.86:7283/NFL-PASS-08/index.m3u8?un=magistv2021t&tm=1620583482&sn=PrhilV2GZTnNzMVS66CMGZtEsgx
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 09 HD
+http://23.237.160.86:7283/NFL-PASS-09/index.m3u8?un=magistv2021t&tm=1620583482&sn=UsyM0BaLwbzUfwiWE6W33p2MAhV
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 10 HD
+http://23.237.160.86:7283/NFL-PASS-10/index.m3u8?un=magistv2021t&tm=1620583482&sn=T2itRbTHAUpEXGzZ4HVGF6Zt7qs
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 11 HD
+http://23.237.160.86:7283/NFL-PASS-11/index.m3u8?un=magistv2021t&tm=1620583482&sn=HWGVHOsr10WoQpWUBfeQ1jHuJNv
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 12 HD
+http://23.237.160.86:7283/NFL-PASS-12/index.m3u8?un=magistv2021t&tm=1620583482&sn=S1jEruzoaMyDtSmMI685WW5HheW
+#EXTINF:0 tvg-id="ext" group-title="NFL PASS",NFL PASS 13 HD
+http://23.237.160.86:7283/NFL-PASS-13/index.m3u8?un=magistv2021t&tm=1620583482&sn=GmlI7jRg9Euaknm7WPsT8lixnTm
+
+#EXTINF:0 tvg-id="AyE.mx" group-title="Cine y Series",A&E HD
+http://23.237.160.86:7283/HY-645/index.m3u8?un=magistv2021t&tm=1620583482&sn=HqpYXNh4aMPlkEAFdiDzLHShzNF
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",A3S Series HD
+http://23.237.160.86:7283/HY-643/index.m3u8?un=magistv2021t&tm=1620583482&sn=AYuRHZ4lvJr18eSF1Yv0NIcFbG3
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 1 HD
+http://23.237.160.86:7283/ALQUILER-1/index.m3u8?un=magistv2021t&tm=1620583482&sn=YA5Wb8Iy1enix57AqOQYUQJmXO3
+#EXTINF:0 tvg-id="Alquiler2.es" group-title="Cine y Series",ALQUILER 2 HD
+http://23.237.160.86:7283/ALQUILER-2/index.m3u8?un=magistv2021t&tm=1620583482&sn=TIyaHrIE97neEpQwuTjIdD91FcV
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 3 HD
+http://23.237.160.86:7283/ALQUILER-3/index.m3u8?un=magistv2021t&tm=1620583482&sn=MBhMznmNvujnbOmNxIs9rcaA0tQ
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 4 HD
+http://23.237.160.86:7283/ALQUILER-4/index.m3u8?un=magistv2021t&tm=1620583482&sn=BQXHj13uL9k9QwGoo6T1Mzlfhs1
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 5 HD
+http://23.237.160.86:7283/ALQUILER-5/index.m3u8?un=magistv2021t&tm=1620583482&sn=CM1GmYzaF8qaPTuwKM51Zk4GHNC
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ALQUILER 6 HD
+http://23.237.160.86:7283/ALQUILER-6/index.m3u8?un=magistv2021t&tm=1620583482&sn=RJirhiWgkonMFrqf6UA4ZHq4Tub
+#EXTINF:0 tvg-id="AMC.uk" group-title="Cine y Series",AMC FHD
+http://23.237.160.86:7283/AMC-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZFPCbLRRyvFAu24wmGu1sPEbXyi
+#EXTINF:0 tvg-id="AMC.uk" group-title="Cine y Series",AMC HD
+http://23.237.160.86:7283/HY-1358/index.m3u8?un=magistv2021t&tm=1620583482&sn=CDBazMTPFDFefPGMXTljNCb76Ss
+#EXTINF:0 tvg-id="AXN.it" group-title="Cine y Series",AXN HD
+http://23.237.160.86:7283/HY-654/index.m3u8?un=magistv2021t&tm=1620583482&sn=HD3gVnfTJegs4ftw8prBnhycHuf
+#EXTINF:0 tvg-id="AzClicHD.cl" group-title="Cine y Series",AZ CINEMA FHD
+http://23.237.160.86:7283/AZ-CINEMA-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5MJFBx2kHA7C55DirdKo3v25HmW
+#EXTINF:0 tvg-id="Calle13.es" group-title="Cine y Series",CALLE 13 HD
+http://23.237.160.86:7283/CALLE-13-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=97WuQmww4kBXF2uyESd1DQ3lhtx
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Cine y Series",CANAL DE LAS ESTRELLA
+http://23.237.160.86:7283/CANAL-DE-LAS-ESTRELLA/index.m3u8?un=magistv2021t&tm=1620583482&sn=62AJWmzLukDKlQTVetIEUuVFnmP
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINE AR HD
+http://23.237.160.86:7283/CINE-AR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Jf1stDIcXbLdZGMKzIfhoFvFbSA
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINE LATINO HD
+http://23.237.160.86:7283/CINE-LATINO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PBa9Ef4LJ3TJAZGOXNGY6Xn26T7
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Cine y Series",Cinecanal HD
+http://23.237.160.86:7283/HY-695/index.m3u8?un=magistv2021t&tm=1620583482&sn=P1uMN9kjQGwdQX5KU1uQIL60Spv
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",CINEMA DINAMITA HD
+http://23.237.160.86:7283/CINEMA-DINAMITA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QH8jKMtlDWagUIHl8fu58nVjftL
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Cine y Series",CINEMAX FHD
+http://23.237.160.86:7283/CINEMAX-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EKEmClL1Yd89jtBIagY1w2Ai8At
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Cine y Series",Cinemax HD
+http://23.237.160.86:7283/HY-696/index.m3u8?un=magistv2021t&tm=1620583482&sn=UZk8qS5aaSFi83gEPtqnYY3UBwk
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Cine y Series",COMEDY CENTRAL HD
+http://23.237.160.86:7283/COMEDY-CENTRAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RBB8wGEVhHKw0mU2qqe0nfLqVvR
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Cine y Series",De Pelicula
+http://23.237.160.86:7283/HY-703/index.m3u8?un=magistv2021t&tm=1620583482&sn=UhT2XOntzbLKdwLtsYGGTlmHEc
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DE PELICULA PLUS FHD
+http://23.237.160.86:7283/DE-PELICULA-PLUS-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GuLfyzzkFiDsGOp5lANPrTaHRRR
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DHE FHD
+http://23.237.160.86:7283/DHE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=30XPul4Ytuo3g0AHHN001sqUMi6
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",DISTRITO COMEDIA HD
+http://23.237.160.86:7283/DISTRITO-COMEDIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KF2ZplwuKMzbjdrNQsWMOaRvckN
+#EXTINF:0 tvg-id="E.uk" group-title="Cine y Series",E! HD
+http://23.237.160.86:7283/HY-721/index.m3u8?un=magistv2021t&tm=1620583482&sn=WFmgMd7YkVtBk2YRuEmQquBkGjI
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 ESTE HD
+http://23.237.160.86:7283/EPIX-1-ESTE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UKWiipZdye2BjnIHiMUB5xCtiwL
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 HD
+http://23.237.160.86:7283/EPIX-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8HcyMiIPG2C5bz1SgxuDKHZyYE0
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 HITS HD
+http://23.237.160.86:7283/EPIX-1-HITS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=F5lS9xyGisenA27Kwf5h72q61Iu
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX 1 OESTE HD
+http://23.237.160.86:7283/EPIX-1-OESTE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BWjUWaNTavhHI7hPe2mnSCRiG5I
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EPIX DRIVE HD
+http://23.237.160.86:7283/EPIX-DRIVE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=I7CVagTzVfo8w7sxhvL1rxHh3gv
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",EUROPA EUROPA HD
+http://23.237.160.86:7283/EUROPA-EUROPA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SHUTsiCq8FeGGdKKFUfPgCZLRm2
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FX Central HD
+http://23.237.160.86:7283/HY-766/index.m3u8?un=magistv2021t&tm=1620583482&sn=8YiTAzBBA2TPt3RIju6mVh5djYZ
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Cine y Series",FX HD
+http://23.237.160.86:7283/FX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ol3VC2wu3hDo6eAMfk4ucxtq4UH
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM Central HD
+http://23.237.160.86:7283/HY-767/index.m3u8?un=magistv2021t&tm=1620583482&sn=VbdAODeRZ11J3k27p53VJHDWml8
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM FHD
+http://23.237.160.86:7283/FXM-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=T5u5Lrz69v75fBGycRWITQAMS4H
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",FXM HD
+http://23.237.160.86:7283/FXM-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RSnd87i3OUAkkNJv9bSOx1zYenS
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PLUS
+http://23.237.160.86:7283/GOLDEN-PLUS/index.m3u8?un=magistv2021t&tm=1620583482&sn=a5KJFIO5MwO6E2CPlsCbKmYa5NY
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PLUS MX FHD
+http://23.237.160.86:7283/GOLDEN-PLUS-MX-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Arlz1qnwVxPIUGlVd0A2jug1FEs
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",GOLDEN PREMIER FHD
+http://23.237.160.86:7283/GOLDEN-PREMIER-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=C6qJxvtFtbIWKLaH2Z9cgj2Ih54
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Cine y Series",HBO 2 HD
+http://23.237.160.86:7283/HY-781/index.m3u8?un=magistv2021t&tm=1620583482&sn=AisYINhykUOr6XlfGDscUohbY8j
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",HBO Central HD
+http://23.237.160.86:7283/HBO-Central-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Nhl2Jdww2ZpyVv6T6qJacQeaDZf
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Cine y Series",HBO FAMILY FHD
+http://23.237.160.86:7283/HBO-FAMILY-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OBBX9qY1RL5wZUGvBUxOsBbzxhz
+#EXTINF:0 tvg-id="HBO.hu" group-title="Cine y Series",HBO HD
+http://23.237.160.86:7283/HY-783/index.m3u8?un=magistv2021t&tm=1620583482&sn=X5WTQqF7Qr3IaZGHZv5uoqkFJOE
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Cine y Series",HBO HD+
+http://23.237.160.86:7283/HY-784/index.m3u8?un=magistv2021t&tm=1620583482&sn=L1QYVlGLikhtqhKY4PutdBna1uI
+#EXTINF:0 tvg-id="Maxhd.br" group-title="Cine y Series",HBO MUNDI HD
+http://23.237.160.86:7283/HBO-MUNDI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L0yTgveUB1jrOVspX85regnNOnL
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Cine y Series",HBO Plus HD
+http://23.237.160.86:7283/HY-785/index.m3u8?un=magistv2021t&tm=1620583482&sn=J0GVUNkF5HJfgmScGGQTru44Fjj
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",HBO POP HD
+http://23.237.160.86:7283/HY-798/index.m3u8?un=magistv2021t&tm=1620583482&sn=NjL6X7aWY2hJwZcOtkjY7NSDZWQ
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Cine y Series",HBO Signature HD
+http://23.237.160.86:7283/HY-786/index.m3u8?un=magistv2021t&tm=1620583482&sn=YCimCpBtD3esYThVCSpuITEnxao
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Cine y Series",HBO Xtreme HD
+http://23.237.160.86:7283/HY-797/index.m3u8?un=magistv2021t&tm=1620583482&sn=WYem3lNkgeHdfMih0SlWTVNuduJ
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",HBO2 Central HD
+http://23.237.160.86:7283/HBO2-Central-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BSC5wgPp7ftznV1SBc1g6CPd6Bc
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Cine y Series",HOLLYWOOD HD
+http://23.237.160.86:7283/HOLLYWOOD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L4OFyiBvwBRMCAU2QLWoznW2HLD
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Las Estrellas Mex HD
+http://23.237.160.86:7283/HY-793/index.m3u8?un=magistv2021t&tm=1620583482&sn=A2HNf0uMYb80qFtMcvKR4eng41F
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MC HD
+http://23.237.160.86:7283/HY-799/index.m3u8?un=magistv2021t&tm=1620583482&sn=W5Z6Bdkovk8SdNah3jOxdSLaYEr
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MORBIDO TV HD
+http://23.237.160.86:7283/MORBIDO-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1iyAcZS0WMk0qkzJMgag24OzbNz
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="Cine y Series",MOVISTAR ACCION HD
+http://23.237.160.86:7283/MOVISTAR-ACCION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JglVogcSJ4LC9wB5KnbNE63d4OQ
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="Cine y Series",MOVISTAR COMEDIA HD
+http://23.237.160.86:7283/MOVISTAR-COMEDIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Z4CYwKQfj6BE36f5PkXOJIetORQ
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MOVISTAR DRAMA HD
+http://23.237.160.86:7283/MOVISTAR-DRAMA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OVVAODz0FVHxxOOqBLZiWavN5Lo
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="Cine y Series",MOVISTAR ESTRENOS HD
+http://23.237.160.86:7283/MOVISTAR-ESTRENOS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=U2s9jl94TqNY5MGzp1rGDEmVV6D
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",MOVISTAR SERIESMANIA HD
+http://23.237.160.86:7283/MOVISTAR-SERIESMANIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=N0CSu22rBRqDNA92OqDFyULj0mX
+#EXTINF:0 tvg-id="Neox.es" group-title="Cine y Series",NEOX HD
+http://23.237.160.86:7283/NEOX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=P2uJtbMZF8tqFouGrlxO2GVB7tO
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",PANICO HD
+http://23.237.160.86:7283/PANICO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7svN9SyEfnbN5tx6lrykQhK9c70
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Cine y Series",Paramount Hd
+http://23.237.160.86:7283/HY-823/index.m3u8?un=magistv2021t&tm=1620583482&sn=5OPyKSsZZ4rp1XVogyYTPKKQC3r
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Cine y Series",PASIONES
+http://23.237.160.86:7283/PASIONES/index.m3u8?un=magistv2021t&tm=1620583482&sn=PLznRvPv6zLxHFPRDBNzytaJhiB
+#EXTINF:0 tvg-id="SHOWTIME2HD.us" group-title="Cine y Series",SHOWTIME 2 HD
+http://23.237.160.86:7283/SHOWTIME-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RbsUvnGpqGDfvVAdruabggIubdd
+#EXTINF:0 tvg-id="ShowtimeBeyondHD.us" group-title="Cine y Series",SHOWTIME BEYOND HD
+http://23.237.160.86:7283/SHOWTIME-BEYOND-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=wtQIBjoOJ5RHys20BUdx1hitM7
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="Cine y Series",SHOWTIME EAST
+http://23.237.160.86:7283/SHOWTIME-EAST/index.m3u8?un=magistv2021t&tm=1620583482&sn=8U8oqpKLgpILz4e2nNew98m1alH
+#EXTINF:0 tvg-id="ShowtimeExtremeHD.us" group-title="Cine y Series",SHOWTIME EXTREME HD
+http://23.237.160.86:7283/SHOWTIME-EXTREME-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JLXhfFKtNN53dxS87MAnNF0aI7H
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="Cine y Series",SHOWTIME HD
+http://23.237.160.86:7283/SHOWTIME-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FGDwmJtHpg2KBhYdHwL8MDV2k0t
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",SHOWTIME WEST HD
+http://23.237.160.86:7283/SHOWTIME-WEST-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=aQsQkTymED0Ae18Qc1lr6sfuxYf
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Sony Central HD
+http://23.237.160.86:7283/HY-830/index.m3u8?un=magistv2021t&tm=1620583482&sn=WzL83pX5hSGOV4wD0O7auA9Lz0k
+#EXTINF:0 tvg-id="set" group-title="Cine y Series",Sony HD
+http://23.237.160.86:7283/HY-829/index.m3u8?un=magistv2021t&tm=1620583482&sn=2CqO7fpCkgTU16SQveZSTJzU2VE
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Space Central HD
+http://23.237.160.86:7283/HY-831/index.m3u8?un=magistv2021t&tm=1620583482&sn=DByFM5VuQEVPN0gbE8J3f5GtaS2
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Cine y Series",Space HD
+http://23.237.160.86:7283/HY-832/index.m3u8?un=magistv2021t&tm=1620583482&sn=XKKNjMNKNd5wXZ37v23kICV586f
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",SR CINE HD
+http://23.237.160.86:7283/FRECUENCIA-MOVIES-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FhzJcpaMQ04nBD9ZuQiHXJvEkoJ
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR ACTION FHD
+http://23.237.160.86:7283/HY-747/index.m3u8?un=magistv2021t&tm=1620583482&sn=35rXFTtzbsmHzDnJQfEtWf5kA5G
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR ACTION HD
+http://23.237.160.86:7283/FOX-ACTION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QoXv2UzwwbdGFQa7DBgdRVG1pBK
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR CHANNEL Central HD
+http://23.237.160.86:7283/HY-741/index.m3u8?un=magistv2021t&tm=1620583482&sn=aFPx5HDnmdUh6hc8rdQUzRcfeSd
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR CHANNEL HD
+http://23.237.160.86:7283/HY-739/index.m3u8?un=magistv2021t&tm=1620583482&sn=DhS2I9LIUkRVg0Z94EfwhCBu9pL
+#EXTINF:0 tvg-id="otr" group-title="Cine y Series",STAR CHANNEL HD+
+http://23.237.160.86:7283/HY-740/index.m3u8?un=magistv2021t&tm=1620583482&sn=Zwrsh45zzpH4OVZifaoncKEWCsP
+#EXTINF:0 tvg-id="star-cinema" group-title="Cine y Series",STAR CINEMA HD
+http://23.237.160.86:7283/FOX-CINEMA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JiqszGTk0ujx6llkCtJSYHmWlmd
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR CLASSICS HD
+http://23.237.160.86:7283/FOX-CLASSICS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MjgbSzaWh1SNxFHIdZgu4XtQZW
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR COMEDY FHD
+http://23.237.160.86:7283/HY-750/index.m3u8?un=magistv2021t&tm=1620583482&sn=V0kxS6DbdiaQdQWtA7p1mEXvTSL
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR FUN HD
+http://23.237.160.86:7283/FOX-FAMILY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=O8bnL0h0ugpKzxAECZQQxwQ8WIo
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR HITS FHD
+http://23.237.160.86:7283/HY-752/index.m3u8?un=magistv2021t&tm=1620583482&sn=QnpfaZExuLJuALhapPkh2PTJseG
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR HITS HD+
+http://23.237.160.86:7283/FOX-MOVIES-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SZ1zwxKuT5gbFsjV5VnAjYk7QW0
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR LIFE HD
+http://23.237.160.86:7283/HY-742/index.m3u8?un=magistv2021t&tm=1620583482&sn=LW4tY06BkV0lMMbYS72lt989ifu
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Cine y Series",STAR LIFE HD+
+http://23.237.160.86:7283/HY-743/index.m3u8?un=magistv2021t&tm=1620583482&sn=Wtovoc63aYvLyEi154g2ElmO9ny
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR SERIES
+http://23.237.160.86:7283/FOX-SERIES/index.m3u8?un=magistv2021t&tm=1620583482&sn=QZ5gOXD2XGrBjjn3dSF5kAiCjxU
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR SERIES ESTE HD
+http://23.237.160.86:7283/HY-753/index.m3u8?un=magistv2021t&tm=1620583482&sn=NmKUb9dGxsLk5RwbdJktzy0dLJF
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",STAR SERIES FHD
+http://23.237.160.86:7283/FOX-SERIES-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UXZCKVaQbq1aJSQVaNCg96CfWem
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Cine y Series",Studio Universal HD
+http://23.237.160.86:7283/HY-838/index.m3u8?un=magistv2021t&tm=1620583482&sn=a6Kjw79KmmTwoFRvem1RNh2dsCP
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Cine y Series",Syfy HD
+http://23.237.160.86:7283/HY-839/index.m3u8?un=magistv2021t&tm=1620583482&sn=RzEY6A3v92r9jEbvgLOnX5Iofee
+#EXTINF:0 tvg-id="TCM.uk" group-title="Cine y Series",TCM HD
+http://23.237.160.86:7283/HY-841/index.m3u8?un=magistv2021t&tm=1620583482&sn=E5sFh4V4GdoarIhHv2Uwk93m74D
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Cine y Series",TLNOVELAS SD
+http://23.237.160.86:7283/tlNovela-SD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IjiipGq1LElwJ0GYeAMYAR25maC
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",TLNOVELAS UNIVISION HD
+http://23.237.160.86:7283/TLNOVELAS-UNIVISION-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Km4e8wU5nSeJwobUv1WB7J4TVRD
+#EXTINF:0 tvg-id="tnt" group-title="Cine y Series",TNT HD
+http://23.237.160.86:7283/HY-1331/index.m3u8?un=magistv2021t&tm=1620583482&sn=FIYoqq0Pij8M9iImpUZfSf9VjHc
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Cine y Series",TNT Series HD
+http://23.237.160.86:7283/HY-1332/index.m3u8?un=magistv2021t&tm=1620583482&sn=BLa8mX9waMq5rjoZxyhe0i2nOD5
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Cine y Series",TRU TV FHD
+http://23.237.160.86:7283/TRU-TV-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YfTXPvq4JBYRNzjeloOUgJjEKlx
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Cine y Series",TRU TV HD
+http://23.237.160.86:7283/HY-1337/index.m3u8?un=magistv2021t&tm=1620583482&sn=VDT8agLoWrP6V469wc99ui6Hf34
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Cine y Series",UNICABLE
+http://23.237.160.86:7283/UNICABLE-SD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MF0dTjlr7lYHxI7FFSHOvoDflFL
+#EXTINF:0 tvg-id="Universal.uk" group-title="Cine y Series",Universal Channel HD
+http://23.237.160.86:7283/HY-1347/index.m3u8?un=magistv2021t&tm=1620583482&sn=JkcPiOeeX3kpNi8sLBloQBMKFf8
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Cine y Series",Warner Channel HD
+http://23.237.160.86:7283/Warner-Channel-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XUQwV0cQfVeF95wtPfC9XWliawB
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Cine y Series",Warner HD
+http://23.237.160.86:7283/HY-1355/index.m3u8?un=magistv2021t&tm=1620583482&sn=AfhrJd5ew9vClITKkrYXhlxO4rU
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Cine y Series",Warner HD+
+http://23.237.160.86:7283/HY-1354/index.m3u8?un=magistv2021t&tm=1620583482&sn=EW6qnTv8YF2K3AtbMB4VD70UiIu
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",XTRM ESPAÑA HD
+http://23.237.160.86:7283/XTRM-ESPANA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YpoALRMaNRgbTXIeIVA9Qn9iVfg
+#EXTINF:0 tvg-id="ext" group-title="Cine y Series",ZEE MUNDO BOLLYWOOD HD
+http://23.237.160.86:7283/ZEE-MUNDO-BOLLYWOOD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3rgpbACqWgsSDmtsra7SbMGcXq1
+
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",ANTENA LATINA HD
+http://23.237.160.86:7283/ANTENA-LATINA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QFcWIkiAqohwx8kZ6GTi66dyPnJ
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CANAL 4 RD HD
+http://23.237.160.86:7283/CANAL-4-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4IprovVD3WOWS3iE3vpOQiTdOUY
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CDN RD HD
+http://23.237.160.86:7283/CDN-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=59kHQo6gL6CHnmWodq7C4EcbSSX
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",CDN SPORTSMAX RD HD
+http://23.237.160.86:7283/CDN-SPORTS-MAX-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JNYhn4K17oYs1TFUOkkIOLxCbCc
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",COLOR VISION RD HD
+http://23.237.160.86:7283/COLOR-VISION-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VtyReTgK7PrHmL1BjYYwS6gBiAs
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",DIGITAL 15 RD
+http://23.237.160.86:7283/DIGITAL-15-RD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SKJ2gUFU7OOsTZqhonly0Dp6XZy
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",LUNA TV HD
+http://23.237.160.86:7283/LUNA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EGm29IlsvtQzt7gkI65UPcolMog
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",MICROVISION CANAL 10 RD HD
+http://23.237.160.86:7283/MICROVISION-CANAL-10-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ld9RqY8vCIs8dF22JXRAjfvZsPn
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",MICROVISION RD HD
+http://23.237.160.86:7283/MICROVISION-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VnjWP9reo5Qv0BKrzPR6y0Q6cY4
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEANTILLAS RD HD
+http://23.237.160.86:7283/TELEANTILLAS-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3Gl1Z7xxlI9cKP6ln93g1jrNIYL
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEMICRO RD
+http://23.237.160.86:7283/TELEMICRO-RD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L4PXgNGPeVgvLgbNDh2gFrajjee
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELESISTEMAS CANAL 11 RD HD
+http://23.237.160.86:7283/TELESISTEMAS-CANAL-11-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=79OzpEWcRqfWPBfTIwLLZyg1aw5
+#EXTINF:0 tvg-id="ext" group-title="República Dominicana",TELEUNIVERSO RD HD
+http://23.237.160.86:7283/TELEUNIVERSO-RD-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ET96HMFPPj1zoVdlggxnZf1ELyp
+
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",EXTREMA TV CR
+http://23.237.160.86:7283/EXTREMA-TV-CR/index.m3u8?un=magistv2021t&tm=1620583482&sn=VNJvNF8XS6ToXGYmrzF0AdMW6lD
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",FUTV CR HD
+http://23.237.160.86:7283/FUTV-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GL8p74Vx5oISEmoJHVBSljgX41c
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",FUTV CR OPC 2 HD
+http://23.237.160.86:7283/FUTV-CR-2-HD-opc2/index.m3u8?un=magistv2021t&tm=1620583482&sn=R185212B9wkLU34JVo45CgiSTpa
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",MULTIMEDIOS CR HD
+http://23.237.160.86:7283/MULTIMEDIOS-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LrXB2e9XU4xTxkVfPWgrfcKIIDV
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",REPRETEL CANAL 11 CR HD
+http://23.237.160.86:7283/REPRETEL-CANAL-11-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9UT102wB9rFsYUV11kiggq8JPw6
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",Repretel Canal 4 CR HD
+http://23.237.160.86:7283/REPRETEL-CANAL-4-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LhNzXUW9kIS8uubPrc1jSRn4AgX
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",REPRETEL CANAL 6 CR HD
+http://23.237.160.86:7283/REPRETEL-CANAL-6-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=W8wVBDeTSmvZvww3l6qc0kUUYkA
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TD+ 2 CR HD
+http://23.237.160.86:7283/TD-2-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JMEBaWQEcbWUaekyMzkS9e6EUw8
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TD+ CR HD
+http://23.237.160.86:7283/TD-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MRHnBIEFHglnKDSmbOh36bIlCKs
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TELETICA 7 CR
+http://23.237.160.86:7283/TELETICA-7-CR/index.m3u8?un=magistv2021t&tm=1620583482&sn=NPmzMO3Za0HhfDkyYOB8f1fMW2W
+#EXTINF:0 tvg-id="ext" group-title="Costa Rica",TIGO SPORT CR HD
+http://23.237.160.86:7283/TIGO-SPORT-CR-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YYZwKhiXbPk4xzptGWgxGxKs5aI
+
+#EXTINF:0 tvg-id="ext" group-title="México",AFFIZIONADO HD
+http://23.237.160.86:7283/AFFIZIONADO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VztGWtHEFhbHdge6okqNZ2z52E5
+#EXTINF:0 tvg-id="ext" group-title="México",Altitude Sports 1 HD
+http://23.237.160.86:7283/HY-647/index.m3u8?un=magistv2021t&tm=1620583482&sn=8p0ih6y9RNCVlj300CLPI4UIDA9
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sport HD
+http://23.237.160.86:7283/AT-T-Sport-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GrZu0fjaVOOWK27uxCQUYVXqjhD
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 1 HD
+http://23.237.160.86:7283/HY-646/index.m3u8?un=magistv2021t&tm=1620583482&sn=Y8J3QE6o6hEHJYoPIE78ujW5jZO
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 2 HD
+http://23.237.160.86:7283/HY-837/index.m3u8?un=magistv2021t&tm=1620583482&sn=SbJTUnPR8cx1d2A1zhXIdaN45dg
+#EXTINF:0 tvg-id="ext" group-title="México",AT&T Sportsnet 3 HD
+http://23.237.160.86:7283/HY-810/index.m3u8?un=magistv2021t&tm=1620583482&sn=Bt5NJLhJqmaTYHpW4cOIOtQiIah
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="México",AZ CORAZON HD
+http://23.237.160.86:7283/AZ-CORAZON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QpyHQQ9yWugWaqloDlKAJHbAA83
+#EXTINF:0 tvg-id="ext" group-title="México",Azteca 1 HD
+http://23.237.160.86:7283/HY-655/index.m3u8?un=magistv2021t&tm=1620583482&sn=Msh9BiTa9wr7dqqyOyqv8T7SV4t
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="México",Azteca 7 HD
+http://23.237.160.86:7283/HY-656/index.m3u8?un=magistv2021t&tm=1620583482&sn=G9wPy3CQPl8yvq8H0sH8heQnHJY
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="México",Canal 5 HD
+http://23.237.160.86:7283/HY-686/index.m3u8?un=magistv2021t&tm=1620583482&sn=WuyTDpl2ci3d7ZhKyfcun7da78U
+#EXTINF:0 tvg-id="ext" group-title="México",CANAL ONCE MX HD
+http://23.237.160.86:7283/CANAL-ONCE-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6xbmcX8iTbx6AusntcMYlxdm4H4
+#EXTINF:0 tvg-id="ext" group-title="México",DISTRITO COMEDIA HD
+http://23.237.160.86:7283/DISTRITO-COMEDIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KF2ZplwuKMzbjdrNQsWMOaRvckN
+#EXTINF:0 tvg-id="ForoTVHD.mx" group-title="México",FORO TV HD
+http://23.237.160.86:7283/FORO-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VBHsgREs5IKudsdNiQBXxhaI1mq
+#EXTINF:0 tvg-id="ext" group-title="México",FXM Central HD
+http://23.237.160.86:7283/HY-767/index.m3u8?un=magistv2021t&tm=1620583482&sn=VbdAODeRZ11J3k27p53VJHDWml8
+#EXTINF:0 tvg-id="ext" group-title="México",Galavision East
+http://23.237.160.86:7283/HY-768/index.m3u8?un=magistv2021t&tm=1620583482&sn=8d80rC7dihOJYmJoSaJzCke15kM
+#EXTINF:0 tvg-id="ext" group-title="México",Galavision West
+http://23.237.160.86:7283/HY-769/index.m3u8?un=magistv2021t&tm=1620583482&sn=WXxIr3rekFlGZV9NtPtrmFuzbfJ
+#EXTINF:0 tvg-id="ext" group-title="México",Golf HD USA
+http://23.237.160.86:7283/HY-775/index.m3u8?un=magistv2021t&tm=1620583482&sn=IpC0kEsWExxCxrG6gQmw4FrZiyr
+#EXTINF:0 tvg-id="ext" group-title="México",Imagen HD
+http://23.237.160.86:7283/HY-790/index.m3u8?un=magistv2021t&tm=1620583482&sn=IuR1qkrokbxdDGbDlLDZork61mF
+#EXTINF:0 tvg-id="ext" group-title="México",Las Estrellas Mex HD
+http://23.237.160.86:7283/HY-793/index.m3u8?un=magistv2021t&tm=1620583482&sn=A2HNf0uMYb80qFtMcvKR4eng41F
+#EXTINF:0 tvg-id="ext" group-title="México",Mans 1 HD
+http://23.237.160.86:7283/HY-795/index.m3u8?un=magistv2021t&tm=1620583482&sn=2hpwJfIb0nUDLhK3hbHGLJEdMTU
+#EXTINF:0 tvg-id="ext" group-title="México",Mans 2 HD
+http://23.237.160.86:7283/HY-796/index.m3u8?un=magistv2021t&tm=1620583482&sn=SBu7JXyM6SEmG0rtOOYRoLzpwmL
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="México",MILENIO TV HD
+http://23.237.160.86:7283/MILENIO-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VAOe3fsK9o1eMw9b4q32rBXwept
+#EXTINF:0 tvg-id="ext" group-title="México",MULTIMEDIOS MX HD
+http://23.237.160.86:7283/MULTIMEDIOS-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FTuIdVguyfeVHhK7I3lyK43nF96
+#EXTINF:0 tvg-id="ext" group-title="México",NBC Chicago Sports 2 HD
+http://23.237.160.86:7283/HY-834/index.m3u8?un=magistv2021t&tm=1620583482&sn=UO3w5MaQ7B77xRLoxhIxnZrs1nE
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="México",NBC Sports Network HD
+http://23.237.160.86:7283/HY-812/index.m3u8?un=magistv2021t&tm=1620583482&sn=Cvw84k57vRKovF2wHrPXeGRwcb
+#EXTINF:0 tvg-id="ext" group-title="México",NESN Boston
+http://23.237.160.86:7283/HY-833/index.m3u8?un=magistv2021t&tm=1620583482&sn=3aPLLSK0ssk1nQHAC4R0wMxFD1H
+#EXTINF:0 tvg-id="ext" group-title="México",NESN Plus
+http://23.237.160.86:7283/HY-836/index.m3u8?un=magistv2021t&tm=1620583482&sn=BDfO6QmMAPwnqp2EA2Njfg2oj1A
+#EXTINF:0 tvg-id="ext" group-title="México",NHL HD
+http://23.237.160.86:7283/HY-1342/index.m3u8?un=magistv2021t&tm=1620583482&sn=1GwG7UfzFNuTO3zaQgj03D0FcYQ
+#EXTINF:0 tvg-id="ext" group-title="México",NUEVE MX HD
+http://23.237.160.86:7283/NUEVE-MX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LvzcQXIUbIy2baNYRzMQsUjy4Yx
+#EXTINF:0 tvg-id="outdoor-hd" group-title="México",Outdoor HD
+http://23.237.160.86:7283/HY-826/index.m3u8?un=magistv2021t&tm=1620583482&sn=C5vAg00oo6Le990U5LquGxWoMGP
+#EXTINF:0 tvg-id="ext" group-title="México",Root Sports HD
+http://23.237.160.86:7283/HY-652/index.m3u8?un=magistv2021t&tm=1620583482&sn=2qBEgoZ7VUu5hDO1p6Sy78v5ZSe
+#EXTINF:0 tvg-id="ext" group-title="México",Sony Central HD
+http://23.237.160.86:7283/HY-830/index.m3u8?un=magistv2021t&tm=1620583482&sn=WzL83pX5hSGOV4wD0O7auA9Lz0k
+#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="México",Sportsman HD
+http://23.237.160.86:7283/HY-822/index.m3u8?un=magistv2021t&tm=1620583482&sn=LVLctWZM7LyjxSuYNvWRKeGtNRG
+#EXTINF:0 tvg-id="ext" group-title="México",Unimas East HD
+http://23.237.160.86:7283/HY-1344/index.m3u8?un=magistv2021t&tm=1620583482&sn=KbKUzwlEouexzrJwIETsVT0kNEP
+#EXTINF:0 tvg-id="UniMasWestHD.us" group-title="México",Unimas West HD
+http://23.237.160.86:7283/HY-1346/index.m3u8?un=magistv2021t&tm=1620583482&sn=KwjzDjFqqLZXWgWxvoWgtZrPajT
+#EXTINF:0 tvg-id="UnivisionEastHD.us" group-title="México",Univision East HD
+http://23.237.160.86:7283/HY-1348/index.m3u8?un=magistv2021t&tm=1620583482&sn=XTPdcphoChZ2aQEShFK7fkYqnWf
+#EXTINF:0 tvg-id="ext" group-title="México",Univision West HD
+http://23.237.160.86:7283/HY-1351/index.m3u8?un=magistv2021t&tm=1620583482&sn=NquWAOcBiFKbNNa4GMiNGh1vNaS
+
+#EXTINF:0 tvg-id="ext" group-title="US Channels",A&E US HD
+http://23.237.160.86:7283/AE-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=87MxswSNw6u51RFo37o8cgPnsEN
+#EXTINF:0 tvg-id="ABCNews.al" group-title="US Channels",ABC NEWS
+http://23.237.160.86:7283/ABC-NEWS/index.m3u8?un=magistv2021t&tm=1620583482&sn=6U3r0PDenv7BSNiVmOJlOM8WnNj
+#EXTINF:0 tvg-id="AMC.us" group-title="US Channels",AMC USA HD
+http://23.237.160.86:7283/AMC-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SW5E7T3Nv32zCz3GcJTzT73AzYP
+#EXTINF:0 tvg-id="animal-hd" group-title="US Channels",ANIMAL PLANET HD
+http://23.237.160.86:7283/HY-650/index.m3u8?un=magistv2021t&tm=1620583482&sn=PiyhvYfeNqy6ejrCb5JkZJA3VEl
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="US Channels",ANIMAL PLANET US HD
+http://23.237.160.86:7283/ANIMAL-PLANET-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DXOlV4bP6l4XFX5kOFxa2vORJlK
+#EXTINF:0 tvg-id="BET.fr" group-title="US Channels",BET HD
+http://23.237.160.86:7283/BET-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6Iqa9W2E5ZhquPsAEa0awWU8Ixz
+#EXTINF:0 tvg-id="Bravo.us" group-title="US Channels",BRAVO US HD
+http://23.237.160.86:7283/BRAVO-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BtLCuhiACDiEEh9KV5V5YCLipjX
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Cartoon Network USA HD
+http://23.237.160.86:7283/CARTOON-NETWORK-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VfbuOxtsaFYdEDgW0CJZz95vYHu
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS 2 Los Angeles HD
+http://23.237.160.86:7283/CBS-2-Los-Angeles-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3UQl7fDnijfNxapB2ZJrZQwyoq2
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS DALLAS US HD
+http://23.237.160.86:7283/CBS-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Uqvwho2RfwVsFB9Kb1jcaJ25IVm
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS MIAMI USA HD
+http://23.237.160.86:7283/CBS-MIAMI-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZuEGBIiWx8KILC0m0u8oAMxy9nA
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CBS NEWS USA HD
+http://23.237.160.86:7283/CBS-NEWS-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZhSjvwSdpRd7IFV9zSCsDF362iB
+#EXTINF:0 tvg-id="SportsNetHD.ca" group-title="US Channels",CBS SPORTS NETWORK HD
+http://23.237.160.86:7283/CBS-SPORTS-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=K4HqvokapZGkiyQsLS6xiRQL1Lh
+#EXTINF:0 tvg-id="ActionMaxHD.us" group-title="US Channels",CINEMAX ACTION MAX HD
+http://23.237.160.86:7283/CINEMAX-ACTION-MAX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NXG3h736ex96b1RUJ643d4GaMFd
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CNBC US HD
+http://23.237.160.86:7283/CNBC-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DplpiCF71QAeB04Fgg3N08shk7l
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CNN US HD
+http://23.237.160.86:7283/CNN-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5S6BgltFi0B5DWhDcnJ9RGeiqvP
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="US Channels",COOKING CHANNEL HD
+http://23.237.160.86:7283/COOKING-CHANNEL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RMUZ5t54LsK66xVOTuFmzYxmnbL
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Crime Investigation Network USA
+http://23.237.160.86:7283/Crime-Investigation-Network-USA/index.m3u8?un=magistv2021t&tm=1620583482&sn=MdHu5FRHXEEdxklBwxUy1fzdL9s
+#EXTINF:0 tvg-id="ext" group-title="US Channels",CW CHANNEL HD
+http://23.237.160.86:7283/CW-CHANNEL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5hTdcIGpcf6wAsnnCj3qCNf5RLt
+#EXTINF:0 tvg-id="DestinationAmericaHD.us" group-title="US Channels",DESTINATION AMERICA HD
+http://23.237.160.86:7283/DESTINATION-AMERICA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=YVZcwo1Iv07zlt90uryrkGMnx0N
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISCOVERY CHANNELS US HD
+http://23.237.160.86:7283/DISCOVERY-CHANNELS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FE1HRd8I8QdnHvoSfo7jbnVqEzk
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY CHANNELS US HD
+http://23.237.160.86:7283/DISNEY-CHANNELS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RaHkXnLWPnKPkItksnV4dWuMhBy
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY JR USA HD
+http://23.237.160.86:7283/DISNEY-JR-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DsRRNo61pQpw6EyjfvwOnyDRPPy
+#EXTINF:0 tvg-id="ext" group-title="US Channels",DISNEY XD USA HD
+http://23.237.160.86:7283/DISNEY-XD-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=V5uMQtzUAPZuWywUH96zWiMc9DI
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="US Channels",DIY NETWORK HD
+http://23.237.160.86:7283/DIY-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3nwBbOp2IoDxyWr6SltnK4pKEZJ
+#EXTINF:0 tvg-id="ext" group-title="US Channels",E! US HD
+http://23.237.160.86:7283/E-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LOKoDhbO5NuzdCrlkuHHLv6dnOL
+#EXTINF:0 tvg-id="ext" group-title="US Channels",EPIX HITS HD
+http://23.237.160.86:7283/EPIX-HITS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=BxxWsmepCjGelCZDOwhTZQzVLAR
+#EXTINF:0 tvg-id="ext" group-title="US Channels",ESPN 2 US HD
+http://23.237.160.86:7283/ESPN2-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6HFNFaBiiC5U8GnoXEtDtzklOcC
+#EXTINF:0 tvg-id="ESPNU.us" group-title="US Channels",ESPN U HD
+http://23.237.160.86:7283/ESPN-U-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3jvratOaGyUsAsj7mt9qesAnvo5
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="US Channels",ESPN US HD
+http://23.237.160.86:7283/ESPN-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3c5L9KcCoyuuqzLBUqnflRlXder
+#EXTINF:0 tvg-id="ext" group-title="US Channels",ESTRELLA TV US HD
+http://23.237.160.86:7283/ESTRELLA-TV-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=59Bxl3GebEXYQBtavYAVpZS9orR
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="US Channels",FOOD NETWORK US HD
+http://23.237.160.86:7283/FOOD-NETWORK-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q45yrCD0lNrlnzY9eHbPjD0xtDO
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX 11 Los Angeles HD
+http://23.237.160.86:7283/FOX-11-Los-Angeles-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=STojcSy4ImjUMG5kGk0Xk3z8vEi
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX 5 NEW YORK HD
+http://23.237.160.86:7283/FOX-5-NEW-YORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=1SYh6o2KSTnw7UuKpEeLdH11nRS
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX DALLAS US HD
+http://23.237.160.86:7283/FOX-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HaQPlcFHypVxdnCWuYDSZdK9d9Q
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX FS1 HD
+http://23.237.160.86:7283/FOX-FS1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=E2FCR61YBt5fUkXFaaM4EYWnvnM
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FOX FS2 HD
+http://23.237.160.86:7283/FOX-FS2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4KNbbAxJVJmPpVcheGsLahMZOYm
+#EXTINF:0 tvg-id="FOXNewsChannelHD.us" group-title="US Channels",FOX NEWS US HD
+http://23.237.160.86:7283/FOX-NEWS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OnqE5RLRyJWC2m5ola1h24JPL9b
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FX US HD
+http://23.237.160.86:7283/FX-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IDbZZKw47Nv9hCmPlg0KCZ4lQlO
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FXM US HD
+http://23.237.160.86:7283/FXM-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=NtwEWAFz6EfTxKqLT20rkxXqOg
+#EXTINF:0 tvg-id="ext" group-title="US Channels",FXX US HD
+http://23.237.160.86:7283/FXX-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ayu4ftQWCLV1BtGJGkUfbPBpR9t
+#EXTINF:0 tvg-id="ext" group-title="US Channels",GALAVISION DALLAS US HD
+http://23.237.160.86:7283/GALAVISION-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=TXkpoTQ9AurOSijmaAYLlpQfkCz
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Golf HD USA
+http://23.237.160.86:7283/HY-775/index.m3u8?un=magistv2021t&tm=1620583482&sn=IpC0kEsWExxCxrG6gQmw4FrZiyr
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HALLMARK DRAMA USA HD
+http://23.237.160.86:7283/HALLMARK-DRAMA-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KGsP69vLbAmEoJJjiWO5XCHJ7SK
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HALLMARK USA HD
+http://23.237.160.86:7283/HALLMARK-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Spzlb5t9bmYejYp3MtnIJfIWLnl
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO 2 USA HD
+http://23.237.160.86:7283/HBO2-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=cWM9Ae5RXN3L5aVwmG3OO05rOi
+#EXTINF:0 tvg-id="HBO3.pl" group-title="US Channels",HBO COMEDY HD
+http://23.237.160.86:7283/HBO-COMEDY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DVQrdo0gDSApyTZLFC9Bg9O4X7z
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO FAMILY USA HD
+http://23.237.160.86:7283/HBO-FAMILY-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SgXGgxjfdOQtc1Bqp3AitgmhhH4
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO USA HD
+http://23.237.160.86:7283/HBO-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HYUsvL3VNmlv6vEkKK9kDJMh7ms
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HBO ZONE USA HD
+http://23.237.160.86:7283/HBO-ZONE-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=R2fX6e0gBx2kxob57RuJLLucPaA
+#EXTINF:0 tvg-id="hgtv" group-title="US Channels",HGTV HD
+http://23.237.160.86:7283/HGTV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZBsKVL44O5OlJ0NZev92eqbNeNd
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HISTORY CHANNELS US HD
+http://23.237.160.86:7283/HISTORY-CHANNELS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WKdhScMPBGaaxd9FoJ5TjDBJXKL
+#EXTINF:0 tvg-id="ext" group-title="US Channels",HISTORY USA ESP HD
+http://23.237.160.86:7283/HISTORY-USA-ESP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FT7izxzo12cDqa22gcJGNxieWhk
+#EXTINF:0 tvg-id="Lifetime.us" group-title="US Channels",LIFETIME US HD
+http://23.237.160.86:7283/LIFETIME-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=a6mBDBzV1ZFsctZzX4uRIxS8fzD
+#EXTINF:0 tvg-id="ext" group-title="US Channels",LOVE NATURE US HD
+http://23.237.160.86:7283/LOVE-NATURE-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GhPS9euHMegkNvpkbxhw29q8RGh
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="US Channels",MLB NETWORK
+http://23.237.160.86:7283/MLB-NETWORK/index.m3u8?un=magistv2021t&tm=1620583482&sn=70JkOMO4E8lPR5qOl2UovVmb1mA
+#EXTINF:0 tvg-id="MTV2.us" group-title="US Channels",MTV 2 US HD
+http://23.237.160.86:7283/MTV-2-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9i0agVVzGq3S70HYIIrCHjo8sj2
+#EXTINF:0 tvg-id="MTV.us" group-title="US Channels",MTV US HD
+http://23.237.160.86:7283/MTV-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=cWzlvYnjWn7f6Y4QnSlCyJ1PNd
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NAT GEO WILD USA
+http://23.237.160.86:7283/NAT-GEO-WILD-USA/index.m3u8?un=magistv2021t&tm=1620583482&sn=V8DBbqUxWknvDQWd0ATqROBNd38
+#EXTINF:0 tvg-id="NBA.blt" group-title="US Channels",NBA TV
+http://23.237.160.86:7283/NBA-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QKE6cpQPAzsTFcKWrRFLljyTs2W
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC Chicago Sports 2 HD
+http://23.237.160.86:7283/HY-834/index.m3u8?un=magistv2021t&tm=1620583482&sn=UO3w5MaQ7B77xRLoxhIxnZrs1nE
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC DALLAS US HD
+http://23.237.160.86:7283/NBC-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L40oeiO8CDcF872RhOEAWZgvUX2
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="US Channels",NBC Sports Network HD
+http://23.237.160.86:7283/HY-812/index.m3u8?un=magistv2021t&tm=1620583482&sn=Cvw84k57vRKovF2wHrPXeGRwcb
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC UNIVERSO HD
+http://23.237.160.86:7283/NBC-UNIVERSO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=L4rh3gQRlzJrmGkVXwtnfoWIArj
+#EXTINF:0 tvg-id="ext" group-title="US Channels",NBC USA HD
+http://23.237.160.86:7283/NBC-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HlRDYH2rn2WlEzXAZ6bDq1bTjIU
+#EXTINF:0 tvg-id="ext" group-title="US Channels",OXYGEN US HD
+http://23.237.160.86:7283/OXYGEN-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=JnKsATBj0IDI7bC9A6M2xPGBKME
+#EXTINF:0 tvg-id="ext" group-title="US Channels",PANICO HD
+http://23.237.160.86:7283/PANICO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7svN9SyEfnbN5tx6lrykQhK9c70
+#EXTINF:0 tvg-id="ext" group-title="US Channels",PARAMOUNT NETWORK USA HD
+http://23.237.160.86:7283/PARAMOUNT-NETWORK-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=I6fEC9UPAG003COdSkIqUgTs79k
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME 2 USA HD
+http://23.237.160.86:7283/SHOWTIME2-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ORZzbq2SjuTcgu0nv5EahvuVU0u
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME BEYOND USA HD
+http://23.237.160.86:7283/SHOWTIME-BEYOND-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HH94IEyg99X4uZNAH0OzTrBBvfN
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME EXTREME USA HD
+http://23.237.160.86:7283/SHOWTIME-EXTREME-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WigNmksTFoUyg6Gy1FPw7GYYz37
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SHOWTIME USA HD
+http://23.237.160.86:7283/SHOWTIME-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=321EYdTEg6SU0c57GJMG2xRxn9Z
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SMITHSONIAN CHANNELS HD
+http://23.237.160.86:7283/SMITHSONIAN-CHANNELS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=O17K0pL3KQTqHjlpfsZiR6RArAz
+#EXTINF:0 tvg-id="ext" group-title="US Channels",SPECTRUM SPORTSNET LA HD
+http://23.237.160.86:7283/SPECTRUM-SPORTSNET-LA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=IyyrVg9bACVA9xPpS9u257n4IaJ
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Sports Chicago
+http://23.237.160.86:7283/Sports-Chicago/index.m3u8?un=magistv2021t&tm=1620583482&sn=IecQfgzMDACSuP6SLEsmPdsBpCE
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ BLACK USA HD
+http://23.237.160.86:7283/STARZ-BLACK-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=W8kUk9Es9cIkUVOAWWGmNhzaRUB
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ CINEMA USA HD
+http://23.237.160.86:7283/STARZ-CINEMA-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=aAXQeEOUGWGGZbTYlXwOTMoTeja
+#EXTINF:0 tvg-id="ext" group-title="US Channels",STARZ USA HD
+http://23.237.160.86:7283/STARZ-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=2T539QTHLzuXKZl3sAvkrLI3gU5
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="US Channels",SYFY US HD
+http://23.237.160.86:7283/SYFY-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=UVNo1x7FavhpKM6EAahOV6pb78p
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TBS US HD
+http://23.237.160.86:7283/TBS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=7qxrPTNXyA9mlH2T9tm1xNpBE8D
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO 62 PHILADELFIA HD
+http://23.237.160.86:7283/TELEMUNDO-62-PHILADELFIA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=J59LOG5wwWJe6o7x6HaDdvnfLGI
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO BOSTON HD
+http://23.237.160.86:7283/TELEMUNDO-BOSTON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=3WhgRUo9ls4jZiFhaQoJjGTUoCb
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO DALLAS US HD
+http://23.237.160.86:7283/TELEMUNDO-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KqMSqJS57T1p6i9Zc44G0dVaffV
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO HOUSTON HD
+http://23.237.160.86:7283/TELEMUNDO-HOUSTON-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=M2yQcmNEh12WUd8omFX4Ff7rXxW
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO INTERNACIONAL HD
+http://23.237.160.86:7283/TELEMUNDO-INTERNACIONAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5ECPr4Y6NJgcXJeVcQDm3Ytv8FP
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo Los Angeles HD
+http://23.237.160.86:7283/Telemundo-Los-Angeles-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VPuxIpwIvwDYSO2tmqPTvku79ye
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO MIAMI HD
+http://23.237.160.86:7283/TELEMUNDO-MIAMI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DaqAuPXokFmjzrJt6UaVlSAjjVV
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO NY USA HD
+http://23.237.160.86:7283/TELEMUNDO-NY-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=49srkgC8pHSQlhmDV7eaiyVAxeT
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO PHOENIX ARIZONA HD
+http://23.237.160.86:7283/TELEMUNDO-PHOENIX-ARIZONA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=QFFuwAJmJLVHrMyWepQSnzJUvv3
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO TAMPA HD
+http://23.237.160.86:7283/TELEMUNDO-TAMPA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HYwSng8bgd2rtVHXFMe78aCqdrw
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo USA 1 HD
+http://23.237.160.86:7283/Telemundo-USA-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=CSMqKlm5PSlFzDekweu5O3PfVaw
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Telemundo USA 2 HD
+http://23.237.160.86:7283/Telemundo-USA-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=DZyShOEU2osxXhKVsY12SvAaU92
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TELEMUNDO USA HD
+http://23.237.160.86:7283/TELEMUNDO-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Enrg1Sll4ilbFTG3pQYAxFVpYDB
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TLC US HD
+http://23.237.160.86:7283/TLC-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LRl8O3S8ljwpkFbGrEs5GVSOKe1
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TNT USA 2 FHD
+http://23.237.160.86:7283/TNT-USA-2-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8vn5OEjfN4TJ38y0ViHGD3VE8xs
+#EXTINF:0 tvg-id="ext" group-title="US Channels",TNT USA HD
+http://23.237.160.86:7283/TNT-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GndE5mafXuSQ6PE1fMtmCmCvmDR
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Unimas Los Angeles HD
+http://23.237.160.86:7283/Unimas-Los-Angeles-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Wddv2fNW5drTNayypaXZ3sSqkCL
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIMAS SALT LAKE HD
+http://23.237.160.86:7283/UNIMAS-SALT-LAKE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9PeXHfGFflctmBizsMkFLZVLLzt
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVERSAL KIDS HD
+http://23.237.160.86:7283/UNIVERSAL-KIDS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Q9h8aIuMIeq3Cr3Cj6Kd78AIUN7
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION 23 MIAMI HD
+http://23.237.160.86:7283/UNIVISION-23-MIAMI-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4WLYsUbTHFKGfGpTNdi9L1Z6uYs
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION 41 NEW YORK HD
+http://23.237.160.86:7283/UNIVISION-41-NEW-YORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=5xSRg8B48mmGWHMsgzfFOvP9iRW
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION DALLAS US HD
+http://23.237.160.86:7283/UNIVISION-DALLAS-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=RBCriRD3MDYVIXiB55uFDvxdDlh
+#EXTINF:0 tvg-id="ext" group-title="US Channels",Univision Los Angeles HD
+http://23.237.160.86:7283/Univision-Los-Angeles-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6wojKotdKgm0BEZt3UuLc6Ib3DF
+#EXTINF:0 tvg-id="ext" group-title="US Channels",UNIVISION SALT LAKE HD
+http://23.237.160.86:7283/UNIVISION-SALT-LAKE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=D8shelEO3M2YWHHTcYxE6AETlxW
+#EXTINF:0 tvg-id="USANetwork.us" group-title="US Channels",USA NETWORK HD
+http://23.237.160.86:7283/USA-NETWORK-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Jaznmk8WfXmeXOKnSzds2NcU582
+#EXTINF:0 tvg-id="ext" group-title="US Channels",VELOCITY USA HD
+http://23.237.160.86:7283/VELOCITY-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=84Q62mBDlmZvoi2L29gO9BDvKSX
+#EXTINF:0 tvg-id="VH1.us" group-title="US Channels",VH1 US HD
+http://23.237.160.86:7283/VH1-US-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ji9LVT59yZDwypRHVo70oVO4mhP
+#EXTINF:0 tvg-id="ext" group-title="US Channels",YES NETWORK USA HD
+http://23.237.160.86:7283/YES-NETWORK-USA-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4ehsYovYCKXyrEvBTmus2IHlUCD
+
+#EXTINF:0 tvg-id="ext" group-title="Música",BANDAMAX HD
+http://23.237.160.86:7283/BANDAMAX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Go7Fqh6egdW1kCAEUlnnYjoJo3K
+#EXTINF:0 tvg-id="ext" group-title="Música",CONCERT CHANNELS HD
+http://23.237.160.86:7283/CONCERT-CHANNELS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZY1iZiLIzi2SPuumZgyPqHQGS8N
+#EXTINF:0 tvg-id="ext" group-title="Música",HTV LATINO HD
+http://23.237.160.86:7283/HTV-LATINO-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OTMcaExtZJcbV7FLsric3HURTEC
+#EXTINF:0 tvg-id="ext" group-title="Música",LA KALLE HD
+http://23.237.160.86:7283/LA-KALLE-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=EbPQxj1PYQtjLreNtQLNCBc2JGR
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Música",MTV HD
+http://23.237.160.86:7283/HY-802/index.m3u8?un=magistv2021t&tm=1620583482&sn=BL0TlRy6W2EFT2Wi6WQdDXpRSeS
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Música",MTV live HD
+http://23.237.160.86:7283/HY-803/index.m3u8?un=magistv2021t&tm=1620583482&sn=9RdYbIMO8vLJJo7IXoN9LXDGDzS
+#EXTINF:0 tvg-id="ext" group-title="Música",RETRO TV HD
+http://23.237.160.86:7283/RETRO-TV-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KqUtcJiRKGjdfgYVCacd0FWnxV2
+#EXTINF:0 tvg-id="TelehitHD.mx" group-title="Música",Telehit HD
+http://23.237.160.86:7283/HY-945/index.m3u8?un=magistv2021t&tm=1620583482&sn=CqGPtBena8IN6vxJS8y48gPpxzg
+#EXTINF:0 tvg-id="ext" group-title="Música",TELEHIT PLUS HD
+http://23.237.160.86:7283/TELEHIT-PLUS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4hwSMIbhtP5xKbUIV6KSXJRRzBU
+#EXTINF:0 tvg-id="ext" group-title="Música",TROPICAL HD
+http://23.237.160.86:7283/TROPICAL-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FRe2eK6ZM8WuFXeIbRn4qRj249Q
+#EXTINF:0 tvg-id="ext" group-title="Música",VH1 CLASSICS HD
+http://23.237.160.86:7283/VH1-CLASSICS-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=942hqX7eTO6Jt7efuZqeR5StEL6
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Música",VH1 HD
+http://23.237.160.86:7283/VH1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=MUcgsm1fh4bRSwmG1t6y3uKBSJO
+#EXTINF:0 tvg-id="VH1Megahits.ar" group-title="Música",VH1 MegaHits SD
+http://23.237.160.86:7283/VH1-MegaHits-SD/index.m3u8?un=magistv2021t&tm=1620583482&sn=8SWELqm97A2vigvsa6KrpiA6YyW
+
+#EXTINF:0 tvg-id="HBOWestHD.us" group-title="CINE PREMIUM ESPAÑOL",HBO WEST HD
+http://23.237.160.86:7283/HBO-WEST-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=PKp9kxIdACBDVlsQR8qd2CGUioM
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",INDIEXPLEX SP.HD
+http://23.237.160.86:7283/INDIEXPLEX-SP-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=InO3xS5c1Mpdzd4wi1eRtEvAGAk
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",MOVIEMAX HD
+http://23.237.160.86:7283/MOVIEMAX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=6doXaL4N8hU1q0wumA6Mhm0NAyi
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",MOVIEPLEX HD
+http://23.237.160.86:7283/MOVIEPLEX-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9TuqwXjCWRQxqVSNtwlVRwPv31U
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 1 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-1-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=9vfnFQWFmFAOWv845RatLuRz5og
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 10 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-10-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=B3Yy7Uf7W2pLRIZRhnyVWeYRLuj
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 2 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-2-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=OhSW9HAlfPpPjywRTeNU5EkqKYJ
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 3 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-3-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=W5fNvJ3ubxhCBMYmybY6WTsSDds
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 4 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-4-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=GVubjeoiIwVFmZos2ByG2Gi16YG
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 5 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-5-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Ab1DhwHfPKPnu2kYSuM4fP39kY5
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 6 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-6-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LVVNL14FflLZuH465QGxAOiBwt5
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 7 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-7-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=4CoAaVRk2mqXdwXaOjfalSnLeKp
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 8 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-8-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=LsAjYkdXtxi8WAQzXCY4kAolcgT
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",PPV CINEMA LATINO 9 HD
+http://23.237.160.86:7283/PPV-CINEMA-LATINO-9-HD/index.m3u8?un=magistv2021t&tm=1620583482&sn=SwzvWZmy8WTYp98YUpUMw9d66me
+#EXTINF:0 tvg-id="StarzEast.us" group-title="CINE PREMIUM ESPAÑOL",Starz East FHD
+http://23.237.160.86:7283/Starz-East-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=Dsvj70eyzm5OIlikcCtWgybBcwB
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="CINE PREMIUM ESPAÑOL",Starz EDGE FHD
+http://23.237.160.86:7283/Starz-EDGE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=KEDhhmBgkg6XNmo6KUFcqeu8INn
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Black FHD
+http://23.237.160.86:7283/STARZ-ENCORE-BLACK-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=64LtTX2p4HgYq6ApZwCDlpmOeUa
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Comedy FHD
+http://23.237.160.86:7283/STARZ-ENCORE-COMEDY-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=VjAIUDfFbeKKzTdse1NNk0fz0na
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Family FHD
+http://23.237.160.86:7283/Starz-Encore-Family-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=FWkLORFpAVHrOvHB3a6Mzjdv7cA
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="CINE PREMIUM ESPAÑOL",Starz Encore FHD
+http://23.237.160.86:7283/Starz-Encore-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=XEMnS2merAPqAOzxXIplP0diJGG
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore Kids&Family FHD
+http://23.237.160.86:7283/Starz-Encore-Kids-Family-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=HyV6I9lGFFC5RmJlRJgXxFQgiRd
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Encore SUSPENSE FHD
+http://23.237.160.86:7283/Starz-Encore-SUSPENSE-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=ZW8O7ZdzFso6K8uIB5ufvXCUdii
+#EXTINF:0 tvg-id="StarzEast.us" group-title="CINE PREMIUM ESPAÑOL",Starz FHD
+http://23.237.160.86:7283/Starz-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WOHjvUeNMTWIm6JmNpF47Npeep2
+#EXTINF:0 tvg-id="ext" group-title="CINE PREMIUM ESPAÑOL",Starz Western FHD
+http://23.237.160.86:7283/Starz-Western-FHD/index.m3u8?un=magistv2021t&tm=1620583482&sn=WvGJhrK0bN5mnwktSSlfZPZFYp3
+
