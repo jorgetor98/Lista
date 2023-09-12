@@ -8,7 +8,7 @@ https://stream.zeno.fm/wkt8ga8yss8uv
 #EXTINF:-1 tvg-name="Radio Loja", Radio Loja
 https://radio.streamseguro.com/proxy/radioloja/stream
 #EXTINF:-1 tvg-name="Radio Ambato", Radio Ambato
-http://198.204.234.10:8375/stream?type=.mp3
+http://usamedios.enhd.co:8762/;
 #EXTINF:-1 tvg-name="Radio La Picosa", La Picosa
 https://radiohdstreaming.com/radio/8000/picosa
 #EXTINF:-1 tvg-name="La Tuka", Radio La Tuka
