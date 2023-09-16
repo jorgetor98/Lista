@@ -17,3 +17,13 @@ http://grupomundodigital.com:8673/live
 https://dattavolt.com/8150/stream
 #EXTINF:-1 tvg-name="La Karibeña Perú", Radio La Karibeña Perú
 https://cpliv3.onliv3.com/stream/karibena
+#EXTINF:-1 tvg-name="Cumbia Peru", Radio La Karibeña Perú
+https://tupanel.info:8270/stream/1/
+#EXTINF:-1 tvg-name="Radio Moda Peru", Radio La Karibeña Perú
+https://18243.live.streamtheworld.com:443/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 tvg-name="Panamericana", Radio La Karibeña Perú
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 tvg-name="Onda Cero Perú", Radio La Karibeña Perú
+https://streaming.gometri.com/stream/8011/stream/1/
+#EXTINF:-1 tvg-name="Oasis Perú", Radio La Karibeña Perú
+https://14223.live.streamtheworld.com:443/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
