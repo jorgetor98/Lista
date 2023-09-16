@@ -3,8 +3,6 @@
 https://streamingecuador.com:9280/stream
 #EXTINF:-1 tvg-name="La Otra Fm Guayaquil", La Otra FM GYE
 https://laotrafm.makrodigital.com:9590/stream
-#EXTINF:-1 tvg-name="Radio Zaracay", Radio Zaracay
-https://stream.zeno.fm/wkt8ga8yss8uv
 #EXTINF:-1 tvg-name="Radio Loja", Radio Loja
 https://radio.streamseguro.com/proxy/radioloja/stream
 #EXTINF:-1 tvg-name="Radio Ambato", Radio Ambato
@@ -17,13 +15,13 @@ http://grupomundodigital.com:8673/live
 https://dattavolt.com/8150/stream
 #EXTINF:-1 tvg-name="La Karibeña Perú", Radio La Karibeña Perú
 https://cpliv3.onliv3.com/stream/karibena
-#EXTINF:-1 tvg-name="Cumbia Peru", Radio La Karibeña Perú
+#EXTINF:-1 tvg-name="Cumbia Peru", Radio Perú Cumbia
 https://tupanel.info:8270/stream/1/
-#EXTINF:-1 tvg-name="Radio Moda Peru", Radio La Karibeña Perú
+#EXTINF:-1 tvg-name="Radio Moda Perú", Radio Moda Perú
 https://18243.live.streamtheworld.com:443/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
-#EXTINF:-1 tvg-name="Panamericana", Radio La Karibeña Perú
+#EXTINF:-1 tvg-name="Panamericana", Radio Panamericana
 https://streaming.gometri.com/stream/8000/stream
-#EXTINF:-1 tvg-name="Onda Cero Perú", Radio La Karibeña Perú
+#EXTINF:-1 tvg-name="Onda Cero Perú", Onda Cero Perú
 https://streaming.gometri.com/stream/8011/stream/1/
-#EXTINF:-1 tvg-name="Oasis Perú", Radio La Karibeña Perú
+#EXTINF:-1 tvg-name="Oasis Perú", Oasis Perú
 https://14223.live.streamtheworld.com:443/CRP_OAS_SC?csegid=20001&dist=20001&ttag=20001
