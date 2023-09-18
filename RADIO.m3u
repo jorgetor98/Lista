@@ -18,7 +18,7 @@ https://cpliv3.onliv3.com/stream/karibena
 #EXTINF:-1 tvg-name="Cumbia Peru", Radio Perú Cumbia
 https://tupanel.info:8270/stream/1/
 #EXTINF:-1 tvg-name="Radio Moda Perú", Radio Moda Perú
-https://18243.live.streamtheworld.com:443/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MODAAC.aac
 #EXTINF:-1 tvg-name="Panamericana", Radio Panamericana
 https://streaming.gometri.com/stream/8000/stream
 #EXTINF:-1 tvg-name="Onda Cero Perú", Onda Cero Perú
