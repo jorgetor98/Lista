@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Canela Radio Guayaquil", Canela Radio GYE
-tvg-logo=»https://cdn.webrad.io/images/logos/radios-com-ec/canela.png»
+#EXTINF:-1 tvg-name="Canela Radio Guayaquil", Canela Radio GYE» tvg-logo=»https://cdn.webrad.io/images/logos/radios-com-ec/canela.png»
 https://streamingecuador.com:9280/stream
 #EXTINF:-1 tvg-name="La Otra Fm Guayaquil", La Otra FM GYE
 https://laotrafm.makrodigital.com:9590/stream
